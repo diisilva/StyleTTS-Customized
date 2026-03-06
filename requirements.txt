@@ -1,0 +1,30 @@
+# StyleTTS - Dependências
+# Instale com: pip install -r requirements.txt
+# Para instalar o monotonic_align (requer compilador C/C++):
+# pip install git+https://github.com/resemble-ai/monotonic_align.git
+
+# Deep learning
+torch>=1.9.0
+torchaudio>=0.9.0
+tensorboard>=2.5.0
+
+# Áudio
+librosa>=0.8.0
+SoundFile>=0.10.3
+
+# Utilitários
+numpy>=1.20.0
+pandas>=1.2.0
+matplotlib>=3.4.0
+PyYAML>=5.4.0
+munch>=2.5.0
+click>=7.1.0
+pydub>=0.25.0
+
+# Alinhamento monotônico (instalação via git, requer compilador C)
+# monotonic_align  ->  instalar manualmente:
+# pip install git+https://github.com/resemble-ai/monotonic_align.git
+
+# Inferência (opcional, usado nos notebooks)
+# phonemizer>=3.0.0  ->  instalar separadamente se necessário:
+# pip install phonemizer
