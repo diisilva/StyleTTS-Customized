@@ -1,18 +1,18 @@
 log_dir: "Models/LJSpeech"
 first_stage_path: "first_stage.pth"
-save_freq: 2
+save_freq: 1 # para datset inteiro troque para 2
 log_interval: 10
-device: "cpu"
+device: "cuda"  # use 'cuda' for GPU, 'cpu' for CPU — can be overridden with --device at runtime
 multigpu: false
-epochs_1st: 200 # number of epochs for first stage training
-epochs_2nd: 100 # number of peochs for second stage training
-batch_size: 32
+epochs_1st: 5  # para datset inteiro troque para 200 number of epochs for first stage training
+epochs_2nd: 3  # para datset inteiro troque para 100 number of peochs for second stage training
+batch_size: 16 
 pretrained_model: ""
 second_stage_load_pretrained: false # set to true if the pre-trained model is for 2nd stage
 load_only_params: false # set to true if do not want to load epoch numbers and optimizer parameters
 
-train_data: "Data/train_list.txt"
-val_data: "Data/val_list.txt"
+train_data: "Data/train_list_mini.txt"
+val_data: "Data/val_list_mini.txt"
 
 F0_path: "Utils/JDC/bst.t7"
 ASR_config: "Utils/ASR/config.yml"

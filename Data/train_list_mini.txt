@@ -1,0 +1,1000 @@
+LJSpeech-1.1/wavs/LJ050-0234.wav|ɪt hɐz jˈuːzd ˈʌðɚ tɹˈɛʒɚɹi lˈɔː ɛnfˈoːɹsmənt ˈeɪdʒənts ˌɔn spˈɛʃəl ɛkspˈɛɹɪmənts ɪn bˈɪldɪŋ ænd ɹˈaʊt sˈɜːveɪz ɪn plˈeɪsᵻz tʊ wˌɪtʃ ðə pɹˈɛzɪdənt fɹˈiːkwəntli tɹˈævəlz .|0
+LJSpeech-1.1/wavs/LJ019-0373.wav|tʊ ɐvˈeɪl hɪmsˈɛlf ʌv hɪz pˈaʊɚz , æz ɪt wʌz dˈɪfɪkəlt tə bɹˈɪŋ hˈoʊm ðə dˌɛɹɪlˈɪkʃənz ʌv dˈuːɾiz ænd ɪvˈeɪʒən ʌvðɪ ˈækts . tˈuː mʌtʃ wʌz lˈɛft tə ðɪ ɪnspˈɛktɚz .|0
+LJSpeech-1.1/wavs/LJ050-0207.wav|ɔːlðˈoʊ tʃˈiːf ɹˈoʊli dʌznˌɑːt kəmplˈeɪn ɐbˌaʊt ðə pˈeɪ skˈeɪl fɔːɹ sˈiːkɹᵻt sˈɜːvɪs ˈeɪdʒənts ,|0
+LJSpeech-1.1/wavs/LJ048-0203.wav|ðə θɹˈiː ˈɑːfɪsɚz kənfˈɜːm ðæt ðɛɹ pɹˈaɪmɚɹi kənsˈɜːn wʌz kɹˈaʊd ænd tɹˈæfɪk kəntɹˈoʊl ,|0
+LJSpeech-1.1/wavs/LJ003-0182.wav|ðə tɹˈaɪd ænd ðɪ ʌntɹˈaɪd , jˈʌŋ ænd ˈoʊld , wɜː hˈɜːdᵻd təɡˈɛðɚ|0
+LJSpeech-1.1/wavs/LJ044-0166.wav|ɐkˈoːɹdɪŋ tə mɚɹˈiːnə ˈɑːswəld , hiː θˈɔːt ðæt wʊd hˈɛlp hˌɪm wɛn hiː ɡɑːt tə kjˈuːbə .|0
+LJSpeech-1.1/wavs/LJ019-0208.wav|ðə pɹəpˈoʊzəl mˌeɪd wʌz tə pˈɜːtʃɪs sˌʌm fˈɪfti θˈaʊzənd skwˈɛɹ fˈiːt bᵻtwˌiːn nˈuːɡeɪt , wˈɔːɹɪk lˈeɪn , ænd ðə sˈɛʃənz hˈaʊs ,|0
+LJSpeech-1.1/wavs/LJ021-0146.wav|aɪʃˌɐl sˈiːk əʃˈʊɹɹənsᵻz ʌvðə mˌeɪkɪŋ ænd mˈeɪntənəns ʌv ɐɡɹˈiːmənts , wˌɪtʃ kæn biː mjˈuːtʃuːəli ɹᵻlˈaɪd əpˌɑːn ,|0
+LJSpeech-1.1/wavs/LJ013-0214.wav|hˌuː tˈʊk ɐ kˈɑːɹvɪŋ nˈaɪf fɹʌmðə sˈaɪdboːɹd ɪnðə dˈaɪnɪŋ ɹˈuːm , wɛnt ʌpstˈɛɹz tə lˈɔːɹd wˈɪljəmz bˈɛdɹuːm , ænd dɹˈuː ðə nˈaɪf əkɹˌɑːs hɪz θɹˈoʊt .|0
+LJSpeech-1.1/wavs/LJ011-0256.wav|baɪ ðɪs tˈaɪm ðə nˈeɪbɚz wɜːɹ ɚɹˈaʊzd , ænd sˈɛvɹəl pˈiːpəl kˈeɪm tə ðə sˈiːn ʌvðɪ ɐfɹˈeɪ .|0
+LJSpeech-1.1/wavs/LJ014-0083.wav|wˈɪtʃ , hˌævɪŋ pəzˈɛst hɜːsˈɛlf ʌvðə mˈɜːdɚd mˈænz kˈiːz , ʃiː ɹˈaɪfəld fɹʌm ˈɛnd tʊ ˈɛnd .|0
+LJSpeech-1.1/wavs/LJ035-0121.wav|ðɪs ɪz ðə pˈiəɹɪəd dˈʊɹɹɪŋ wˌɪtʃ ˈɑːswəld wʊdhɐv dᵻsˈɛndᵻd ðə stˈɛɹz . ɪn ˈɔːl lˈaɪklihˌʊd|0
+LJSpeech-1.1/wavs/LJ049-0118.wav|ɛnˈæktmənt ʌv ðɪs stˈætʃuːt wʊd mˈiːn ðætðɪ ɪnvˌɛstɪɡˈeɪʃən ʌv ˌɛni ʌvðɪ ˈækts kˈʌvɚd ænd ʌvðə pˌɑːsəbˈɪlɪɾi əvə fˈɜːðɚɹ ɐtˈɛmpt|0
+LJSpeech-1.1/wavs/LJ006-0132.wav|ˈɔːl ðə wˈɔːɹdzmɛn ɐlˈaɪk wɜː mˈoːɹ ɔːɹ lˈɛs ɪɹᵻspˈɑːnsᵻbəl .|0
+LJSpeech-1.1/wavs/LJ049-0084.wav|mˈɜːdɚɹ ʌvðə pɹˈɛzɪdənt hɐz nˈɛvɚ bˌɪŋ kˈʌvɚd baɪ fˈɛdɚɹəl lˈɔː , haʊˈɛvɚ , sˌoʊ ðæt wˈʌns ɪt bɪkˌeɪm ɹˈiːzənəbli klˈɪɹ ðætðə kˈɪlɪŋ wʌzðɪ ˈækt əvə sˈɪŋɡəl pˈɜːsən ,|0
+LJSpeech-1.1/wavs/LJ012-0052.wav|hiː klˈeɪmd təbi ɐdmˈɪɾᵻd tə bˈeɪl , ænd wʌz tˈeɪkən fɹʌm nˈuːɡeɪt ˌɔn ɐ ɹˈɪt ʌv hˈeɪbiəz bᵻfˌoːɹ wˈʌn ʌvðə dʒˈʌdʒᵻz sˈɪɾɪŋ æt wˈɛstmɪnstɚ .|0
+LJSpeech-1.1/wavs/LJ011-0203.wav|məsjˈɜː lə mˈɛɹ wʌz ɐpˈiːld tuː , ænd dᵻsˈaɪdᵻd tə lˈiːv ɪt tə ðə jˈʌŋ lˈeɪdi , hˌuː ɐtwˈʌns ɐbˈændənd wˈeɪkfiːld .|0
+LJSpeech-1.1/wavs/LJ019-0141.wav|ðɪ ˈoʊld wˈɔːɹdz , dˈeɪ ɹˈuːmz ænd slˈiːpɪŋ ɹˈuːmz kəmbˈaɪnd , ʌvwˈɪtʃ ðə ɹˈiːdɚ hɐz ɔːlɹˌɛdi hˈɜːd sˈoʊ mˌʌtʃ ,|0
+LJSpeech-1.1/wavs/LJ003-0322.wav|ɛksˈɛpt fɚðə jˈuːs ʌvðə dˈɛɾɚz , ɔːɹ æz mˈɛdɪkəl kˈʌmfɚts fɚðɪ ɪnfˈɜːmɚɹi .|0
+LJSpeech-1.1/wavs/LJ027-0028.wav|sˈʌtʃ stɹˈʌktʃɚz ɔːɹ ˈɔːɹɡənz ɑːɹ mˈoʊst ˈɔfən fˈaʊnd ɪntˈɜːnəli .|0
+LJSpeech-1.1/wavs/LJ047-0068.wav|ænd hɪz ɹˌɛkəmɛndˈeɪʃən wʌz ɐksˈɛptᵻd . hiː dᵻsˈaɪdᵻd , haʊˈɛvɚ , nˌɑːt tʊ ˈɪntɚvjˌuː mɚɹˈiːnə ˈɑːswəld æt ðæt tˈaɪm , ænd mˈɪɹli dɪtˈɜːmɪnd|0
+LJSpeech-1.1/wavs/LJ036-0053.wav|ˈɛnd kwˈoʊt . æz mˈɪsɪz . blˈɛdsoʊ sˈɛd ðiːz wˈɜːdz , ʃiː pˈɔɪntᵻd tə hɜː ɹˈaɪt ˈɛlboʊ .|0
+LJSpeech-1.1/wavs/LJ007-0046.wav|lˈæfɪŋ ænd ʌpɹˈoːɹiəs , ˈʌɾɚli ʌnmˈaɪndfəl ʌvðə kəmpˈæniənʃˌɪp ʌv mˈɛn əpˌɑːn hˈuːm lˈeɪ ðə ʃˈædoʊ əvən ɪmpˈɛndɪŋ ʃˈeɪmfəl dˈɛθ .|0
+LJSpeech-1.1/wavs/LJ033-0149.wav|ðɪ ˌɛfbˌiːˈaɪ lˈæbɹətˌɔːɹi dɪvˈɛləpt ɐ lˈeɪtənt pˈɑːmpɹɪnt ænd lˈeɪtənt fˈɪŋɡɚpɹˌɪnt ɔnðə bˈæɡ .|0
+LJSpeech-1.1/wavs/LJ018-0334.wav|wˈɛbstɚ , ɪt mˈeɪ biː mˈɛnʃənd hˈɪɹ , wʌz wˈʌn ʌvðə wˈɜːst pɹˈɪzənɚz ˈɛvɚ ɹᵻmˈɛmbɚd ɪn nˈuːɡeɪt|0
+LJSpeech-1.1/wavs/LJ043-0073.wav|ˌɔn ɑːktˈoʊbɚ nˈaɪn , nˈaɪntiːn sˈɪksti tˈuː hiː wɛnt tə ðə dˈæləs ˈɑːfɪs ʌvðə tˈɛksəs ɛmplˈɔɪmənt kəmˈɪʃən|0
+LJSpeech-1.1/wavs/LJ028-0169.wav|ɐ skwˈɛɹ ɛŋklˈoʊʒɚ tˈuː fˈɜːlɔŋz ˈiːtʃ wˈeɪ , wɪð ɡˈeɪts ʌv sˈɑːlɪd bɹˈæs ; wˌɪtʃ wʌz ˈɔːlsoʊ ɹᵻmˈeɪnɪŋ ɪn maɪ tˈaɪm .|0
+LJSpeech-1.1/wavs/LJ032-0052.wav|ɐkˈoːɹdɪŋ tə klˈaɪnz ʃˈɪpɪŋ ˈɔːɹdɚ fˈɔːɹm , wˈʌn ɪtˈæliəŋ kˈɑːɹbaɪn sˈɪks pˈɔɪnt fˈaɪv ˈɛks fˈoːɹ ˈɛks skˈoʊp ,|0
+LJSpeech-1.1/wavs/LJ015-0030.wav|ðə bˈæŋk hɐdbɪŋ kəndˈʌktᵻd ˌɔn fˈɔls pɹˈɪnsɪpəlz ;|0
+LJSpeech-1.1/wavs/LJ006-0115.wav|ðɛɹ ɚɹˈɪdʒɪnəl kˈæpɪɾəl hɐdbɪn ɐ fjˈuː ʃˈɪlɪŋz , ænd fɔːɹ ðɪs ðeɪ pˈɜːtʃɪst ðə ɹˈaɪt tə tˈæks ðɛɹ fˈɛloʊz tə ðɪ ɛkstˈɛnt ʌv pˈaʊndz pɜː wˈiːk .|0
+LJSpeech-1.1/wavs/LJ039-0237.wav|ðə kəmˈɪʃən ɐɡɹˈiːz wɪððə tˈɛstᵻməni ʌv mɚɹˈiːn mˈɑːɹksmənʃˌɪp ˈɛkspɜːt zˈɑːm|0
+LJSpeech-1.1/wavs/LJ027-0081.wav|ɛɡzˈɪbɪt ɐ ɹᵻmˈɑːɹkəbəl sˈɪɹiz ʌv həmˈɑːlədʒiz pˈɔɪntɪŋ tʊ ɐ fˈaɪv tˈoʊd ˈænsɛstɚ ,|0
+LJSpeech-1.1/wavs/LJ031-0045.wav|dˈɑːktɚ . kˈæɹɪkˌoʊ nˈoʊɾᵻd tˈuː wˈuːndz : ɐ smˈɔːl bˈʊlɪt wˈuːnd ɪnðə fɹˈʌnt lˈoʊɚ nˈɛk ,|0
+LJSpeech-1.1/wavs/LJ019-0393.wav|θɹˈiː jˈɪɹz ˈæftɚ ðɪ ˈædvɛnt ʌvðə pɹˈɪzəŋ kəmˈɪʃənɚz , ɪt wʌz dᵻsˈaɪdᵻd ðæt nˈuːɡeɪt wʌz ɐn ɛksˈɛsɪvli kˈɔstli ænd ɹᵻdˈʌndənt ɪstˈæblɪʃmənt .|0
+LJSpeech-1.1/wavs/LJ040-0209.wav|wˈɛl aɪv ɡɑːt tə lˈɪv wɪð hɜː . aɪ ɡˈɛs aɪ lˈʌv hɜː , ˈɛnd kwˈoʊt .|0
+LJSpeech-1.1/wavs/LJ004-0222.wav|mˈiːt wʌz nˌoʊ lˈɑːŋɡɚɹ ˈɪʃuːd ɹˈɔː , təbi ɪmpˈɜːfɛktli kˈʊkt bᵻfˌoːɹ ɐ wˈɔːɹd fˈaɪɚ ænd bˈoʊltᵻd ɡlˈʌʔn̩əsli , ðə hˈoʊl tˈuː pˈaʊndz æt wˈʌn sˈɪɾɪŋ .|0
+LJSpeech-1.1/wavs/LJ009-0139.wav|ɪn spˈaɪt ʌvðə θɹˈɔŋ , ˈoʊɪŋ tə ðɪ ˈɛksələnt ɚɹˈeɪndʒmənts mˌeɪd baɪ ðə ʃˈɛɹɪfs ,|0
+LJSpeech-1.1/wavs/LJ020-0087.wav|wˈʌn wˈɜːd wɪð ɹᵻɡˈɑːɹd tə ɡˌɛɾɪŋ ˌʌp ˈɜːli ɪn ˈɔːɹdɚ tə ɡˈɪv dˈoʊ ɐ tʃˈæns fɚðə sˈɛkənd ɹˈaɪzɪŋ .|0
+LJSpeech-1.1/wavs/LJ008-0175.wav|ðɪs wɛnt ˌɔn fɔːɹ mˈoːɹ ðˌænən ˈaʊɚ , ænd ʌntˈɪl ðə mˈælɪfˌæktɚz wɜː kˈʌt dˌaʊn ænd ðə ɡˈæloʊz ɹᵻmˈuːvd ;|0
+LJSpeech-1.1/wavs/LJ025-0058.wav|bˌʌt ðə fˈækt , ɪmpˈoːɹtənt æz ɪt wˈʌz , fˈɛl ˌɪntʊ əblˈɪviən ænd hædtə biː ɹˌiːdɪskˈʌvɚd baɪ tɹᵻvˈɜːɹænəs ɪn ˈeɪtiːn ˈoʊ sˈɛvən .|0
+LJSpeech-1.1/wavs/LJ022-0011.wav|wˌɛn wˈʌn ʌv ðiːz ʃˈɪps ɪz ˌʌndɚ kənstɹˈʌkʃən ænd ðə stˈiːl fɹˈeɪmz hɐvbɪn sˈɛt ɪnðə kˈiːl ,|0
+LJSpeech-1.1/wavs/LJ037-0219.wav|ˈɑːswəldz dʒˈækɪt|0
+LJSpeech-1.1/wavs/LJ008-0190.wav|wɜː blˈɑːkt baɪ pˈɜːsənz hˌuː hæd ˌoʊvɚflˈoʊd fɹʌmðɪ ˈɛɹiə ɪn fɹˈʌnt ʌvðə dʒˈeɪl .|0
+LJSpeech-1.1/wavs/LJ019-0357.wav|ðə sˈɛkɹətɹi ʌv stˈeɪt wʌz ɛmpˈaʊɚd tə dˈiːl ɹˈæðɚ sʌmˈɛɹᵻli wɪð dˈɑːlɚɹ ɪnˈædɪkwət dˈɑːlɚ pɹˈɪzənz , ɪn ˈʌðɚ wˈɜːdz ,|0
+LJSpeech-1.1/wavs/LJ043-0122.wav|hˌuː hæd pɹˈiːviəsli ˈɪntɚvjˌuːd ˈɑːswəld , sˈɔː hˌɪm ˌɔn tˈɛlᵻvˌɪʒən ænd hˈɜːd ɐ ɹˈeɪdɪˌoʊ dᵻbˈeɪt ɪnwˌɪtʃ hiː ɛŋɡˈeɪdʒd ˌɔn ˈɔːɡəst twˈɛnti wˌʌn , nˈaɪntiːn sˈɪksti θɹˈiː .|0
+LJSpeech-1.1/wavs/LJ013-0161.wav|ðə fˈɜːnɪtʃɚ tˈɜːnd ˈʌpsaɪd dˈaʊn , ðə dɹˈɔːɹz ʌvðɪ ˈɛskɹɪtwˌɑːɹ ˈoʊpən ænd ɹˈaɪfəld ,|0
+LJSpeech-1.1/wavs/LJ002-0319.wav|ˈɪʃuːd wˈʌns ɐ wˈiːk , ænd dᵻvˈaɪdᵻd æz fˈɑːɹ æz ɪt wʊd ɡˌoʊ ɐ vˈɛɹi pɹɪkˈɛɹiəs ænd ʌnsˈɜːʔn̩ ɹˈæʃən .|0
+LJSpeech-1.1/wavs/LJ001-0178.wav|ðə dˈuː ɹᵻlˈeɪʃən ʌv lˈɛɾɚ tə pˈɪktʃɚz ænd ˈʌðɚɹ ˈɔːɹnəmənt wʌz θˈʌɹoʊli ˌʌndɚstˈʊd baɪ ðɪ ˈoʊld pɹˈɪntɚz ; sˌoʊ ðˈæt|0
+LJSpeech-1.1/wavs/LJ015-0170.wav|ɹˈɛdpæθ wʌz kˈɔːld ɪn ænd ɪnfˈɔːɹmd ʌvðɪ ɪntˈɛndᵻd ɪnvˌɛstɪɡˈeɪʃən . hiː tɹˈaɪd tə stˈeɪv ˈɔf ðɪ ˈiːvəl ˈaʊɚ baɪ dᵻklˈɛɹɪŋ ðæt ˈɛvɹɪθˌɪŋ wʌz pˈɜːfɛktli ɹˈaɪt ;|0
+LJSpeech-1.1/wavs/LJ012-0224.wav|hˌuː ɛɡzˈæmɪnd bˈɪʃəp ænd hɪz fˈɛloʊz , ænd fˈɜːðɚɹ ɪŋkɹˈɪmᵻnˌeɪɾɪŋ ˈɛvɪdəns ɐdˈuːst , tə ðɪ ɪfˈɛkt ðætðə pɹˈɪzənɚz hæd bˈɑːɹɾɚd fɚɹə kˈoʊtʃ tə kˈæɹi dˈɑːlɚɹ ɐ stˈɪf ˈʌn dˈɑːlɚ ;|0
+LJSpeech-1.1/wavs/LJ047-0047.wav|ɐkˈoːɹdɪŋ tə fˈeɪnz kəntˌɛmpoːɹˈeɪniəs mˌɛmɚɹˈændəm ænd hɪz pɹˈɛzənt ɹˌɛkəlˈɛkʃən ,|0
+LJSpeech-1.1/wavs/LJ020-0052.wav|kˈʌt ðɪs ˌɪntʊ ɹˈaʊnd kˈeɪks wɪð ɐ bˈɪskɪt kˈʌɾɚ ɔːɹ ɐ ʃˈɑːɹp ˈɛdʒd tˈʌmblɚ ænd fˈoʊld , nˌɑːt kwˈaɪt ɪnðə mˈɪdəl ,|0
+LJSpeech-1.1/wavs/LJ013-0077.wav|bˈɑːɹbɚɹ ænd flˈɛtʃɚ wɜː bˈoʊθ tɹænspˈoːɹɾᵻd fɔːɹ lˈaɪf , ɔːlðˈoʊ flˈɛtʃɚ dᵻklˈɛɹd ðæt bˈɑːɹbɚ wʌz ˈɪnəsənt , ænd hæd nˈoʊ ɡˈɪlti nˈɑːlɪdʒ ʌv wʌt wʌz bˌiːɪŋ dˈʌn .|0
+LJSpeech-1.1/wavs/LJ048-0153.wav|wˌaɪl ɔnðɪ ˌoʊvɚpˈæs ˌoʊvɚlˈʊkɪŋ ðɪ ɐsˌæsᵻnˈeɪʃən sˈiːn ɹˈeɪlɹoʊd ænd jˈɑːɹd tˈɜːmɪnəl wˈɜːkmɛn wɜː pɚmˈɪɾᵻd tə ɹᵻmˈeɪn ˌʌndɚ pəlˈiːs suːpɚvˈɪʒən ,|0
+LJSpeech-1.1/wavs/LJ003-0028.wav|ænd nˈoʊ dˈaʊt mˌeɪd ðə mˈiːt ˈɔːlsoʊ pˈeɪ tˈoʊl .|0
+LJSpeech-1.1/wavs/LJ002-0277.wav|ðɛɹwˌɜː fˈɪftiːn ɹˈuːmz ʌv vˈɛɹiəs sˈaɪzᵻz , ænd æz ðə nˈʌmbɚz ɪmpɹˈɪzənd ɹˈɛɹli ɛksˈiːdᵻd fˈaɪv ænd twˈɛnti , ðə plˈeɪs wʌz nˈɛvɚɹ ˌoʊvɚkɹˈaʊdᵻd ,|0
+LJSpeech-1.1/wavs/LJ009-0050.wav|hiː hˈæz , haʊˈɛvɚ , dˈʌbli ˈɜːnd hɪz sˈɛntəns , ænd ɪz ˈæktʃuːəli kəndˈɛmd fɔːɹ bˈɜːɡlɚɹi kəmˈɪɾᵻd sˈɪns hɪz ɚɹˈaɪvəl ɪn ˈɪŋɡlənd .|0
+LJSpeech-1.1/wavs/LJ003-0084.wav|kwˈoʊt , ɐ kˈɑːmən sˈaɪzd mˈæn , sˈɛz ðə kˈiːpɚ , mˈɪstɚ . nˈuːmən , kæn tˈɜːn ɪn nˈaɪntiːn ˈɪntʃᵻz , ˈɛnd kwˈoʊt .|0
+LJSpeech-1.1/wavs/LJ018-0305.wav|ðə bˈɪlz wɜː sˈɛnt æz ɐ mˈæɾɚɹ ʌv fˈɔːɹm tə ðə dɹˈɔːɹ tə hæv ðə dˈeɪt ˈædᵻd , ænd ðə fˈɔːɹdʒɚɹi wʌz ɐtwˈʌns dɪtˈɛktᵻd .|0
+LJSpeech-1.1/wavs/LJ015-0118.wav|pˈeɪd hˌɪm ðə kˈɑːmplɪmənt ʌv dᵻskɹˈaɪbɪŋ hˌɪm æz dˈɑːlɚɹ ɐ jˈʌŋ mˈæn ʌv ɡɹˈeɪt ɪntˈɛlɪdʒəns , kənsˈɪdɚɹəbəl pˈaʊɚz ʌv mˈaɪnd ,|0
+LJSpeech-1.1/wavs/LJ034-0128.wav|bˌʌt ðə tˈɛstᵻməni ʌv ðiːz ɛmplˈɔɪiːz , təɡˌɛðɚ wɪð fˈoʊɾəɡɹˌæfz sˈʌbsᵻkwəntli tˈeɪkən ʌv ðˌɛm æt ðə sˈiːn ʌvðɪ ɐsˌæsᵻnˈeɪʃən ,|0
+LJSpeech-1.1/wavs/LJ035-0074.wav|ðə sˈɛkənd tˈɛst ɹˈʌn ɹᵻkwˈaɪɚd wˈʌn mˈɪnɪt ænd fˈɪftiːn sˈɛkəndz .|0
+LJSpeech-1.1/wavs/LJ028-0466.wav|ðɪs ˈɪnɚ pˈɑːɹt wʌz ɐbˌaʊt twˈɛnti fˈoːɹ fˈiːt wˈaɪd , ænd æɾ ˈɪntɚvəlz ʌv ɐbˌaʊt wˈʌn hˈʌndɹɪd ænd fˈɔːɹɾi fˈiːt ɪt wʌz sɚmˈaʊntᵻd wɪð tˈaʊɚz .|0
+LJSpeech-1.1/wavs/LJ048-0241.wav|ðiːz ˈeɪdʒənts wɜːɹ ˈiːtʃ ɹᵻlˈiːvd fɚɹə hˈæf ˈaʊɚ bɹˈeɪk dˈʊɹɹɪŋ ðə nˈaɪt .|0
+LJSpeech-1.1/wavs/LJ028-0184.wav|hiː ɛkstˈɛndᵻd hɪz ˈɛmpaɪɚ tə ðə mˌɛdɪɾɪɹˈeɪniən ænd ˈiːvən tʊ ˈiːdʒɪpt .|0
+LJSpeech-1.1/wavs/LJ030-0034.wav|ɐpɹˈɑːksɪmətli tˈɛn mˈɪnɪts ˈæftɚ ðɪ ɚɹˈaɪvəl æt lˈʌv fˈiːld , ðə pɹˈɛzɪdənt ænd mˈɪsɪz . kˈɛnədi wɛnt tə ðə pɹˌɛzɪdˈɛnʃəl ˈɔːɾəməbˌiəl tə bɪɡˈɪn ðə mˈoʊɾɚkˌeɪd .|0
+LJSpeech-1.1/wavs/LJ005-0222.wav|ænd æz ðə wˈɪndoʊ fɹˈeɪmz wʊd nˌɑːt ʃˈʌt tˈaɪt , ðə pɹˈɪzənɚz kəmplˈeɪnd mˈʌtʃ ʌvðə kˈoʊld , ɪspˈɛʃəli æt nˈaɪt .|0
+LJSpeech-1.1/wavs/LJ004-0067.wav|ɔːɹ tə mˌeɪk hˌɪm slˈiːp ɪŋ klˈoʊs kˈɑːntækt wɪððə vˈɪktɪmz ʌv kəntˈeɪdʒəs ænd lˈoʊθsʌm dɪzˈiːz ,|0
+LJSpeech-1.1/wavs/LJ010-0215.wav|ðɪs lˈɛɾɚ wɛnt ˌɔn tə sˈeɪ ðˌæɾə nˈuː mˈɛmbɚ hɐdbɪn ˌɪntɹədˈuːst baɪ ˌɛltˈiː . mˈɑːɹz , dˈɑːlɚɹ ɐ fˈaɪn , tˈɔːl , dʒˈɛntəlmənli jˈʌŋ mˈæn ,|0
+LJSpeech-1.1/wavs/LJ013-0096.wav|səspˈɪʃənz wɜːɹ ɚɹˈaʊzd wɛn ɪt wʌz fˈaʊnd ðæt hiː hɐdbɪn ɛmplˈɔɪd ɪn sˈɛlɪŋ stˈɑːk fɔːɹ mˈɪstɚ . ˈɑːksənfɚd , wˌɪtʃ dɪvˈɛləpt ˌɪntʊ sˈɜːtənti|0
+LJSpeech-1.1/wavs/LJ028-0397.wav|wˌɛn dʒˈuːliən sˈɔː ðˈɪs , hiː kˈɔːzd ɐ lˈɑːɹdʒ pˈɑːɹt ʌvðə wˈɔːl təbi ˌoʊvɚθɹˈoʊn , ænd æz ðə bˈiːsts ɛskˈeɪpt ðeɪ wɜː ʃˈɑːt dˌaʊn baɪ hɪz sˈoʊldʒɚz .|0
+LJSpeech-1.1/wavs/LJ046-0069.wav|aɪ θˈɪŋk hiː fˈɛlt vˈɛɹi stɹˈɔŋli ðætðə pɹˈɛzɪdənt ˈɔːt tə ɡɛt ˌaʊɾəv wˈɑːʃɪŋtən , ænd ɡˌoʊ mˈiːt ðə pˈiːpəl ˌɔn ɐ ɹˈɛɡjʊlɚ bˈeɪsɪs . ˈɛnd kwˈoʊt .|0
+LJSpeech-1.1/wavs/LJ022-0096.wav|ænd ʌv mˌeɪkɪŋ sˈɜːʔn̩ ðæt pˈiːpəl hˌuː ɑːɹ ɛmplˈɔɪd wɪl biː tˈeɪkən fɹʌmðə ɹᵻlˈiːf ɹˈoʊlz .|0
+LJSpeech-1.1/wavs/LJ041-0151.wav|ɐn ˈoʊld lˈeɪdi hˈændᵻd mˌiː ɐ pˈæmflɪt ɐbˌaʊt sˈeɪvɪŋ ðə ɹˈoʊzənbˌɜːɡz . aɪ lˈʊkt æt ðæt pˈeɪpɚ ænd aɪ stˈɪl ɹᵻmˈɛmbɚɹ ɪt fɔːɹ sˌʌm ɹˈiːzən , aɪ dˈoʊnt nˈoʊ wˈaɪ . ˈɛnd kwˈoʊt .|0
+LJSpeech-1.1/wavs/LJ030-0109.wav|ðə vˈaɪs pɹˌɛzɪdˈɛnʃəl kˈɑːɹ|0
+LJSpeech-1.1/wavs/LJ014-0064.wav|hiː lˈɪvd æt mˈaɪl ˈɛnd , wˈɛns hiː wˈɔːkt ˈɔfən tə kˈɔːl æt θɹˈiː , mˈɪnvɚ plˈeɪs , bˈɜːmɑːndsi , ðə ɹˈɛzᵻdəns ʌv hɪz ˈoʊld lˈʌv .|0
+LJSpeech-1.1/wavs/LJ015-0273.wav|bˌʌt sˈæwɚdz ˌɑːpɚɹˈeɪʃənz wɜː mˈeɪnli dᵻɹˈɛktᵻd tə ðə fˌæbɹɪkˈeɪʃən ænd ˈʌɾɚɹɪŋ ʌv fˈɔːɹdʒd tʃˈɛks .|0
+LJSpeech-1.1/wavs/LJ046-0012.wav|ðɛɹ hɐvbɪn ɐtˈɛmpts ɔnðə lˈaɪvz ʌv wˈʌn ˌaʊɾəv ˈɛvɹi θɹˈiː .|0
+LJSpeech-1.1/wavs/LJ009-0100.wav|stɹˈʌɡəlz vˈaɪələntli ; hɪz fˈiːt , lˈɛɡz , hˈændz , ænd ˈɑːɹmz , ˈiːvən ðə mˈʌsəlz ʌv hɪz bˈæk ,|0
+LJSpeech-1.1/wavs/LJ050-0181.wav|ðə kəmˈɪʃən ɹᵻɡˈɑːɹdz ðɪs æz ɐ mˈoʊst jˈuːsfəl ˌɪnəvˈeɪʃən ænd ˈɜːdʒᵻz ðætðə pɹˈæktɪs biː kəntˈɪnjuːd .|0
+LJSpeech-1.1/wavs/LJ002-0264.wav|lˈɛɡəsiz hæd ˈɔːlsoʊ bˌɪn lˈɛft tə fɹˈiː ɐ sˈɜːʔn̩ nˈʌmbɚɹ ʌv dˈɛɾɚz , nˈoʊɾəbli ðæt ʌv wˈʌn hˈʌndɹɪd pˈaʊndz pɜːɹ ˈænəm|0
+LJSpeech-1.1/wavs/LJ009-0118.wav|kʊd hˈɑːɹdli wˈɪtnəs ðɪs sˈɛɹᵻməni wɪðˌaʊt bˌiːɪŋ ɐfˈɛktᵻd . ðə mˈɛn , hˌuː wɜː sˌoʊ lˈeɪtli snˈætʃt fɹʌmðə dʒˈɔːz ʌv dˈɛθ ,|0
+LJSpeech-1.1/wavs/LJ025-0154.wav|ænd wˌɪtʃ sˈɜːʔn̩li hˈoʊld ɡˈʊd fɚðə vˈæst mədʒˈɔːɹᵻɾi ʌv ˈænɪməlz ænd plˈænts , ɑːɹ ʌv jˌuːnɪvˈɜːsəl ˌæplɪkˈeɪʃən .|0
+LJSpeech-1.1/wavs/LJ006-0077.wav|ðə fˈækt wʌz , hiː dɪdnˌɑːt kˈiːp ðə klˌæsɪfɪkˈeɪʃən ʌv pɹˈɪzənɚz ˌɔn fˈɜːst ɚɹˈaɪvəl ɪn hɪz ˈoʊn hˈændz , nˈɔːɹ ˈiːvən ɪn ðæt ʌv hɪz ˈɑːfɪsɚz .|0
+LJSpeech-1.1/wavs/LJ049-0167.wav|ɪnðə fˈiːld ʌv pɹɪvˈɛntɪv ɪnvˌɛstɪɡˈeɪʃən ɪn ɹᵻɡˈɑːɹd tə ðə pɹˈɛzɪdənts sᵻkjˈʊɹɹɪɾi .|0
+LJSpeech-1.1/wavs/LJ009-0012.wav|ðɪs wʌz nˈoʊɾɪsəbəl wɪð fˈɔːntəlɹˌɔɪ , hˈuː , ˌɔn ɐkˈaʊnt ʌv hɪz bˈɜːθ ænd ˌæntɪsˈiːdənts , wʌz ɐlˈaʊd tʊ ˈɑːkjʊpˌaɪ ɐ tˈɜːŋkiːz ɹˈuːm ,|0
+LJSpeech-1.1/wavs/LJ035-0200.wav|fɹˈɪts bᵻlˈiːvd ðæt hiː lˈɜːnd ʌv ˈɑːswəldz ˈæbsəns ˈæftɚ ðə ɹˈaɪfəl wʌz fˈaʊnd .|0
+LJSpeech-1.1/wavs/LJ027-0059.wav|ðˈiːz , ðˈɛɹfoːɹ , mˈeɪ wˈɛl biː kˈɔːld bˈækbənd ˈænɪməlz .|0
+LJSpeech-1.1/wavs/LJ016-0022.wav|ɐ hˈæɹoʊɪŋ sˈiːn fˈɑːloʊd ;|0
+LJSpeech-1.1/wavs/LJ040-0055.wav|ðə dɪskˈʌʃən bᵻlˌoʊ wɪl dᵻskɹˈaɪb ðɪ ᵻvˈɛnts nˈoʊn tə ðə kəmˈɪʃən wˌɪtʃ mˈoʊst klˈɪɹli ɹᵻvˈiːlz ðə fɔːɹmˈeɪʃən ænd nˈeɪtʃɚɹ ʌv ˈɑːswəldz kˈæɹɪktɚ .|0
+LJSpeech-1.1/wavs/LJ019-0178.wav|ænd ɐbˈændənd bɪkˈʌz ʌvðɪ ɛkspˈɛns . æz tə ðɪ ɛntˈaɪɚ ɹˌiːkənstɹˈʌkʃən ʌv nˈuːɡeɪt , nˈʌθɪŋ hɐdbɪn dˈʌn æz jˈɛt .|0
+LJSpeech-1.1/wavs/LJ018-0286.wav|ænd ˈɔːstɪn bˈɪdwɛl ˈoʊpənd ɐ bˈoʊnə fˈaɪd kɹˈɛdɪt ɪnðə bˈɜːlɪŋtən ɔːɹ wˈɛst ˈɛnd bɹˈæntʃ ʌvðə bˈæŋk ʌv ˈɪŋɡlənd ,|0
+LJSpeech-1.1/wavs/LJ044-0145.wav|baɪ ˈɔːɡəst ʌv nˈaɪntiːn sˈɪksti θɹˈiː , ˈɑːswəld hæd fɔːɹ sˌʌm tˈaɪm bˌɪŋ kənsˈɪdɚɹɪŋ ðə pˌɑːsəbˈɪlɪɾi ʌv lˈiːvɪŋ ðə juːnˈaɪɾᵻd stˈeɪts ɐɡˈɛn .|0
+LJSpeech-1.1/wavs/LJ003-0222.wav|ðə dʒˈeɪl wʌz nˈiːðɚ sˈuːɾəbəl nˈɔːɹ səfˈɪʃəntli lˈɑːɹdʒ . ɪt wʌz nˌɑːt ˈiːvəŋ kˈɛpt wˈɛðɚ tˈaɪt .|0
+LJSpeech-1.1/wavs/LJ034-0086.wav|ðɪs klˈɪpboːɹd hɐdbɪn mˌeɪd baɪ kˈaɪzɚ ænd hæd hɪz nˈeɪm ˈɔn ɪt .|0
+LJSpeech-1.1/wavs/LJ044-0050.wav|pəlˈiːs ɹᵻpˈoːɹts ˈɔːlsoʊ fˈeɪl tə ɹᵻflˈɛkt ˌɛni æktˈɪvɪɾi ˌɔn ˈɑːswəldz pˈɑːɹt pɹˈaɪɚ tʊ ˈɔːɡəst nˈaɪn , nˈaɪntiːn sˈɪksti θɹˈiː ,|0
+LJSpeech-1.1/wavs/LJ003-0198.wav|fjˈuː ɹˈiːəlˌaɪzɪŋ ðætðə dɹˈɛdfəl fˈeɪt wʊd ˌoʊvɚtˈeɪk ðˌɛm , dɪsmˈɪst ðə pɹˈɑːspɛkt ʌv dˈɛθ ,|0
+LJSpeech-1.1/wavs/LJ028-0352.wav|wˈɛðɚɹ ʌv fˈɔːɹmɚ ɔːɹ ʌv lˈeɪɾɚ tˈaɪmz , ɛksˈɛpt ˈoʊnli sˈaɪɹəs wɪð hˈuːm nˈoʊ pˈɜːsən ˈɛvɚ jˈɛt θˈɔːt hɪmsˈɛlf wˈɜːði tə kəmpˈɛɹ .|0
+LJSpeech-1.1/wavs/LJ038-0022.wav|aɪ dˈoʊnt nˈoʊ ɪf ðɪs ɪz ðə mˈæn ðeɪ wˈɔnt . bˌʌt hiː ɪz ɹˈʌnɪŋ fɹʌm ðˌɛm fɔːɹ sˌʌm ɹˈiːzən , ˈɛnd kwˈoʊt , ʃiː ðˈɛŋ kˈɔːld ðə pəlˈiːs .|0
+LJSpeech-1.1/wavs/LJ017-0278.wav|nˈoʊ sˈoʊldʒɚz ˈiːðɚ .|0
+LJSpeech-1.1/wavs/LJ014-0096.wav|ænd æt ðɛɹ ɹᵻkwˈɛst tˈuː pəlˈiːs ˈɑːfɪsɚz wɜː sˈɛnt tə bˈɜːmɑːndsi tʊ ɪŋkwˈaɪɚ fɔːɹ hˌɪm æt ðə mˈænɪŋz , wɪð hˈuːm ɪt wʌz wˈɛl nˈoʊn ðæt hiː wʌz vˈɛɹi ˈɪntᵻmət .|0
+LJSpeech-1.1/wavs/LJ011-0105.wav|hɪz dᵻfˈɛns wʌz ðætðə fˈɔːɹdʒd ɐksˈɛptənsᵻz wʊdhɐv bˌɪn mˈɛt ˌɔŋ kˈʌmɪŋ tə mətʃˈʊɹɹɪɾi , ænd ðæt hiː hæd nˈoʊ ɹˈiːəl dɪzˈaɪɚ tə dᵻfɹˈɔːd .|0
+LJSpeech-1.1/wavs/LJ002-0038.wav|ʌv ðiːz wˈɔːɹdz , θɹˈiː wɜːɹ ɐpɹˈoʊpɹɪˌeɪɾᵻd tə ðə dˈɑːlɚ kˈæbɪn sˈaɪd , dˈɑːlɚ sˌoʊ kˈɔːld bɪkˈʌz|0
+LJSpeech-1.1/wavs/LJ028-0123.wav|aɪ dˈʌɡ ɪts mˈoʊt tə ðə wˈɔːɾɚ lˈɛvəl .|0
+LJSpeech-1.1/wavs/LJ003-0097.wav|wɪð kˈɑːnvɪkts ʌv ˈɔːl ˈeɪdʒᵻz ænd kˈæɹɪktɚz , tə ɹˈɛndɚɹ ɪt nˈɛkst tʊ ɪmpˈɑːsᵻbəl bˌʌt ðˈæt , wɪððɪ əblˌɪɾɚɹˈeɪʃən ʌv ˈɔːl sˈɛns ʌv sˈɛlf ɹᵻspˈɛkt ,|0
+LJSpeech-1.1/wavs/LJ019-0107.wav|dˈɪstɹɪkt pɹˈɪzənz wɜː təbi ɪstˈæblɪʃt fɔːɹ ðɪs pˈɜːpəs , ˈiːtʃ əv wˌɪtʃ wʊd biː ɪnðə hˈɑːɹt əvə fˈɑːɹm əvə θˈaʊzənd ˈeɪkɚz .|0
+LJSpeech-1.1/wavs/LJ039-0187.wav|ɪn fˈækt , wˈʌn ʌvðə fˈaɪɚɹɚz ɪnðə ɹˈæpɪd fˈaɪɚ tˈɛst ɪn fˈaɪɚɹɪŋ hɪz tˈuː sˈɪɹiz ʌv θɹˈiː ʃˈɑːts ,|0
+LJSpeech-1.1/wavs/LJ011-0227.wav|ˈæftɚ ðɛɹ ɹᵻlˈiːs fɹʌm lˈæŋkæstɚ ænd nˈuːɡeɪt ɹᵻspˈɛktɪvli , bˈoʊθ wˈeɪkfiːldz wɛnt ɐbɹˈɔːd .|0
+LJSpeech-1.1/wavs/LJ032-0270.wav|hˌævɪŋ ɹᵻvjˈuːd ðɪ ˈɛvɪdəns ðæt wˈʌn lˈiː hˈɑːɹvi ˈɑːswəld pˈɜːtʃɪst ðə ɹˈaɪfəl jˈuːzd ɪnðɪ ɐsˌæsᵻnˈeɪʃən ,|0
+LJSpeech-1.1/wavs/LJ015-0019.wav|ðə stɹˈæhæn ʌvðə fˈɜːm wˌɪtʃ kˈeɪm tə ɡɹˈiːf wʌzɐ snˈoʊ hˌuː tʃˈeɪndʒd hɪz nˈeɪm fɚɹə fˈɔːɹtʃʊn ʌv tˈuː hˈʌndɹɪd θˈaʊzənd pˈaʊndz ;|0
+LJSpeech-1.1/wavs/LJ015-0073.wav|wɪðˌɪn ɐ jˈɪɹ hiː wʌz ɐdvˈænst tə ðə pˈoʊst ʌv tʃˈiːf klˈɜːk ɪnðə tɹˈænsfɜː dᵻpˈɑːɹtmənt , æɾə sˈælɚɹi ʌv wˈʌn hˈʌndɹɪd fˈɪfti pˈaʊndz ɐ jˈɪɹ .|0
+LJSpeech-1.1/wavs/LJ043-0165.wav|lˈiːvɪŋ ðə nˈoʊt ænd pˈɪktʃɚɹ æz hiː dˈɪd wʊd sˈiːm tʊ ˈɪndᵻkˌeɪt ðæt hiː hæd kənsˈɪdɚd ðə pˌɑːsəbˈɪlɪɾi ʌv kˈæptʃɚ .|0
+LJSpeech-1.1/wavs/LJ023-0064.wav|hˌævɪŋ ɪn mˈaɪnd ðæt ɪn səksˈiːdɪŋ dʒˌɛnɚɹˈeɪʃənz mˈɛni ˈʌðɚ pɹˈɑːbləmz ðˈɛn ʌndɹˈiːmd ʌv wʊd bɪkˌʌm nˈæʃənəl pɹˈɑːbləmz|0
+LJSpeech-1.1/wavs/LJ008-0223.wav|ðɪ ɐpɹˈoʊtʃɪŋ sˈɛɹᵻməni hæd ˈɛvɪdəntli nˈoʊ tˈɛɹɚz fɔːɹ ðiːz dˈɑːlɚɹ aɪdˈɑːleɪɾɚz ʌvðə ɡˈæloʊz.dˈɑːlɚ|0
+LJSpeech-1.1/wavs/LJ034-0114.wav|bɹˈɛnənz dᵻskɹˈɪpʃən ʃˌʊd ˈɔːlsoʊ biː kəmpˈɛɹd wɪððɪ ˈaɪwɪtnəs dᵻskɹˈɪpʃən bɹˈɔːdkæst ˌoʊvɚ ðə dˈæləs pəlˈiːs ɹˈeɪdɪˌoʊ æt wˌʌn : twˈɛnti tˈuː pˈiː.ˈɛm .|0
+LJSpeech-1.1/wavs/LJ045-0105.wav|ʃiː tˈɛstᵻfˌaɪd ðæt ʃiː tˈoʊld hˌɪm , kwˈoʊt ,|0
+LJSpeech-1.1/wavs/LJ012-0281.wav|ðə mˈoʊst ɡˈæstli pˈɑːɹt ʌvðə stˈoːɹi ɪz ðæt wˌɪtʃ dˈiːlz wɪð hɪz ɡˌɛɾɪŋ ɹˈɪd ʌvðə hˈɛd .|0
+LJSpeech-1.1/wavs/LJ019-0090.wav|ðɪ ɔːltˈɜːnətˌɪv bᵻtwˌiːn lˈeɪbɚ ɔːɹ ˈaɪdəlnəs , ɔːɹ ðə sᵻlˈɛkʃən ʌvðə fˈɔːɹm ʌv lˈeɪbɚ ,|0
+LJSpeech-1.1/wavs/LJ045-0020.wav|ɪn ˌɛni ᵻvˈɛnt , ðə kəmˈɪʃən hɐzbɪn ʌnˈeɪbəl tə fˈaɪnd ˌɛni kɹˈɛdɪbəl ˈɛvɪdəns ðæt ˈɑːswəld hæd dᵻɹˈɛkt kˈɑːntækt ɔːɹ ɐsˌoʊsɪˈeɪʃən wɪð|0
+LJSpeech-1.1/wavs/LJ025-0096.wav|ˌæmɪlˈeɪʃəs ænd sˈækɚɹˌɪn sˈʌbstənsᵻz ɑːɹ lˈɑːɹdʒli mˌænjuːfˈæktʃɚd , ˈiːvən baɪ ðə hˈaɪɪst ˈænɪməlz .|0
+LJSpeech-1.1/wavs/LJ029-0212.wav|dˈɑːlɚ wˈɛlkʌm mˈɪstɚ . kˈɛnədi tə dˈæləs , dˈɑːlɚ spˈɑːnsɚd baɪ ðɪ ɐmˈɛɹɪkən fˈækt fˈaɪndɪŋ kəmˈɪɾi , wˌɪtʃ ðə spˈɑːnsɚ lˈeɪɾɚ tˈɛstᵻfˌaɪd wʌz ɐn ˈæd hˈɑːk kəmˈɪɾi|0
+LJSpeech-1.1/wavs/LJ047-0192.wav|ˌɔn noʊvˈɛmbɚɹ ˈeɪtiːn ðɪ ˌɛfbˌiːˈaɪ lˈɜːnᵻd ðæt ˈɑːswəld ɹˈiːsəntli hɐdbɪn ɪŋ kəmjˌuːnɪkˈeɪʃən wɪððə sˈoʊviət ˈɛmbəsi ɪn wˈɑːʃɪŋtən|0
+LJSpeech-1.1/wavs/LJ021-0195.wav|ðə ɡɹˈeɪt tʃˈiːf dʒˈʌstɪs wˈaɪt sˈɛd :|0
+LJSpeech-1.1/wavs/LJ004-0125.wav|ɪnðə bˈæləns sˌʌm wˈɜːk wʌz dˈʌn , bˌʌt wɪððə mˈoʊst mˈiːɡɚ ɹɪzˈʌlts .|0
+LJSpeech-1.1/wavs/LJ003-0201.wav|ʌnlˈɪmɪɾᵻd dɹˈɪŋk wʌz nˌɑːt dᵻnˈaɪd ðˌɛm pɹəvˈaɪdᵻd ɪt wʌz əbtˈeɪnd ɪn ɹˈɛɡjʊlˌeɪɾᵻd kwˈɔntɪɾiz æt wˈʌn tˈaɪm .|0
+LJSpeech-1.1/wavs/LJ023-0078.wav|tə pɹɪzˈuːm ɪn fˈeɪvɚɹ ʌv ɪts vælˈɪdɪɾi ʌntˈɪl ɪts vaɪəlˈeɪʃən ʌvðə kˌɑːnstɪtˈuːʃən ɪz pɹˈuːvd bᵻjˌɔnd ˈɔːl ɹˈiːzənəbəl dˈaʊt .|0
+LJSpeech-1.1/wavs/LJ035-0040.wav|æz bˈeɪkɚ ɹˈiːtʃt ðə sˈɛkənd flˈoːɹ , hiː wʌz ɐbˌaʊt twˈɛnti fˈiːt fɹʌmðə vˈɛstɪbjˌuːl dˈoːɹ . hiː ɪntˈɛndᵻd tə kəntˈɪnjuː ɚɹˈaʊnd tə hɪz lˈɛft təwˈɔːɹd ðə stˈɛɹweɪ ɡˌoʊɪŋ ˈʌp|0
+LJSpeech-1.1/wavs/LJ010-0188.wav|ˈɑːksfɚd ɛkspɹˈɛst lˈɪɾəl æŋzˈaɪəɾi ɔːɹ kənsˈɜːn .|0
+LJSpeech-1.1/wavs/LJ045-0051.wav|ɔnðɪ ˈʌðɚ hˈænd , ˈɑːswəld ɑːbdʒˈɛktᵻd tə ðɪ ɪnvɪtˈeɪʃən ðæt hɪz wˈaɪf hæd ɹᵻsˈiːvd tə lˈɪv wɪð mˈɪsɪz . ɹˈuːθ pˈeɪn ,|0
+LJSpeech-1.1/wavs/LJ019-0174.wav|ɪt wʌz lˈɛs pɹˈɑːmpt ɐpˈæɹəntli ɪn dˈiːlɪŋ wɪð stɹˈʌktʃɚɹəl ˌɔltɚɹˈeɪʃənz ænd ɪmpɹˈuːvmənts .|0
+LJSpeech-1.1/wavs/LJ042-0004.wav|dᵻfˈɛkʃən tə ðə sˈoʊviət jˈuːniən|0
+LJSpeech-1.1/wavs/LJ010-0002.wav|ɪn tʃˈæptɚ tˈuː ʌvðə pɹˈɛzənt vˈɑːljuːm aɪ bɹˈɔːt dˌaʊn ðə ɹˈɛkɚd ʌv kɹˈaɪm tə ðə sˈɛkənd dˈɛkeɪd ʌvðə pɹˈɛzənt sˈɛntʃɚɹi .|0
+LJSpeech-1.1/wavs/LJ017-0177.wav|wˈɪlsən wʌz ɐkwˈɪɾᵻd ˌɔn ðɪs tʃˈɑːɹdʒ , bˌʌt ˈʌðɚ səspˈɪʃəs fˈækts kɹˈɑːpt ˌʌp wˌaɪl ʃiː wʌz ɪn nˈuːɡeɪt .|0
+LJSpeech-1.1/wavs/LJ037-0139.wav|hiː sˈʌbsᵻkwəntli tˈɛstᵻfˌaɪd bᵻfˌoːɹ ɐ kəmˈɪʃən stˈæf mˈɛmbɚɹ ænd , wˌɛn ʃˈoʊn tˈuː fˈoʊɾəɡɹˌæfz ʌv ˈɑːswəld , stˈeɪɾᵻd ðæt ðeɪ wɜː fˈoʊɾəɡɹˌæfz ʌvðə mˈæn hiː sˈɔː .|0
+LJSpeech-1.1/wavs/LJ015-0119.wav|ænd pəzˈɛst əvən ˌɛdʒuːkˈeɪʃən vˈɛɹi mˈʌtʃ bᵻjˌɔnd ðə ɹˈæŋk ʌv lˈaɪf tʊ wˌɪtʃ hiː ɚɹˈɪdʒɪnəli bᵻlˈɔŋd.dˈɑːlɚ|0
+LJSpeech-1.1/wavs/LJ004-0032.wav|ðɪ ˈoʊnəs ʌv ɪmpɹˈuːvmənt lˈeɪ əpˌɑːn ðə mˈædʒɪstɹəsi , ðə lˈoʊkəl ɐθˈɔːɹɪɾiz ɐdmˈɪnɪstɚɹɪŋ lˈoʊkəl fˈʌndz ,|0
+LJSpeech-1.1/wavs/LJ028-0413.wav|ɪn hɪz kwˈeɪnt wˈeɪ hiː sˈɛz :|0
+LJSpeech-1.1/wavs/LJ012-0203.wav|ᵻvˈɛntʃuːəli ðə lˈɔː ˌoʊvɚtˈʊk ðˌɛm , bˌʌt ˈɔːlmoʊst baɪ ˈæksɪdənt .|0
+LJSpeech-1.1/wavs/LJ034-0155.wav|wˌɛn spəsˈɪfɪkli ˈæskt bᵻfˌoːɹ ðə kəmˈɪʃən|0
+LJSpeech-1.1/wavs/LJ021-0118.wav|dˈʊɹɹɪŋ ðə lˈæst twˈɛlv mˈʌnθs ˌaʊɚɹ ɪndˈʌstɹɪəl ɹᵻkˈʌvɚɹi hɐzbɪn tə sˌʌm ɛkstˈɛnt ɹᵻtˈɑːɹdᵻd baɪ stɹˈaɪks ,|0
+LJSpeech-1.1/wavs/LJ013-0052.wav|ðɪ ɛɡzˈɛkjuːɾɚz tə ðɪ ᵻstˈeɪt dɪspjˈuːɾᵻd ðə vælˈɪdɪɾi ʌv ðɪs dˈɑːkjuːmənt .|0
+LJSpeech-1.1/wavs/LJ012-0120.wav|wˈʌn ʌv ðˌɛm ʌv kənsˈɪdɚɹəbəl sˈaɪz .|0
+LJSpeech-1.1/wavs/LJ034-0213.wav|dʒˈʌst bᵻfˌoːɹ snˈæpɪŋ ðə pˈɪktʃɚɹ ˈɔːltdʒənz hˈɜːd ɐ nˈɔɪz wˌɪtʃ sˈaʊndᵻd lˈaɪk ðə pˈɑːpɪŋ əvə fˈaɪɚkɹækɚ .|0
+LJSpeech-1.1/wavs/LJ005-0284.wav|ʌv mˈoːɹ dᵻpɹˈeɪvd ænd sˌɪstəmˈæɾɪk kɹˈɪmɪnəlz .|0
+LJSpeech-1.1/wavs/LJ004-0246.wav|ðeɪ jˈuːzd ðɛɹ ˈoʊn tˈuːlz , ænd ðɪs wɪðˌaʊt ˌɛni dˈeɪndʒɚɹəs kˈɑːnsɪkwənsᵻz æz ɹᵻɡˈɑːɹdz fəsˈɪlᵻtˌeɪɾɪŋ ðɪ ɛskˈeɪp ʌv ˈʌðɚz ,|0
+LJSpeech-1.1/wavs/LJ049-0040.wav|ðɪ ɐsˌæsᵻnˈeɪʃən sədʒˈɛsts ðˌɐɾɪt wʊdhɐv bˌɪn ʌv pɹˈaɪm ɪmpˈoːɹtəns|0
+LJSpeech-1.1/wavs/LJ020-0056.wav|ɚɹˈeɪndʒ ðə ɹˈoʊlz ɪn ɹˈɛɡjʊlɚ ɹˈoʊz ɪnðə pˈæn ɐbˌaʊt ɐ kwˈɔːɹɾɚɹ əvən ˈɪntʃ ɐpˈɑːɹt .|0
+LJSpeech-1.1/wavs/LJ015-0281.wav|sˈæwɚdz mˈɛθəd ʌv nᵻɡˈoʊʃɪˌeɪɾɪŋ ðə tʃˈɛks wʌz ˈiːkwəli wˈɛl plˈænd .|0
+LJSpeech-1.1/wavs/LJ032-0071.wav|ˈɑːswəldz jˈuːs ʌvðə nˈeɪm dˈɑːlɚ hˈaɪdəl dˈɑːlɚ tə pˈɜːtʃɪs ðɪ ɐsˌæsᵻnˈeɪʃən wˈɛpən wʌz wˈʌn ʌv sˈɛvɹəl ˈɪnstənsᵻz ɪnwˌɪtʃ hiː jˈuːzd ðɪs nˈeɪm æz ɐn ˈeɪliəs .|0
+LJSpeech-1.1/wavs/LJ022-0089.wav|tʃˈɑːɹdʒd wɪð kˈæɹiɪŋ ˌɔn wˈɜːk ɹᵻlˈiːf pɹˈɑːdʒɛkts .|0
+LJSpeech-1.1/wavs/LJ035-0139.wav|ðeɪ ɹiːˈɛntɚd ðə bˈɪldɪŋ baɪ ðə ɹˈɪɹ dˈoːɹ sˈɛvɹəl mˈɪnɪts ˈæftɚ bˈeɪkɚ ænd tɹˈuːli ɹˈʌʃt θɹuː ðə fɹˈʌnt ˈɛntɹəns .|0
+LJSpeech-1.1/wavs/LJ016-0439.wav|ˈɔfən ðə kˈɑːnvɪkts ɡˈɪv wˈeɪ tə dᵻspˈɛɹ . ðeɪ ɑːɹ tˈuː klˈoʊsli wˈɑːtʃt təbi ɐlˈaʊd tə dˈuː ðɛmsˈɛlvz mˈʌtʃ mˈɪstʃɪf , ɔːɹ sˈuːɪsˌaɪdz wʊd pɹˈɑːbəbli biː mˈoːɹ fɹˈiːkwənt .|0
+LJSpeech-1.1/wavs/LJ046-0011.wav|wˈʌn ˌaʊɾəv ˈɛvɹi fˈaɪv pɹˈɛzɪdənts sˈɪns ˈeɪtiːn sˈɪksti fˈaɪv hɐzbɪn ɐsˈæsᵻnˌeɪɾᵻd ;|0
+LJSpeech-1.1/wavs/LJ022-0099.wav|tə mˈuːv æz ɹˈæpɪdli æz pˈɑːsᵻbəl bˈæk ˌɪntʊ pɹˈaɪvət ɛmplˈɔɪmənt wɛn sˈʌtʃ ɛmplˈɔɪmənt ɪz ɐvˈeɪləbəl .|0
+LJSpeech-1.1/wavs/LJ005-0170.wav|ðæt mˈɛnɪəv ðˌɛm wɪl bˈɪld nˈuː dʒˈeɪlz , ænd ðæt wɛn ɪn ɐ jˈɪɹ ɔːɹ tˈuː wiː kˈʌm tʊ ɛɡzˈæmɪn ðɛɹ sˌɪtʃuːˈeɪʃən ,|0
+LJSpeech-1.1/wavs/LJ029-0021.wav|ðə θɹˈiː ɐɡɹˈiːd ðætðə pɹˈɛzɪdənt wʊd kˈʌm tə tˈɛksəs ɪn lˈeɪt noʊvˈɛmbɚ nˈaɪntiːn sˈɪksti θɹˈiː .|0
+LJSpeech-1.1/wavs/LJ012-0036.wav|ˌɔn wˈʌn əkˈeɪʒən ðə hˈoʊl ʌvðə pɹˈoʊsiːdz əvɚ ɹˈɑːbɚɹi fɹʌm ɐ bˈuːt ʃˈɑːp wʌz tɹˈeɪst tə sˈɑːlɑːmənz ;|0
+LJSpeech-1.1/wavs/LJ027-0082.wav|ænd ˌɛni ˈʌðɚ sˈɪɹiz ʌv ˈɔːɹɡənz ʌv vˈɜːɾɪbɹˌeɪts wʊd ɡˈɪv ðə sˈeɪm ˈɛvɪdəns ʌv fˌʌndəmˈɛntəl ɹᵻzˈɛmblənsᵻz həmˈɑːlədʒiz .|0
+LJSpeech-1.1/wavs/LJ046-0129.wav|ðə tˈoʊɾəl vˈɑːljuːm ʌv ˌɪnfɚmˈeɪʃən ɹᵻsˈiːvd baɪ pˌiːˌɑːɹɹˈɛs hɐz ɹˈɪzən stˈɛdili .|0
+LJSpeech-1.1/wavs/LJ001-0143.wav|fɔːɹ wˌɛɹ ðiːz ɑːɹ bˈoʊldli ænd kˈɛɹfəli dɪzˈaɪnd , ænd ˈiːtʃ lˈɛɾɚɹ ɪz θˈʌɹoʊli ˌɪndᵻvˈɪdʒuːəl ɪn fˈɔːɹm ,|0
+LJSpeech-1.1/wavs/LJ018-0293.wav|ðə ɡɹˈaʊnd ðˈʌs klˈɪɹd , ðə fˈɔːɹdʒɚz pˈoːɹd ɪn fɹʌm bˈɜːmɪŋˌæm nˈʌmbɚz ʌv fˈɔːɹdʒd ɐksˈɛptənsᵻz ,|0
+LJSpeech-1.1/wavs/LJ018-0017.wav|ðə fɹˈɛndz ʌv mˈɪstɚ . bɹˈɪɡz wɜː kəmjˈuːnᵻkˌeɪɾᵻd wɪð , ænd ɪt wʌz ˌæsɚtˈeɪnd ðæt wɛn hiː lˈɛft hˈoʊm ðə mˈɔːɹnɪŋ ʌvðə mˈɜːdɚɹəs ɐtˈæk ,|0
+LJSpeech-1.1/wavs/LJ024-0125.wav|ðɪs pɹəpˈoʊzəl ʌv mˈaɪn wɪl nˌɑːt ɪnfɹˈɪndʒ ɪnðə slˈaɪɾɪst əpˌɑːn ðə sˈɪvəl ɔːɹ ɹᵻlˈɪdʒəs lˈɪbɚɾiz sˌoʊ dˈɪɹ tʊ ˈɛvɹi ɐmˈɛɹɪkən .|0
+LJSpeech-1.1/wavs/LJ030-0127.wav|tə ðɪ ˌɪntɚsˈɛkʃən ʌv hjˈuːstən stɹˈiːt , wˌɪtʃ mˈɑːɹks ðə bɪɡˈɪnɪŋ ʌv dˈiːli plˈɑːzə .|0
+LJSpeech-1.1/wavs/LJ008-0211.wav|dʒˈɪn ʃˈɑːps ænd kˈɔfi hˈaʊzᵻz wɜː ðə fˈɜːst tʊ ˈoʊpən dˈoːɹz , ænd tˈaʊts bɪɡˈæn tə bˈɪd fɔːɹ tˈɛnənts fɚðə vˈɛɹiəs ɹˈuːmz ʌpstˈɛɹz .|0
+LJSpeech-1.1/wavs/LJ036-0215.wav|hiː ɐpɹˈoʊtʃt ðə kˈɑːɹ ænd ɐpˈæɹəntli ɛkstʃˈeɪndʒd wˈɜːdz wɪð tˈɪpɪt θɹuː ðə ɹˈaɪt fɹˈʌnt ɔːɹ vˈɛnt wˈɪndoʊ .|0
+LJSpeech-1.1/wavs/LJ030-0250.wav|ˈʌðɚ sˈiːkɹᵻt sˈɜːvɪs ˈeɪdʒənts ɐsˈaɪnd tə ðə mˈoʊɾɚkˌeɪd ɹᵻmˈeɪnd æt ðɛɹ pˈoʊsts dˈʊɹɹɪŋ ðə ɹˈeɪs tə ðə hˈɑːspɪɾəl .|0
+LJSpeech-1.1/wavs/LJ020-0072.wav|jˈoʊk ʌv wˈʌn ˈɛɡ bˈiːʔn̩ lˈaɪt .|0
+LJSpeech-1.1/wavs/LJ029-0198.wav|ðeɪ kənvˈeɪd ðə plˈiːz ʌv dˈæləs lˈiːdɚz ðæt sˈɪɾɪzənz nˌɑːt dˈɛmənstɹˌeɪt ɔːɹ kɹiːˈeɪt dɪstˈɜːbənsᵻz dˈʊɹɹɪŋ ðə pɹˈɛzɪdənts vˈɪzɪt .|0
+LJSpeech-1.1/wavs/LJ003-0206.wav|ænd ðɛɹ dʒˈaɪbz ænd dʒˈɑːlɪɾi kˌaʊntɚɹˈæktᵻd ðɪ ˈɔːɹdɪnˌɛɹiz kˈaʊnsəlz ɔːɹ ðɪ ˌɪndᵻpˈɛndənt pɹˈiːtʃɚz ˈɜːnɪst pɹˈɛɹz .|0
+LJSpeech-1.1/wavs/LJ022-0083.wav|sˈɪks . pɹˈɑːdʒɛkts wɪl biː ˈæləkˌeɪɾᵻd tə loʊkˈælɪɾiz ɔːɹ ɹᵻlˈiːf ˈɛɹiəz ɪn ɹᵻlˈeɪʃən tə ðə nˈʌmbɚɹ ʌv wˈɜːkɚz ˌɔn ɹᵻlˈiːf ɹˈoʊlz ɪn ðoʊz ˈɛɹiəz .|0
+LJSpeech-1.1/wavs/LJ008-0125.wav|ðə ʃˈɛɹɪf ɚɹˈaɪvd , ɐtˈɛndᵻd baɪ hɪz ˈɑːfɪsɚz , tə ɹᵻsˈiːv ðə pɹˈɪzənɚ fɹʌmðə kˈiːpɚ .|0
+LJSpeech-1.1/wavs/LJ048-0137.wav|ðɛɹ hɐvbɪn ɹˈɛfɹənsᵻz tə ðə nˈuːmɚɹəs dɪskˈʌʃənz bᵻtwˌiːn sˈiːkɹᵻt sˈɜːvɪs ɹˌɛpɹᵻzˈɛntətˌɪvz ænd ðə dˈæləs pəlˈiːs dᵻpˈɑːɹtmənt .|0
+LJSpeech-1.1/wavs/LJ016-0061.wav|ænd ðˈɛn fˈɑːloʊɪŋ hɜː dˌaʊn ɐ stˈɛp lˈædɚɹ ˌɪntʊ ðə hˈaʊs , tˈoʊld hɪz stˈoːɹi , ɐpˈiːld tʊ ænd wˈʌn hɜː kəmpˈæʃən .|0
+LJSpeech-1.1/wavs/LJ036-0212.wav|ɐbˌaʊt wˈʌn hˈʌndɹɪd fˈiːt pˈæst ðɪ ˌɪntɚsˈɛkʃən tˈɪpɪt stˈɑːpt ɐ mˈæn wˈɔːkɪŋ ˈiːst ɐlˈɔŋ ðə sˈaʊθ sˈaɪd ʌv pˈæʔn̩ .|0
+LJSpeech-1.1/wavs/LJ038-0268.wav|ðɪ ˌɛfbˌiːˈaɪ ɹᵻfjˈuːzᵻz tə dɹˈɔː ˌɛni kəŋklˈuːʒən æz tə pɹˌɑːbəbˈɪlɪɾi .|0
+LJSpeech-1.1/wavs/LJ005-0202.wav|ɐn ɛɡzˌæmᵻnˈeɪʃən ʌv ðɪs ɹᵻpˈoːɹt ʃˈoʊz hˌaʊ ˈiːvən ðə mˈoʊst ˌɪnsɪɡnˈɪfɪkənt tˈaʊnʃɪp hæd ɪts dʒˈeɪl .|0
+LJSpeech-1.1/wavs/LJ025-0087.wav|ɔnðɪ ˈʌðɚ hˈænd , ðə dˌɛfɪnˈɪʃən ðˈʌs ɐmˈɛndᵻd wɪl ɛksklˈuːd ˈɔːl ˈɔːɹdɪnˌɛɹi vˈɛdʒɪɾəbəl ˈɔːɹɡənˌɪzəmz .|0
+LJSpeech-1.1/wavs/LJ018-0311.wav|hæd ʌndˈaʊɾᵻdli ðə kəmˈænd ʌv lˈɑːɹdʒ fˈʌndz wˌaɪl ðˈɛɹ , ænd wʊdhɐv ɹˈɛdili dɪsbˈɜːst ɪt tʊ ɪfˈɛkt ðɛɹ ɛnlˈɑːɹdʒmənt .|0
+LJSpeech-1.1/wavs/LJ002-0185.wav|ðə kˈɪŋz bˈɛntʃ wʌzɐ nˈæʃənəl pɹˈɪzən , ɪnwˌɪtʃ wɜː kənfˈaɪnd ˈɔːl dˈɛɾɚz ɚɹˈɛstᵻd fɔːɹ dˈɛt ɔːɹ fɔːɹ kəntˈɛmpt ʌvðə kˈoːɹt ʌvðə kˈɪŋz bˈɛntʃ .|0
+LJSpeech-1.1/wavs/LJ050-0257.wav|ɹˌɛkəɡnˈɪʃən ðætðə ɹᵻspˌɑːnsəbˈɪlɪɾi mˈʌst biː ʃˈɛɹd ˈɪŋkɹiːsᵻz ðə lˈaɪklihˌʊd ðˌɐɾɪt wɪl biː mˈɛt .|0
+LJSpeech-1.1/wavs/LJ004-0132.wav|ðɪ ˈoʊld ˈiːvəlz ʌv ˌɪndɪskɹˈɪmᵻnət ɐsˌoʊsɪˈeɪʃən stˈɪl kəntˈɪnjuːd ʌntʃˈɛkt .|0
+LJSpeech-1.1/wavs/LJ019-0382.wav|æz ðə jˈɪɹz pˈæst , ɡɹˈeɪt wˈɔnt ʌv jˌuːnɪfˈoːɹmɪɾi kəntˈɪnjuːd tə pɹɪvˈeɪl θɹuːˈaʊt ðə pɹˈɪzənz ʌvðə juːnˈaɪɾᵻd kˈɪŋdəm .|0
+LJSpeech-1.1/wavs/LJ028-0428.wav|hɐzbɪn ɹᵻmˈuːvd , ænd ðə sɚɹˈaʊndɪŋ sˈɪɾi wˈɔːlz hɐvbɪn tɹˈeɪst .|0
+LJSpeech-1.1/wavs/LJ017-0244.wav|ðə mˈɜːdɚz wɜː pˈɜːpɪtɹˌeɪɾᵻd ɔnðə tˈɛnθ sɛptˈɛmbɚ , ænd ðə ʃˈɪp kəntˈɪnjuːd hɜː vˈɔɪɪdʒ fɔːɹ nˌɪɹli θɹˈiː wˈiːks , mˈiːɾɪŋ ænd spˈiːkɪŋ wˈʌn ʃˈɪp ˈoʊnli .|0
+LJSpeech-1.1/wavs/LJ009-0047.wav|ðə nˈɛkst kˈɑːnvɪkt ɪz klˈɪɹli ænd ʌnmɪstˈeɪkəbli ɐ vˈɪlən .|0
+LJSpeech-1.1/wavs/LJ010-0225.wav|ðə hˈoʊl ʌvðɪ ˈɛvɪdəns pˈɔɪntᵻd sˌoʊ stɹˈɔŋli təwˈɔːɹdz ɪnsˈænɪɾi , ðætðə dʒˈʊɹɹi bɹˈɔːt ɪn ɐ vˈɜːdɪkt ʌv ɐkwˈɪɾəl ˌɔn ðæt ɡɹˈaʊnd ,|0
+LJSpeech-1.1/wavs/LJ011-0164.wav|mˈɪs tˈɜːnɚ , ɡɹˈeɪtli ˈædʒᵻtˌeɪɾᵻd , ɐkˈʌmpənid ðə mˈɛsɪndʒɚ hˌuː hæd bɹˈɔːt ðɪs nˈuːz , ɐ dɪsɡˈaɪzd sˈɜːvənt ʌv wˈeɪkfiːldz ,|0
+LJSpeech-1.1/wavs/LJ006-0069.wav|kənsˈaɪn mˈɛnɪəv ðə mˈoːɹ pˈɛɾi ænd ʌnpɹˈæktɪst əfˈɛndɚz tə ðɪs plˈeɪs ,|0
+LJSpeech-1.1/wavs/LJ047-0131.wav|ɪn ˈɜːli sɛptˈɛmbɚ nˈaɪntiːn sˈɪksti θɹˈiː|0
+LJSpeech-1.1/wavs/LJ044-0055.wav|wˌaɪl ðə lˈɛdʒənd , kwˈoʊt , ˌɛfpˌiːsˌiːsˈiː , fˈaɪv fˈoːɹ fˈoːɹ kˈæmp stɹˈiːt nˈuː ˈɔːɹliənz , luːˌiːzɪˈænə , ˈɛnd kwˈoʊt ,|0
+LJSpeech-1.1/wavs/LJ016-0214.wav|ɐ sˈɪlvɚ kˈɔɪn bˈɛɹɪŋ ðə sˈeɪm ɹᵻlˈeɪʃən tə ðə skˈɑːɾɪʃ pˈaʊnd ðæt ɐn ˈɪŋɡlɪʃ ʃˈɪlɪŋ dˈʌz tʊ ɐn ˈɪŋɡlɪʃ pˈaʊnd , wʌz mˌeɪd tə pˈæs kˈɜːɹənt ɪn ˈɪŋɡlənd .|0
+LJSpeech-1.1/wavs/LJ038-0192.wav|sˈɪks . juː kæn ˈiːðɚ θɹˈoʊ ˈaʊt ɔːɹ ɡˈɪv maɪ klˈoʊðɪŋ , ɛtsˈɛtɹə . ɐwˈeɪ . duːnˌɑːt kˈiːp ðˈiːz .|0
+LJSpeech-1.1/wavs/LJ011-0046.wav|æz aɪ hæv ɔːlɹˌɛdi sˈɛd , ðeɪ tˈʊk ðə tʃˈæplɪn sˈɪɹiəsli tə tˈæsk fɚðə bˈæd tˈeɪst ʃˈoʊn ɪnðə kəndˈɛmd sˈɜːmən pɹˈiːtʃt bᵻfˌoːɹ fˈɔːntəlɹˌɔɪ .|0
+LJSpeech-1.1/wavs/LJ020-0067.wav|fˈaɪv tˈeɪbəlspˌuːnfəlz ʌv jˈiːst .|0
+LJSpeech-1.1/wavs/LJ027-0017.wav|ˈɔːl ˈɔːɹɡənˌɪzəmz hæv ðə sˈeɪm nˈiːd ʌv ɹᵻpɹədˈʌkʃən .|0
+LJSpeech-1.1/wavs/LJ028-0181.wav|hiː wʌz fˈɑːloʊd baɪ θɹˈiː kˈɪŋz hˌuːz ɹˈeɪnz wɜː ʃˈɔːɹt ,|0
+LJSpeech-1.1/wavs/LJ015-0100.wav|ðeɪ dɹˈoʊv ðˈɛɹ , ænd ɹˈɑːbsən ˌɔn ɚɹˈaɪvəl dˈɪd ðɪ ˈɑːnɚz ʌv hɪz hˈaʊs , ɹˈæŋ fɔːɹ lˈʌntʃ tə ɡˈeɪn tˈaɪm ,|0
+LJSpeech-1.1/wavs/LJ024-0005.wav|hɐz ɹˈiːtʃt ðɪ ˈeɪdʒ ʌv sˈɛvənti ænd dʌznˌɑːt ɐvˈeɪl hɪmsˈɛlf ʌvðɪ ɑːpɚtˈuːnɪɾi tə ɹᵻtˈaɪɚɹ ˌɔn ɐ pˈɛnʃən ,|0
+LJSpeech-1.1/wavs/LJ006-0133.wav|ðə tˈɜːŋkiːz kəmplˈeɪnd bˈɪɾɚli ðæt ðiːz ˈoʊld pɹˈɪzənɚz hæd mˈoːɹ pˈaʊɚ ðɐn ðeɪ ðɛmsˈɛlvz .|0
+LJSpeech-1.1/wavs/LJ003-0302.wav|ðə wˈɜːk bˌiːɪŋ kˈɑːnstənt ænd sˈuːɾəbəl , wɪð sˈɜːʔn̩ ˈaʊɚz ʌv ɹᵻlɐksˈeɪʃən ænd fɔːɹ fˈuːd ænd ˈɛksɚsˌaɪz .|0
+LJSpeech-1.1/wavs/LJ017-0280.wav|ðə kˈɑːnvɪkts wɜː pˈɪniənd wˈʌn baɪ wˈʌn ænd sˈɛnt sˈɪŋɡli ˈaʊt tə ðə ɡˈæloʊz .|0
+LJSpeech-1.1/wavs/LJ035-0149.wav|ʃiː ɹˈæn ɪnsˈaɪd ænd ˌʌp ðə fɹˈʌnt stˈɛɹz ˌɪntʊ ðə lˈɑːɹdʒ ˈoʊpən ˈɑːfɪs ɹɪzˈɜːvd fɔːɹ klˈɛɹɪkəl ɛmplˈɔɪiːz .|0
+LJSpeech-1.1/wavs/LJ030-0208.wav|hˈɪl hˈɜːd ɐ nˈɔɪz , wˌɪtʃ sˈiːmd təbi ɐ fˈaɪɚkɹækɚ , kˈʌmɪŋ fɹʌm hɪz ɹˈaɪt ɹˈɪɹ .|0
+LJSpeech-1.1/wavs/LJ001-0099.wav|ɪt mˈʌst biː ɹᵻmˈɛmbɚd , haʊˈɛvɚ , ðæt mˈoʊst mˈɑːdɚn pɹˈɪntɪŋ ɪz dˈʌn baɪ məʃˈiːnɚɹi ˌɔn sˈɔft pˈeɪpɚ , ænd nˌɑːt baɪ ðə hˈænd pɹˈɛs ,|0
+LJSpeech-1.1/wavs/LJ004-0013.wav|sˌʌm pɹˈɪzənz ðæt hɐdbɪn ɐmˈiːlɪɹˌeɪɾᵻd ˌʌndɚ ðə pɚswˈeɪsɪv ˈɪnfluːəns ʌv hɪz kˈaɪnd ɐdvˈaɪs wɜː ɹᵻlˈæpsɪŋ ˌɪntʊ ðɛɹ fˈɔːɹmɚ hˈɔːɹɪd stˈeɪt ʌv pɹaɪvˈeɪʃən ,|0
+LJSpeech-1.1/wavs/LJ041-0109.wav|ðə hˈɪɹɪŋ ˈɑːfɪsɚɹ ɐɡɹˈiːd wɪððə lˈæɾɚ klˈeɪm bˌʌt fˈaʊnd ˈɑːswəld ɡˈɪlti ʌv ɹˈɔŋfəli jˈuːzɪŋ pɹəvˈoʊkɪŋ wˈɜːdz ænd sˈɛntənst hˌɪm tə twˈɛnti ˈeɪt dˈeɪz ,|0
+LJSpeech-1.1/wavs/LJ014-0045.wav|ðæt dᵻlˈɑːɹɹuː hæd sˈʌfɚd baɪ ðə hˈændz ʌv ɪmˈædʒɪnˌɛɹi ˈaʊtɹeɪdʒd bɹˈʌðɚz ˈæktɪŋ æz ðɪ ɐvˈɛndʒɚz ʌv fˈiːmeɪlz dˈiːpli ˈɪndʒɚd baɪ hˌɪm .|0
+LJSpeech-1.1/wavs/LJ006-0123.wav|ðə mˈæn ɪntɹˈʌstᵻd wɪð ðɪs pɹˈɪvᵻlɪdʒ wʌz ˈɔfən ðɪ ˈɪnɚ ɡˈeɪtsmən ,|0
+LJSpeech-1.1/wavs/LJ016-0250.wav|ɪt mˈeɪ , haʊˈɛvɚ , biː ɹᵻmˈɑːɹkt ðætðə wˈɪzdəm ʌv ɐpˈɔɪntɪŋ ˌɛni ɹˈɛɡjʊlɚ hˈæŋmən ɪz vˈɛɹi ˈoʊpən tə kwˈɛstʃən ,|0
+LJSpeech-1.1/wavs/LJ038-0128.wav|hiː ˈɔːlsoʊ dᵻnˈaɪd ðæt hiː hæd ɹᵻsˈiːvd ðə ɹˈaɪfəl θɹuː ðɪs bˈɑːks .|0
+LJSpeech-1.1/wavs/LJ039-0174.wav|ðə mˈɑːɹksmɛn tˈʊk æz mˈʌtʃ tˈaɪm æz ðeɪ wˈɔntᵻd fɚðə fˈɜːst tˈɑːɹɡɪt ænd ˈɔːl hˈɪt ðə tˈɑːɹɡɪt .|0
+LJSpeech-1.1/wavs/LJ023-0141.wav|kˈæn , ɪf ðeɪ tʃˈuːz , hˈoʊld ˈɑːfɪs fɔːɹ lˈaɪf , nˈoʊ mˈæɾɚ hˌaʊ ˈoʊld ðeɪ mˈeɪ ɡɛt tə bˈiː .|0
+LJSpeech-1.1/wavs/LJ032-0049.wav|ðə spəsˈɪfɪk ɹˈaɪfəl ʃˈɪpt ɐɡˈɛnst ðɪ ˈɔːɹdɚ hɐdbɪn ɹᵻsˈiːvd baɪ klˈaɪnz fɹʌm kɹˈɛsənt ˌɔn fˈɛbɹuːˌɛɹi twˈɛnti wˌʌn , nˈaɪntiːn sˈɪksti θɹˈiː .|0
+LJSpeech-1.1/wavs/LJ042-0103.wav|ˈɑːswəld ɐpˈæɹəntli ɹᵻzˈɛntᵻd ðɪ ˈɛksɚsˌaɪz ʌv ɐθˈɔːɹɪɾi ˌoʊvɚ hˌɪm ænd ðə bˈɛɾɚ tɹˈiːtmənt ɐfˈoːɹdᵻd tə kˈɑːmjuːnˌɪst pˈɑːɹɾi əfˈɪʃəlz .|0
+LJSpeech-1.1/wavs/LJ029-0115.wav|ɪn pɹˈɛfɹəns tʊ ɐ ʃˈɔːɹt stɹˈɛtʃ ʌvðə sˈɛntɹəl ɛkspɹˈɛsweɪ , wˌɪtʃ pɹɪzˈɛntᵻd ɐ mˈaɪnɚ sˈeɪfti hˈæzɚd|0
+LJSpeech-1.1/wavs/LJ008-0064.wav|wˌɛn ðə kɹˈɪmɪnəlz ɑːɹ tˈaɪd ˌʌp ænd pɹɪpˈɛɹd fɔːɹ ðɛɹ fˈeɪt , ðɪs flˈoːɹ sˈʌdənli fˈɔːlz dˈaʊn , əpˌɑːn wɪθdɹˈɔːɪŋ ðə səpˈoːɹɾɚz ˈɪnwɚdz .|0
+LJSpeech-1.1/wavs/LJ019-0238.wav|ðə fˈɜːst dˈɑːlɚ ɡlˈæs hˈaʊs , dˈɑːlɚɹ ɔːɹ ɹˈuːm ɪnwˌɪtʃ pɹˈɪzənɚz kʊd tˈɔːk ɪn pɹˈaɪvət wɪð ðɛɹ ɐtˈɜːniz , bˌʌt jˈɛt biː sˈiːn baɪ ðə wˈɔːɹdɚɹ ɔnðə wˈɑːtʃ , hɐdbɪŋ kənstɹˈʌktᵻd|0
+LJSpeech-1.1/wavs/LJ037-0185.wav|ɹˈɛkɚdz ʌv sˈiːpoːɹt tɹˈeɪdɚz , ɪŋkˈoːɹpɚɹˌeɪɾᵻd , ɐ mˈeɪl ˈɔːɹdɚ dᵻvˈɪʒən ʌv dʒˈɔːɹdʒ ɹˈoʊz ænd kˈoʊ. ,|0
+LJSpeech-1.1/wavs/LJ044-0036.wav|ðˈɛn nˈæʃənəl dᵻɹˈɛktɚɹ ʌv ˌɛfpˌiːsˌiːsˈiː . ɪn wˈʌn ʌv ðoʊz lˈɛɾɚz , dˈeɪɾᵻd ˈɔːɡəst wˌʌn , nˈaɪntiːn sˈɪksti θɹˈiː ,|0
+LJSpeech-1.1/wavs/LJ045-0131.wav|nˈiːðɚ hˈɑːsti nˈɔːɹ ˌɛni ˈʌðɚɹ ˈeɪdʒənt ʌvðɪ ˌɛfbˌiːˈaɪ spˈoʊk tʊ ˈɑːswəld ˌɔn ˌɛni sˈʌbdʒɛkt fɹʌm ˈɔːɡəst tˈɛn , nˈaɪntiːn sˈɪksti θɹˈiː ,|0
+LJSpeech-1.1/wavs/LJ039-0228.wav|kənsˈɜːnɪŋ ðə ʃˈɑːts wˌɪtʃ stɹˈʌk ðə pɹˈɛzɪdənt ɪnðə bˈæk ʌvðə nˈɛk ,|0
+LJSpeech-1.1/wavs/LJ041-0058.wav|wˌɪtʃ mˌaɪt ɐpˈɪɹ təbi ɪŋkənsˈɪstənt wɪð hɪz dɪzˈaɪɚ tə dʒˈɔɪn ðə mɚɹˈiːnz , kˌʊdɐv bˌɪn ɐnˈʌðɚ mˌænɪfɪstˈeɪʃən ʌv ˈɑːswəldz ɹᵻdʒˈɛkʃən ʌv hɪz ɛnvˈaɪɹənmənt .|0
+LJSpeech-1.1/wavs/LJ007-0060.wav|ɪn hɪz ˈɛvɪdəns bᵻfˌoːɹ ðɪ ɪnspˈɛktɚz hiː dᵻklˈɛɹd ðæt dˈɑːlɚ fɔːɹ jˈɪɹz hiː ɡˈeɪv hɪz hˈoʊl tˈaɪm tə hɪz dˈuːɾiz , fɹʌm ɐn ˈɜːli ˈaʊɚɹ ɪnðə mˈɔːɹnɪŋ tˈɪl lˈeɪt ɪnðɪ ˌæftɚnˈuːn .|0
+LJSpeech-1.1/wavs/LJ001-0076.wav|ænd θˈɪŋz ɡɑːt wˈɜːs ænd wˈɜːs θɹuː ðə hˈoʊl ʌvðə sˈɛvəntˌiːnθ sˈɛntʃɚɹi , sˌoʊ ðæt ɪnðɪ ˈeɪtiːnθ pɹˈɪntɪŋ wʌz vˈɛɹi mˈɪzɹəbli pɚfˈɔːɹmd .|0
+LJSpeech-1.1/wavs/LJ045-0091.wav|ʃiː sˈɛd hiː wʌz dˈɪfɹənt fɹʌm ˈʌðɚ pˈiːpəl ˈɪn , kwˈoʊt , æt , lˈiːst hɪz ɪmˌædʒᵻnˈeɪʃən , hɪz fˈæntəsi , wˌɪtʃ wʌz kwˈaɪt ʌnfˈaʊndᵻd ,|0
+LJSpeech-1.1/wavs/LJ010-0308.wav|baɪ ðə dˈɛθ ʌv wˈʌn ʌvðə pˈɑːɹtnɚz , ɐ lˈɑːɹdʒ sˈʌm ɪŋ kˈæʃ hædtə biː wɪθdɹˈɔːn fɹʌmðə bˈæŋk tə pˈeɪ hɪz ˈɛɹz .|0
+LJSpeech-1.1/wavs/LJ008-0222.wav|ʌv ðoʊz hˌuː hæd ʃˈoʊn ðə wˈaɪt , ænd ðoʊz hˌuː hæd dˈaɪd ɡˈeɪm .|0
+LJSpeech-1.1/wavs/LJ047-0019.wav|ˈɑːswəldz dᵻfˈɛkʃən wʌz ˈɔːlsoʊ ðɪ əkˈeɪʒən fɚðɪ ˈoʊpənɪŋ ʌv fˈaɪlz baɪ ðə dᵻpˈɑːɹtmənt ʌv stˈeɪt , sˌiːˌaɪˈeɪ , ænd ðɪ ˈɑːfɪs ʌv nˈeɪvəl ɪntˈɛlɪdʒəns .|0
+LJSpeech-1.1/wavs/LJ008-0059.wav|ˌʌndɚ ðɪs bˈɑːɹ æɾə pɹˈɑːpɚ dˈɪstəns ɪz ɐ pˈiːs ʌv flˈoːɹɪŋ ɔːɹ plˈætfɔːɹm ,|0
+LJSpeech-1.1/wavs/LJ035-0029.wav|nˈiːðɚɹ ˈɛlɪvˌeɪɾɚ wʌz ðˈɛɹ .|0
+LJSpeech-1.1/wavs/LJ004-0076.wav|dˈɑːlɚ dɪzˈiːz , kˈoʊld , fˈæmɪn , nˈeɪkᵻdnəs , ænd kəntˈeɪdʒəs ænd pəlˈuːɾᵻd ˈɛɹ ɑːɹ nˌɑːt lˈɔːfəl pˈʌnɪʃmənts ɪnðə hˈændz ʌvðə sˈɪvəl mˈædʒɪstɹˌeɪts ;|0
+LJSpeech-1.1/wavs/LJ003-0119.wav|ðɪs wʌz kˈæɹid ˈaʊt baɪ pˈʊɾɪŋ ðə kɹˈɪmɪnəlz hˈɛd θɹuː ðə lˈɛɡz əvə tʃˈɛɹ , ænd stɹˈɛtʃɪŋ ˈaʊt hɪz ˈɑːɹmz ænd tˈaɪɪŋ ðˌɛm tə ðə lˈɛɡz .|0
+LJSpeech-1.1/wavs/LJ003-0228.wav|ænd ðə dʒˈɛnɚɹəl ɪnsəfˈɪʃənsi wʌz sˈʌtʃ|0
+LJSpeech-1.1/wavs/LJ003-0326.wav|sˌoʊ ðætðə vˈɛɹiəs klˈæsᵻz mˌaɪt biː sˈiːɾᵻd sˈɛpɹətli , ænd sˌoʊ æz nˌɑːt tə sˈiː ˈiːtʃ ˈʌðɚ .|0
+LJSpeech-1.1/wavs/LJ031-0019.wav|ðiːz ɹˈuːmz wɜː fɚðɪ ɪmˈɜːdʒənsi tɹˈiːtmənt ʌv ɐkjˈuːtli ˈɪl ɔːɹ ˈɪndʒɚd pˈeɪʃənts . ɔːlðˈoʊ ðə fˈɜːst mˈɛsɪdʒ mˈɛnʃənd ɐn ˈɪndʒɚɹi ˈoʊnli tə pɹˈɛzɪdənt kˈɛnədi ,|0
+LJSpeech-1.1/wavs/LJ010-0275.wav|bˌʌt ɪt wʌz pɹˈuːvd ðætðə pˈɪstəl wʌz nˌɑːt lˈoʊdᵻd wɪð bˈɔːl ,|0
+LJSpeech-1.1/wavs/LJ040-0127.wav|ɔːɹ fɔːɹ dɪtˈɛnʃən pˈɛndɪŋ kˈoːɹt ɐpˈɪɹəns ɔːɹ kəmˈɪtmənt tʊ ɐ tʃˈaɪld kˈɛɹɪŋ ɔːɹ kʌstˈoʊdɪəl ˌɪnstɪtˈuːʃən sˈʌtʃ ɐz ɐ tɹˈeɪnɪŋ skˈuːl .|0
+LJSpeech-1.1/wavs/LJ048-0164.wav|fɚðɪ ɪnˌɔːɡjɚɹˈeɪʃən ænd sˈɜːʔn̩ ˈʌðɚ pɚɹˈeɪdz ɪn wˈɑːʃɪŋtən wˌɛɹ ðə tɹɐdˈɪʃənəl ɹˈaʊt ɪz nˈoʊn tə ðə pˈʌblɪk lˈɔŋ ɪn ɐdvˈæns ʌvðɪ ᵻvˈɛnt ,|0
+LJSpeech-1.1/wavs/LJ032-0082.wav|ænd ðə fˈoʊɾəɡɹˌæf ʌv lˈiː hˈɑːɹvi ˈɑːswəld .|0
+LJSpeech-1.1/wavs/LJ033-0110.wav|fɹˈeɪziɚɹ ænd mˈɪsɪz . ɹˈændəl tˈɛstᵻfˌaɪd|0
+LJSpeech-1.1/wavs/LJ004-0207.wav|ænd ˈɔːl ðə mətˈɪɹiəl fɔːɹ pɹˈɪzənɚz ɐpˈæɹəl wʌz mˌænjuːfˈæktʃɚd ɪnðə dʒˈeɪl .|0
+LJSpeech-1.1/wavs/LJ041-0189.wav|hiː wʌz kənsˈɜːnd wɪð hɪz ˈɪmɪdʒ ɪn hˈɪstɚɹi ænd aɪ dˈuː θˈɪŋk ðæt ɪz wˌaɪ hiː tʃˈoʊz ðə pɚtˈɪkjʊlɚ mˈɛθəd ʌv dᵻfˈɛktɪŋ hiː tʃˈoʊz ænd dˈɪd ɪɾ ɪnðə wˈeɪ hiː dˈɪd .|0
+LJSpeech-1.1/wavs/LJ048-0264.wav|ðə spˈɛʃəl ˈeɪdʒənt ɪz əfˈɪʃəli ɛmplˈɔɪd ænd ʃˌʊd nˌɑːt jˈuːz lˈɪkɚ , ʌntˈɪl ðə kəmplˈiːʃən ʌv ˈɔːl ʌv hɪz əfˈɪʃəl dˈuːɾiz fɚðə dˈeɪ ,|0
+LJSpeech-1.1/wavs/LJ010-0171.wav|ˌɔn ðæt dˈeɪ ˈɑːksfɚd wʌz ɔnðə wˈɑːtʃ æt bˈʌkɪŋˌæm pˈælɪs .|0
+LJSpeech-1.1/wavs/LJ021-0077.wav|ðɛɹ ɪz nˈoʊ mˈædʒɪk fˈɔːɹmjʊlə ,|0
+LJSpeech-1.1/wavs/LJ021-0015.wav|ðɪ ˌʌndɚlˈaɪɪŋ nəsˈɛsɪɾi fɔːɹ sˈʌtʃ æktˈɪvɪɾi|0
+LJSpeech-1.1/wavs/LJ021-0177.wav|dˈɪd ˈɪŋɡlənd hˈoʊld tə ðə ɡˈoʊld stˈændɚd wɛn hɜː ɹɪzˈɜːvz wɜː θɹˈɛʔn̩d ?|0
+LJSpeech-1.1/wavs/LJ019-0303.wav|ʌv ðˈiːz , sˈɪksti θɹˈiː ɡˈeɪv ɐdmˈɪtəns dˈʊɹɹɪŋ ðɪ ɛntˈaɪɚ jˈɪɹ tə lˈɛs ðɐn twˈɛnti fˈaɪv pɹˈɪzənɚz ;|0
+LJSpeech-1.1/wavs/LJ016-0001.wav|ðə kɹˈɑːnɪkəlz ʌv nˈuːɡeɪt , vˈɑːljuːm tˈuː . baɪ ˈɑːɹθɚ ɡɹˈɪfɪθs . sˈɛkʃən nˈaɪntiːn : lˈeɪɾɚ ɹˈɛkɚdz|0
+LJSpeech-1.1/wavs/LJ049-0009.wav|wˌɛn pɹˈɛzɪdənt ænd mˈɪsɪz . kˈɛnədi ʃˈʊk hˈændz wɪð mˈɛmbɚz ʌvðə pˈʌblɪk ɐlˈɔŋ ðə fˈɛnsᵻz sɚɹˈaʊndɪŋ ðə ɹᵻsˈɛpʃən ˈɛɹiə , ðeɪ wɜː klˈoʊsli ɡˈɑːɹdᵻd baɪ sˈiːkɹᵻt sˈɜːvɪs ˈeɪdʒənts|0
+LJSpeech-1.1/wavs/LJ037-0216.wav|ɪnðə pˈɪktʃɚ ʃiː tˈʊk ɪn lˈeɪt mˈɑːɹtʃ ɔːɹ ˈɜːli ˈeɪpɹəl nˈaɪntiːn sˈɪksti θɹˈiː wɛn ðə fˈæmɪli wʌz lˈɪvɪŋ ˌɔn nˈiːli stɹˈiːt ɪn dˈæləs .|0
+LJSpeech-1.1/wavs/LJ008-0292.wav|bˌʌt ɪt wʌz sˈɛldəm lˈɛs ðɐn sˈɪks wˈiːks . ɪɾ ˈɔːl dᵻpˈɛndᵻd əpˌɑːn ðə sˈɑːvɚɹˌɪnz dˌɪspəzˈɪʃən tə dˈuː bˈɪznəs .|0
+LJSpeech-1.1/wavs/LJ002-0066.wav|ðə mˈæstɚ fˈɛlənz sˈaɪd kənsˈɪstᵻd əvə jˈɑːɹd ðə sˈeɪm sˈaɪz æz ðə pɹɪsˈiːdɪŋ , ɐpɹˈoʊpɹɪˌeɪɾᵻd nˈɑːmɪnəli tə ðə mˈoʊst dˈiːsənt ænd bˈɛɾɚ bᵻhˈeɪvd pɹˈɪzənɚz ,|0
+LJSpeech-1.1/wavs/LJ039-0044.wav|mˈɪstɚ . dʒˈɑːnsən wʌzðə ðˈɛn vˈaɪs pɹˈɛzɪdənt ænd hɪz vˈɪzɪt tˈʊk plˈeɪs ˌɔn ˈeɪpɹəl twˈɛnti θˈɜːd .|0
+LJSpeech-1.1/wavs/LJ039-0220.wav|ænd ðˈætwˌʌn wʊd nˌɑːthævtə biː ɐn ˈɛkspɜːt mˈɑːɹksmən tə hæv ɐkˈɑːmplɪʃt ðɪ ɐsˌæsᵻnˈeɪʃən wɪððə wˈɛpən wˌɪtʃ wʌz jˈuːzd .|0
+LJSpeech-1.1/wavs/LJ006-0274.wav|pɚhˈæps ðə wˈɜːst fˈiːtʃɚɹ ʌvðə vˈɪzɪɾɪŋ sˈɪstəm wʌzðə pɚmˈɪʃən ɐkˈoːɹdᵻd tə mˈeɪl pɹˈɪzənɚz dˈɑːlɚɹ ˌʌndɚ ðə nˈeɪm ʌv hˈʌsbəndz , bɹˈʌðɚz , ænd sˈʌnz dˈɑːlɚ|0
+LJSpeech-1.1/wavs/LJ005-0250.wav|ðə pɹˈɪzənɚz wɜː kɹˈaʊdᵻd təɡˌɛðɚɹ ɪnðə dʒˈeɪl , kˈɑːntɹɛɹi tə ðə ɹᵻkwˈaɪɚmənts ʌvðə fˈoːɹ dʒˈɔːɹdʒ ðə fˈoːɹθ|0
+LJSpeech-1.1/wavs/LJ038-0050.wav|ðeɪ mˌaɪthɐv hˈɜːd ɐ snˈæpɪŋ nˈɔɪz ɹɪzˈʌltɪŋ fɹʌmðə pəlˈiːs ˈɑːfɪsɚ ɡɹˈæbɪŋ ðə sˈɪlɪndɚɹ ʌvðə ɹᵻvˈɑːlvɚ ænd pˈʊlɪŋ ɪɾ ɐwˈeɪ fɹʌm ˈɑːswəld wˌaɪl hiː wʌz ɐtˈɛmptɪŋ tə pˈʊl ðə tɹˈɪɡɚ .|0
+LJSpeech-1.1/wavs/LJ012-0144.wav|ænd pˈæst ɪɾ ˌɔn tə sˈɑːlɑːmənz baɪ hɪz dˈɔːɾɚ , ɐ wˈɪdoʊ nˈeɪmd ˈeɪbɹəhˌæmz .|0
+LJSpeech-1.1/wavs/LJ004-0139.wav|dˈɑːlɚɹ ɪnðə mˈɔːɹnɪŋ ðə stˈɛntʃ ænd hˈiːt wɜː sˌoʊ əpɹˈɛsɪv ðæt hiː ænd ˈɛvɹi wˈʌn ˈɛls ˌɔn wˈeɪkɪŋ ɹˈʌʃt ʌŋklˈoʊðd ˌɪntʊ ðə jˈɑːɹd ; dˈɑːlɚ|0
+LJSpeech-1.1/wavs/LJ020-0100.wav|ʌnlˈɛs ɪɾ ɪz tˈuː hˈɑːt , ðeɪ wɪl ɡɛt nˈoʊ hˈɑːɹm wˌaɪl juː fˈɪnɪʃ dɹˈɛsɪŋ ɪn tˈɛn mˈɪnɪts , dʒˈʌst ɪn sˈiːzən tə tˈɜːn ðə pˈæn .|0
+LJSpeech-1.1/wavs/LJ017-0247.wav|ðə ɹˈɛst ʌvðə kɹˈuː wɜːɹ ˈɔːlsoʊ pɚmˈɪɾᵻd tʊ ɛmbˈɑːɹk , ɛksˈɛpt ðə tʃˈaɪneɪmˌɛn , wˈʌn ʌv hˈuːm wʌz θɹˈoʊn ˌɪntʊ ðə wˈɔːɾɚ ænd dɹˈaʊnd ,|0
+LJSpeech-1.1/wavs/LJ009-0108.wav|ðə tˈuː mˈæsᵻz ʌv pɹˈɪzənɚz fɔːɹ tɹˈaɪəl ˈʌndʒuːlˌeɪt ænd slˈaɪtli mˈɜːmɚ ,|0
+LJSpeech-1.1/wavs/LJ044-0066.wav|ˈɑːswəld ɹˈoʊt ðæt hiː hæd ɐpˈɪɹd ˌɔn mˈɪstɚ . wˈɪljəm stˈʌkiz fˈɪftiːn mˈɪnɪt tˈɛlᵻvˌɪʒən pɹˈoʊɡɹæm ˌoʊvɚ dˌʌbəljˌuːdˌiːˌɛsjˈuː tˌiːvˈiː kˈɔːld , kwˈoʊt ,|0
+LJSpeech-1.1/wavs/LJ032-0105.wav|kwˈoʊt , aɪ nˈuː ðɛɹwˌʌz nˈoʊ sˈʌtʃ ˌɔːɹɡɐnᵻzˈeɪʃən . ænd aɪ nˈoʊ hˈaɪdəl ɪz mˈɪɹli ɐn ˈɔltɚd fᵻdˈɛl , ænd aɪ lˈæft æt sˈʌtʃ fˈuːlɪʃnəs .|0
+LJSpeech-1.1/wavs/LJ035-0186.wav|ˈæftɚ hiː ɹᵻtˈɜːnd tə ðə stɹˈiːt hiː dᵻɹˈɛktᵻd sˈɑːɹdʒənt hˈɑːɹknəs tə stˈeɪʃən tˈuː pɐtɹˈoʊlmɛn æt ðə fɹˈʌnt dˈoːɹ ænd nˌɑːt lˈɛt ˈɛnɪwˌʌn ɪn ɔːɹ ˈaʊt ;|0
+LJSpeech-1.1/wavs/LJ036-0125.wav|ænd ðæt sˈʌmtaɪmz hiː mˌeɪd hɪz ˈɛntɹi ɹˈaɪt ˈæftɚɹ ɐ tɹˈɪp wˌaɪl æɾ ˈʌðɚ tˈaɪmz hiː wˈeɪɾᵻd tə ɹᵻkˈoːɹd θɹˈiː ɔːɹ fˈoːɹ tɹˈɪps .|0
+LJSpeech-1.1/wavs/LJ045-0241.wav|ðˌɐɾɪt kæn ɐskɹˈaɪb tə hˌɪm ˌɛni wˈʌn mˈoʊɾɪv ɔːɹ ɡɹˈuːp ʌv mˈoʊɾɪvz .|0
+LJSpeech-1.1/wavs/LJ006-0153.wav|ɪt wʌz nˌɑːt stɹˈeɪndʒ ðæt sʌbˈoːɹdᵻnˌeɪts ʃˌʊd nᵻɡlˈɛkt ðɛɹ dˈuːɾi wɛn suːpˈiəɹɪɚz sˈɛt ðɪ ɛɡzˈæmpəl .|0
+LJSpeech-1.1/wavs/LJ024-0010.wav|tə mˌeɪk ðɪ ɐdmˌɪnɪstɹˈeɪʃən ʌv ˈɔːl fˈɛdɚɹəl dʒˈʌstɪs spˈiːdiɚɹ ænd , ðˈɛɹfoːɹ , lˈɛs kˈɔstli ;|0
+LJSpeech-1.1/wavs/LJ033-0139.wav|ˈɑːswəldz mˈænlɪxɚ kɑːɹkˈɑːnoʊ ɹˈaɪfəl , sˈɪɹiəl nˈʌmbɚ sˈiː tˈuː sˈɛvən sˈɪks sˈɪks , wˌɪtʃ wʌz ˈɔːlsoʊ fˈaʊnd ɔnðə sˈɪksθ flˈoːɹ .|0
+LJSpeech-1.1/wavs/LJ032-0265.wav|ˈiːtʃ mˈæn tˈɛstᵻfˌaɪd ðæt hiː θˈɔːt hiː kʊd dɪtˈɛkt ðɪ ˈaʊtlaɪn əvɚ ɹˈaɪfəl ɪnðə blˈæŋkɪt , ˈiːvən ðˌoʊ ðə blˈæŋkɪt wʌz ˈɛmpti .|0
+LJSpeech-1.1/wavs/LJ022-0155.wav|pˈaʊɚ pɹədˈʌkʃən ɪn ðɪs kˈʌntɹi ɪz vˈɜːtʃuːəli bˈæk tə ðə nˈaɪntiːn twˈɛnti nˈaɪn pˈiːk .|0
+LJSpeech-1.1/wavs/LJ049-0183.wav|ɹᵻɡˈɑːɹdɪŋ sˈʌtʃ θɹˈɛts ænd ðæt ɪts pɹətˈɛktɪv ɹᵻsˈɜːtʃ sˈɛkʃən ɪz nˌɑːt ˈædɪkwətli stˈæft ɔːɹ ɪkwˈɪpt|0
+LJSpeech-1.1/wavs/LJ035-0085.wav|fɹʌmðə sˈaʊθiːst kˈɔːɹnɚɹ ʌvðə sˈɪksθ flˈoːɹ dˌaʊn ðə stˈɛɹweɪ tə ðə lˈʌntʃ ɹuːm .|0
+LJSpeech-1.1/wavs/LJ005-0178.wav|mˈɛnɪəv ðˌɛm kənsˈɪstᵻd ʌv wˈʌn ɔːɹ tˈuː ɹˈuːmz æt mˈoʊst .|0
+LJSpeech-1.1/wavs/LJ011-0130.wav|ðɪs wʌz ɔnðə lˈæst dˈeɪ ʌv ˈeɪtiːn twˈɛnti nˈaɪn . ɪnðə fˈɑːloʊɪŋ sˈɛʃən sˌɜː ɹˈɑːbɚt pˈiːl bɹˈɔːt ɪn ɐ bˈɪl tə kənsˈɑːlᵻdˌeɪt ðɪ ˈækts ɹᵻlˈeɪɾɪŋ tə fˈɔːɹdʒɚɹi .|0
+LJSpeech-1.1/wavs/LJ045-0005.wav|ɪspˈɛʃəli ɐn ˈætməsfˌɪɹ ʌv ɛkstɹˈiːm ˌɑːpəzˈɪʃən tə pɹˈɛzɪdənt kˈɛnədi ðæt wʌz pɹˈɛzənt ɪn sˌʌm pˈɑːɹts ʌvðə dˈæləs kəmjˈuːnᵻɾi|0
+LJSpeech-1.1/wavs/LJ028-0333.wav|hiː pˌʊt ðˌɛm ˈɔːlsoʊ tə ðə sˈoːɹd .|0
+LJSpeech-1.1/wavs/LJ024-0105.wav|tə blˈɑːk ðɪ ɐmˈɛndmənt , ɔːlðˈoʊ aɪ wʊd biː ˈɔːfəli ɡlˈæd tə hˈɛlp ɡɛt sˌʌm ˈʌðɚ kˈaɪnd ʌv ɐmˈɛndmənt ɹˈæɾᵻfˌaɪd .|0
+LJSpeech-1.1/wavs/LJ018-0330.wav|vˈaɪələnt pˈæʃənz tˈuː ˈiːzili ɚɹˈaʊzd pɹˈɑːmptᵻd ðə fɹˈɛntʃwʊmən mˌɑːɹɡɚɹˈiːt dˈɪksblæŋk|0
+LJSpeech-1.1/wavs/LJ042-0062.wav|ɪt ʃˈoʊz hˌaʊ wˈɪlɪŋ hiː wʌz tʊ ˈækt dɹəmˈæɾɪkli ænd dᵻsˈaɪsɪvli wɛn hiː fˈeɪsd ɐn ɪmˈoʊʃənəl kɹˈaɪsɪs|0
+LJSpeech-1.1/wavs/LJ043-0164.wav|ænd hɪz ɹˈoʊl wʊdhɐv bˌɪn mˌeɪd klˈɪɹ baɪ ðɪ ˈɛvɪdəns wˌɪtʃ hiː hæd lˈɛft bᵻhˈaɪnd .|0
+LJSpeech-1.1/wavs/LJ012-0277.wav|ɪɾ ɪz skˈɛɹsli pɹˈɑːbəbəl ðæt hiː wʊdhɐv ɡɔn tə ðɪs ɛkstɹˈɛmɪɾi ɪf hiː hæd hæd nˈoʊ pɹˈiːviəs ˈiːvəl ɪntˈɛnʃən ,|0
+LJSpeech-1.1/wavs/LJ045-0128.wav|ðætðɪ ˌɛfbˌiːˈaɪ wʌz , kwˈoʊt , nˌɑːt nˈaʊ , ˈɛnd kwˈoʊt , ˈɪntɹɪstᵻd ɪn hɪz fˈɛɹ plˈeɪ fɔːɹ kjˈuːbə kəmˈɪɾi æktˈɪvɪɾiz , bˌʌt nˈoʊɾᵻd ðætðɪ ˌɛfbˌiːˈaɪ , kwˈoʊt ,|0
+LJSpeech-1.1/wavs/LJ042-0170.wav|ðɛɹˌɑːɹ tˈuː ɡɹˈeɪt ɹˌɛpɹᵻzˈɛntətˌɪvz ʌv pˈaʊɚɹ ɪnðə wˈɜːld ,|0
+LJSpeech-1.1/wavs/LJ023-0139.wav|ɪnðə kˈeɪs ʌv suːpɹˈiːm kˈoːɹt dʒˈʌstɪsᵻz , ðæt pˈɛnʃən ɪz twˈɛnti θˈaʊzənd dˈɑːlɚz ɐ jˈɪɹ .|0
+LJSpeech-1.1/wavs/LJ015-0179.wav|ðə sˈɛntɹəl kɹˈɪmɪnəl kˈoːɹt , wˌɛn ðə tɹˈaɪəl kˈeɪm ˈɔn ,|0
+LJSpeech-1.1/wavs/LJ031-0063.wav|wˌɛn dˈɑːktɚ . pˈɛɹi nˈoʊɾᵻd fɹˈiː ˈɛɹ ænd blˈʌd ɪnðə pɹˈɛzɪdənts tʃˈɛst kˈævɪɾi , hiː ˈæskt ðæt tʃˈɛst tˈuːbz biː ɪnsˈɜːɾᵻd tʊ ɐlˈaʊ fɔːɹ dɹˈeɪnɪdʒ ʌv blˈʌd ænd ˈɛɹ .|0
+LJSpeech-1.1/wavs/LJ034-0208.wav|ɪn ɪvˈæljuːˌeɪɾɪŋ ðɪ ˈɛvɪdəns ðæt ˈɑːswəld wʌz æt ðə sˈaʊθiːst kˈɔːɹnɚ wˈɪndoʊ ʌvðə sˈɪksθ flˈoːɹ æt ðə tˈaɪm ʌvðə ʃˈuːɾɪŋ ,|0
+LJSpeech-1.1/wavs/LJ003-0292.wav|ðɪs kəmˈɪɾi wʌz tə kəmpˈɛɹ ɐlˈaʊənsᵻz , ɛɡzˈæmɪn ɹˈuːlz , ænd sˈɜːɾᵻfˌaɪ æz tə ðə kəndˈɪʃən ʌv pɹˈɪzənɚz ;|0
+LJSpeech-1.1/wavs/LJ005-0035.wav|ðə səsˈaɪəɾi pɚsˈuːd ɪts lˈɔːdəbəl ˌʌndɚtˈeɪkɪŋ wɪð ɹᵻmˈɑːɹkəbəl ˈɛnɚdʒi ænd ɡɹˈeɪt sˈɪŋɡəlnəs ʌv pˈɜːpəs .|0
+LJSpeech-1.1/wavs/LJ034-0074.wav|aɪ dɪskˈʌvɚd aɪ lˈɛft maɪ sˌɪɡɚɹˈɛts ɪn maɪ dʒˈækɪt pˈɑːkɪt ʌpstˈɛɹz , ænd aɪ tˈʊk ðɪ ˈɛlɪvˌeɪɾɚ bˈæk ʌpstˈɛɹz tə ɡɛt maɪ dʒˈækɪt wɪð maɪ sˌɪɡɚɹˈɛts ɪn ɪt , ˈɛnd kwˈoʊt .|0
+LJSpeech-1.1/wavs/LJ006-0143.wav|ðɛɹwˌʌz nˈoʊ pˈɛnəlɾi ɐtˈætʃt tə dɹˈʌŋkənnəs .|0
+LJSpeech-1.1/wavs/LJ016-0337.wav|ɪnðə hˈaʊzᵻz ˈɑːpəzˌɪt ðə pɹˈɪzən nˈʌmbɚz ʌv dɪtˈɛktɪvz mˈɪkst wɪððə spɛktˈeɪɾɚz ;|0
+LJSpeech-1.1/wavs/LJ029-0145.wav|ɪn ˈɔːɹdɚ tə ɹˈiːtʃ ðə dˈæləs fˈɔːɹt wˈɜːθ tˈɜːnpaɪk , wˌɪtʃ hɐz ðə sˈeɪm ˈæksɛs ɹˈoʊd fɹʌm ˈɛlm stɹˈiːt æz dˈʌz ðə stˈɛmənz fɹˈiːweɪ .|0
+LJSpeech-1.1/wavs/LJ025-0104.wav|ˈiːvən ɪnðə kˈeɪs ʌvðə ɡɹˈiːn plˈænt , wˌɪtʃ ɪnðə dˈɑːɹk ɐbsˈoːɹbz ˈɑːksɪdʒən ænd ɡˈɪvz ˈaʊt kɑːɹbˈɑːnɪk ˈæsɪd lˈaɪk ˌɛni ˈænɪməl .|0
+LJSpeech-1.1/wavs/LJ005-0063.wav|ɪt wʌz θˈɔːt ðæt ðɪs wʊd ɡˌæɹəntˈiː kˈɑːnstənt suːpɚvˈɪʒən ænd ɪnspˈɛkʃən , bˌʌt ɪt dˈɪd nˈʌθɪŋ ʌvðə kˈaɪnd , ænd ˈoʊnli ðə pɹˈɛzəns ʌv wˈɔːɹdɚz ˌɔn dˈuːɾi|0
+LJSpeech-1.1/wavs/LJ019-0216.wav|ᵻvˈɛntʃuːəli hˈɑːləwˌeɪ wʌz dᵻsˈaɪdᵻd əpˌɑːn æz ɐ sˈaɪt fɚðə nˈuː sˈɪɾi pɹˈɪzən .|0
+LJSpeech-1.1/wavs/LJ042-0142.wav|hiː wʌz vˈɛɹi ˈɪɹɪɾəbəl , sˈʌmtaɪmz fɚɹə tɹˈaɪfəl , ˈɛnd kwˈoʊt , ænd ðˈæt , kwˈoʊt , lˈiː wʌz vˈɛɹi ˌʌnɹᵻstɹˈeɪnd ænd vˈɛɹi ɛksplˈoʊsɪv , ˈɛnd kwˈoʊt .|0
+LJSpeech-1.1/wavs/LJ018-0078.wav|ðə nˈɛkst tˈaɪm tˈaɪn ˈɛntɚd hɪz kˈæbɪn hiː fˈaɪɚd æt hˌɪm pˈɔɪnt blˈæŋk , ænd lˈɑːdʒd θɹˈiː bˈʊlɪts ɪn hɪz bɹˈɛst .|0
+LJSpeech-1.1/wavs/LJ001-0169.wav|ðə pˈeɪpɚ jˈuːzd fɔːɹ pɹˈɪntɪŋ ðə smˈɔːl hˈaɪli ˈɔːɹnəmˌɛntᵻd fɹˈɛntʃ sˈɜːvɪs bˈʊks ɐbˌaʊt ðə bɪɡˈɪnɪŋ ʌvðə sˈɪkstiːnθ sˈɛntʃɚɹi ɪz ɐ mˈɑːdəl ɪn ðɪs ɹᵻspˈɛkt ,|0
+LJSpeech-1.1/wavs/LJ011-0021.wav|fˈɜːðɚɹ ɪnvˌɛstɪɡˈeɪʃənz bɹˈɔːt ˈʌðɚ sˈɪmɪlɚ fɹˈɔːdz tə lˈaɪt ,|0
+LJSpeech-1.1/wavs/LJ049-0145.wav|æz ɪmpɹˈuːvmənts ɑːɹ ɹˌɛkəmˈɛndᵻd fɚðɪ ɐdvˈæns dɪtˈɛkʃən ʌv pətˈɛnʃəl θɹˈɛts tə ðə pɹˈɛzɪdənt , ɪt kʊd ˈækt æz ɐ fˈaɪnəl ɹᵻvjˈuː bˈoːɹd .|0
+LJSpeech-1.1/wavs/LJ021-0056.wav|ˌʌndɚɹ ɪts ɡˈaɪdəns , tɹˈeɪdz ænd ˈɪndʌstɹiz kˈʌvɚɹɪŋ ˌoʊvɚ nˈaɪnti pɚsˈɛnt ʌv ˈɔːl ɪndˈʌstɹɪəl ɛmplˈɔɪiːz|0
+LJSpeech-1.1/wavs/LJ039-0163.wav|ðɪ ˈɪnfəntɹi wˈɛpənz ɪvˌæljuːˈeɪʃən bɹˈæntʃ ʌvðə bɐlˈɪstɪks ɹᵻsˈɜːtʃ lˈæbɹətˌɔːɹi hæd ˈɛkspɜːt ɹˈaɪflɪmˌɛn fˈaɪɚ ðɪ ɐsˌæsᵻnˈeɪʃən wˈɛpən|0
+LJSpeech-1.1/wavs/LJ003-0290.wav|ðə kˈoːɹt ʌv ˈɔːldɚmˌɛn ɐpˈɔɪntᵻd ɐ kəmˈɪɾi ʌv ɪts ˈoʊn bˈɑːdi , ɐsˈɪstᵻd baɪ ðə tˈaʊŋ klˈɜːk , mˈɪstɚ . dˈæns , sˈɪɾi sɚvˈeɪɚ , sˈʌn tə ðɪ ˈɑːɹkɪtˌɛkt ʌv nˈuːɡeɪt ,|0
+LJSpeech-1.1/wavs/LJ016-0122.wav|hiː mˌeɪd ɐ stɹˈɔŋ ɹˈoʊp wɪð sˈɛvɹəl ʌvðə ʃˈiːts ; ðˈɛn , ɹᵻtˈɜːnɪŋ tə ðə mˈeɪl jˈɑːɹd ,|0
+LJSpeech-1.1/wavs/LJ022-0179.wav|spˈiːkɪŋ θɹuː ðɛɹ ɡˈʌvɚnmənt .|0
+LJSpeech-1.1/wavs/LJ022-0101.wav|aɪ hæv fˈɛlt ɪt təbi ᵻsˈɛnʃəli wˈaɪz ænd pɹˈuːdənt tʊ ɐvˈɔɪd , sˈoʊ fˌɑːɹ æz pˈɑːsᵻbəl ,|0
+LJSpeech-1.1/wavs/LJ002-0147.wav|ðæt θˈɜːtiːn hˈʌndɹɪd ænd twˈɛlv dˈɛɾɚz wɜː kəmˈɪɾᵻd baɪ ðˌɛm tə nˈuːɡeɪt bᵻtwˌiːn sˈɛvəntˌiːn nˈaɪnti sˈɛvən ænd ˈeɪtiːn ˈoʊ ˈeɪt ,|0
+LJSpeech-1.1/wavs/LJ045-0010.wav|ðə kəmˈɪʃən hɐz fˈaʊnd nˈoʊ ˈɛvɪdəns ðætðɪ ɛkstɹˈiːm vjˈuːz ɛkspɹˈɛst təwˈɔːɹd pɹˈɛzɪdənt kˈɛnədi|0
+LJSpeech-1.1/wavs/LJ015-0076.wav|sˌʌm tˈaɪm ᵻlˈæpst bᵻfˌoːɹ ɹˈɑːbsən səkˈʌmd tə tɛmptˈeɪʃən .|0
+LJSpeech-1.1/wavs/LJ014-0226.wav|ˈoʊnli ɐ fjˈuː hæv vˈaɪd wɪð kˈænən ɪn fˈiːndɪʃ kɹˈuːəlti ænd bɹuːtˈælɪɾi .|0
+LJSpeech-1.1/wavs/LJ006-0031.wav|ðæt pˈʌnɪʃmənt mˈʌst biː ɹᵻfˈoːɹmətˌoːɹi æz wˈɛl æz dɪtˈɜːɹənt .|0
+LJSpeech-1.1/wavs/LJ047-0210.wav|aɪ θˈɪŋk ˈɔːl ʌv ðˈoʊz , ɪf wiː hˌædðɛm ˈɔːl təɡˈɛðɚ ,|0
+LJSpeech-1.1/wavs/LJ022-0072.wav|θɹuː ðə mˈoʊst kˌɑːmpɹihˈɛnsɪv wˈɜːk plˈæn ɪnðə hˈɪstɚɹi ʌvðə nˈeɪʃən .|0
+LJSpeech-1.1/wavs/LJ038-0001.wav|ɹᵻpˈoːɹt ʌvðə pɹˈɛzɪdənts kəmˈɪʃən ɔnðɪ ɐsˌæsᵻnˈeɪʃən ʌv pɹˈɛzɪdənt kˈɛnədi .|0
+LJSpeech-1.1/wavs/LJ008-0281.wav|ðeɪ fˈaʊnd æt nˈuːɡeɪt , ˌʌndɚ dɪsɡɹˈeɪsfəl kəndˈɪʃənz æz ɔːlɹˌɛdi dᵻskɹˈaɪbd ,|0
+LJSpeech-1.1/wavs/LJ042-0064.wav|ðɪ ˈɛntɹi ɪn hɪz sˈɛlf stˈaɪld , kwˈoʊt , hɪstˈɔːɹɪk dˈaɪɚɹi , ˈɛnd kwˈoʊt , fɔːɹ ɑːktˈoʊbɚ twˈɛnti wˌʌn , nˈaɪntiːn fˈɪfti nˈaɪn , ɹᵻpˈoːɹts , kwˈoʊt ,|0
+LJSpeech-1.1/wavs/LJ002-0307.wav|ˈoʊnli ˌaʊɾəv ɐ sˌæɾɪsfˈækʃən ʌv ˈɔːl hɪz fˈɔːɹmɚ dˈɛts , ˈɛnd kwˈoʊt . ðə fˈiːz wɜː nˌɑːt ˈɔːlweɪz ɛkstˈɔːɹɾᵻd , ɪɾ ɪz tɹˈuː ;|0
+LJSpeech-1.1/wavs/LJ021-0100.wav|lˈɛt mˌiː kˈɔːl jʊɹ ɐtˈɛnʃən tə ðə fˈækt ðætðə nˈæʃənəl ɪndˈʌstɹɪəl ɹᵻkˈʌvɚɹi ˈækt|0
+LJSpeech-1.1/wavs/LJ030-0241.wav|pɹˈɛzɪdənt dʒˈɑːnsən ˈɛmfɐsˌaɪzd jˈʌŋblʌdz ˌɪnstəntˈeɪniəs ɹɪˈækʃən ˈæftɚ ðə fˈɜːst ʃˈɑːt :|0
+LJSpeech-1.1/wavs/LJ005-0135.wav|ænd ðɪ ˈævɹɪdʒ dˈeɪli nˈʌmbɚ kəmˈɪɾᵻd ðæt jˈɪɹ ɐmˈaʊntᵻd tə θɹˈiː θˈaʊzənd , nˈaɪn hˈʌndɹɪd ˈeɪɾi fˈaɪv .|0
+LJSpeech-1.1/wavs/LJ022-0144.wav|æz wiː hæv pɹəsˈiːdᵻd wɪððɪ ɐdmˌɪnɪstɹˈeɪʃən ʌv ðɪs ˈækt ,|0
+LJSpeech-1.1/wavs/LJ012-0081.wav|bˌiːɪŋ ˌɪnɛkspˈiəɹɪənst , ðeɪ dᵻsˈaɪdᵻd tə kˈɔːl ɪnðə sˈɜːvɪsᵻz əvə kˈʌpəl ʌv pɹəfˈɛʃənəl hˈaʊsbɹeɪkɚz ,|0
+LJSpeech-1.1/wavs/LJ048-0204.wav|ænd ðæt ðeɪ hæd nˈoʊ ɑːpɚtˈuːnɪɾi tə skˈæn ðə wˈɪndoʊz ʌvðə dᵻpˈɑːzɪtˌoːɹi ɔːɹ ˌɛni ˈʌðɚ bˈɪldɪŋ ɪnðə vɪsˈɪnɪɾi ʌv ˈɛlm ænd hjˈuːstən wɛn ðə mˈoʊɾɚkˌeɪd wʌz pˈæsɪŋ .|0
+LJSpeech-1.1/wavs/LJ009-0141.wav|lˈɔːɹd pˈæɡɪt , lˈɔːɹd bɹˈuːs , sˈɛvɹəl mˈɛmbɚz ʌvðə hˈaʊs ʌv kˈɑːmənz , ænd ɐ fjˈuː lˈeɪdiz .|0
+LJSpeech-1.1/wavs/LJ012-0065.wav|ðɛɹ hiː dɪvˈoʊɾᵻd hɪmsˈɛlf tə ðə sˌɜːkjʊlˈeɪʃən ʌv fˈɔːɹdʒd nˈoʊts . hiː wʌz ˈɔːlsoʊ ˈæŋʃəs tə dˈuː bˈɪznəs ɪn wˈɑːtʃᵻz ,|0
+LJSpeech-1.1/wavs/LJ015-0020.wav|hiː wʌzɐ mˈæn ɛstˈiːmd ænd ɹᵻspˈɛktᵻd ɪn səsˈaɪəɾi ænd ðə wˈɜːld ʌv fˈaɪnæns , ɪŋkˈeɪpəbəl æz ɪt wʌz θˈɔːt əvə dɪsˈɑːnɪst dˈiːd .|0
+LJSpeech-1.1/wavs/LJ017-0209.wav|mˈoːɹ pɚtˈɪkjʊlɚli æz ɹᵻɡˈɑːɹdz lˌoʊkəmˈoʊʃən .|0
+LJSpeech-1.1/wavs/LJ043-0112.wav|mˈɪsɪz . pˈeɪn bɹˈɔːt ˈɑːswəldz fˈæmɪli tə nˈuː ˈɔːɹliənz .|0
+LJSpeech-1.1/wavs/LJ003-0193.wav|wˈʌns , dˈʊɹɹɪŋ ðə lˈɔŋ ˈɪlnəs ʌv dʒˈɔːɹdʒ ðə θˈɜːd , æz mˈɛni æz wˈʌn hˈʌndɹɪd wɜː ðɛɹ wˈeɪɾɪŋ ðə dˈɑːlɚ ɹᵻpˈoːɹt , dˈɑːlɚɹ æz ɪt wʌz kˈɔːld .|0
+LJSpeech-1.1/wavs/LJ049-0158.wav|ðiːz ɪnfˈɔːɹməl ænd pˈɑːɹt tˈaɪm ɚɹˈeɪndʒmənts lˈɛd tə mˈoːɹ sˌɪstəmˈæɾɪk pɹətˈɛkʃən ɪn nˈaɪntiːn ˈoʊ tˈuː , ˈæftɚ ðɪ ɐsˌæsᵻnˈeɪʃən ʌv pɹˈɛzɪdənt mə kˈɪnli ;|0
+LJSpeech-1.1/wavs/LJ039-0055.wav|ɪn dᵻsˈaɪdɪŋ wˈɛðɚ lˈiː hˈɑːɹvi ˈɑːswəld fˈaɪɚd ðə ʃˈɑːts wˌɪtʃ kˈɪld pɹˈɛzɪdənt kˈɛnədi ænd wˈuːndᵻd ɡˈʌvɚnɚ kˈɑːnæli ,|0
+LJSpeech-1.1/wavs/LJ017-0233.wav|ðə sˈɛkənd mˈeɪt , hˌuː hæd hˈɜːd ðə hˈæmɚɹɪŋ ʌvðə kˈæpstən bˈɑːɹz ænd ðə hˈændspaɪks , wɪððə fˈɜːst mˈeɪtz ænd kˈæptɪnz ˈæɡənˌaɪzd kɹˈaɪz , hæd kˈʌm ˈaʊt ,|0
+LJSpeech-1.1/wavs/LJ044-0032.wav|ɪnwˌɪtʃ wˈʌn mˈæn sˈɪŋɡəl hˈændᵻdli kɹiːˈeɪɾᵻd pʌblˈɪsɪɾi fɔːɹ hɪz kˈɔːz ɔːɹ fɔːɹ hɪmsˈɛlf .|0
+LJSpeech-1.1/wavs/LJ002-0310.wav|ðæt dˈɛɾɚz hˌuː kʊd ɐfˈoːɹd ðə kˈæbɪn ænd mˈæstɚz sˈaɪd wɜː nˌɑːt pɚmˈɪɾᵻd tə ʃˈɛɹ ɪnðə pɹˈɪzən tʃˈæɹɪɾiz .|0
+LJSpeech-1.1/wavs/LJ004-0134.wav|ðə dˈɛɾɚz wɜː kɹˈaʊdᵻd ˈɔːlmoʊst ɪŋkənsˈiːvəbli . ɪn ɐ spˈeɪs twˈɛnti fˈiːt lˈɔŋ baɪ sˈɪks wˈaɪd ,|0
+LJSpeech-1.1/wavs/LJ006-0130.wav|hæd ɐ kˈiː ʌv bˈoʊθ ðə mˈæstɚz sˈaɪd ænd mˈɪdəl sˈaɪd jˈɑːɹdz , wʌzðɪ ˈoʊnli pˈɜːsən pɹˈɛzənt æt ðə dˌɪstɹɪbjˈuːʃən ʌv bˈɪɹ , ænd wʌz tɹˈʌstᵻd tʊ ɛɡzˈæmɪn ,|0
+LJSpeech-1.1/wavs/LJ037-0201.wav|hˈaɪnz dˈʌbəljˌuː . mˈaɪkəliz , ˈɑːfɪs mˈænɪdʒɚɹ ʌv bˈoʊθ dʒˈɔːɹdʒ ɹˈoʊz ænd kˈoʊ. , ɪŋkˈoːɹpɚɹˌeɪɾᵻd ænd sˈiːpoːɹt tɹˈeɪdɚz , ɪŋkˈoːɹpɚɹˌeɪɾᵻd .|0
+LJSpeech-1.1/wavs/LJ050-0222.wav|wʊd tˈeɪk ɐpɹˈɑːksɪmətli twˈɛnti mˈʌnθs tʊ ˈɪmplɪmənt ænd ɹᵻkwˈaɪɚɹ ɛkspˈɛndɪtʃɚz ʌv ɐpɹˈɑːksɪmətli θɹˈiː mˈɪliən dˈɑːlɚz dˈʊɹɹɪŋ ðæt pˈiəɹɪəd .|0
+LJSpeech-1.1/wavs/LJ023-0084.wav|wˌɛn ðə kˈɑːŋɡɹəs hɐz sˈɔːt tə stˈeɪbɪlˌaɪz nˈæʃənəl ˈæɡɹɪkˌʌltʃɚ , tʊ ɪmpɹˈuːv ðə kəndˈɪʃənz ʌv lˈeɪbɚ ,|0
+LJSpeech-1.1/wavs/LJ036-0210.wav|æɾ ɐpɹˈɑːksɪmətli wˌʌn : fˈɪftiːn pˈiː.ˈɛm. , tˈɪpɪt , hˌuː wʌz kɹˈuːzɪŋ ˈiːst ˌɔn tˈɛnθ stɹˈiːt ,|0
+LJSpeech-1.1/wavs/LJ009-0206.wav|pˈæɹɪʃ ˈɑːfɪsɚz , pˈiːs ˈɑːfɪsɚz , ðə hˈaɪ kˈɑːnstəbəl ʌvðə kˈaʊnti ʌv mˈɪdəlsˌɛks ˌɔn hˈɔːɹsbæk , ænd ðˈɛn ðə bˈɑːdi ʌv wˈɪljəmz ,|0
+LJSpeech-1.1/wavs/LJ005-0128.wav|ðɪ ɪntˈɪɹiɚɹ ʌv wˈʌn pɹˈɪzən wʌz ɪlˈuːmᵻnˌeɪɾᵻd θɹuːˈaʊt wɪð ɡˈæs , stˈɪl ɐ nˈɑːvəlɾi , wˌɪtʃ hɐdbɪn dʒˈɛnɚɹəli ɐdˈɑːptᵻd ɪn lˈʌndən ˈoʊnli fˈoːɹ jˈɪɹz pɹˈiːviəsli ,|0
+LJSpeech-1.1/wavs/LJ001-0062.wav|ˈiːvən ɪn ˈɪɾəli mˈoʊst əv ðə θiːəlˈɑːdʒɪkəl ænd lˈɔː bˈʊks wɜː pɹˈɪntᵻd ɪŋ ɡˈɑːθɪk lˈɛɾɚ ,|0
+LJSpeech-1.1/wavs/LJ037-0005.wav|baɪ ðɪ ˈiːvnɪŋ ʌv noʊvˈɛmbɚ twˈɛnti tˈuː , fˈaɪv ʌv ðˌɛm hæd aɪdˈɛntᵻfˌaɪd lˈiː hˈɑːɹvi ˈɑːswəld ɪn pəlˈiːs lˈaɪnʌps æz ðə mˈæn ðeɪ sˈɔː .|0
+LJSpeech-1.1/wavs/LJ016-0052.wav|hiː pˈæst tə ðə tˈɑːp ʌvðɪ ˈɔːɹdɪnˌɛɹiz ɹˈɛzᵻdəns , hˈoʊpɪŋ tə fˈaɪnd ɐn ˈoʊpən skˈaɪ lˈaɪt baɪ wˌɪtʃ hiː mˌaɪt ˈɛntɚ ænd sˌoʊ wˈɜːk dˈaʊnstɛɹz .|0
+LJSpeech-1.1/wavs/LJ022-0157.wav|ˌʌndɚ hˈoʊldɪŋ kˈʌmpəni dˌɑːmᵻnˈeɪʃən ðə juːtˈɪlɪɾi ˈɪndʌstɹi hɐz lˈɔŋ bˌɪn hˈoʊpləsli æt wˈɔːɹ wɪðˌɪn ɪtsˈɛlf ænd wɪð pˈʌblɪk sˈɛntɪmənt .|0
+LJSpeech-1.1/wavs/LJ009-0133.wav|ðɪ aʊtsˈaɪd pˈʌblɪk kəntˈɪnjuːd təbi ɛksklˈuːdᵻd fɹʌmðə nˈuːɡeɪt tʃˈæpəl ɔnðə dˈeɪ ðə kəndˈɛmd sˈɜːmən wʌz pɹˈiːtʃt .|0
+LJSpeech-1.1/wavs/LJ029-0173.wav|bɪɡˈɪnɪŋ ˌɔn sɛptˈɛmbɚ θˈɜːtiːn , wˌɛn ðə tˈaɪmz hˈɛɹəld ɐnˈaʊnst ɪn ɐ fɹˈʌnt pˈeɪdʒ ˈɑːɹɾɪkəl ðæt pɹˈɛzɪdənt kˈɛnədi wʌz plˈænɪŋ ɐ bɹˈiːf wˈʌn dˈeɪ tˈʊɹ ʌv fˈoːɹ tˈɛksəs sˈɪɾiz|0
+LJSpeech-1.1/wavs/LJ026-0091.wav|ðɪs mˈʌst , ɪnðə fˈɜːst ˈɪnstəns , biː pɹəvˈaɪdᵻd fɔːɹ ðˌɛm baɪ ɡɹˈiːn plˈænts , ænd hˈɛns wɪðˌaʊt klˌoːɹoʊfˈɪl bˈɛɹɪŋ plˈænts ,|0
+LJSpeech-1.1/wavs/LJ018-0153.wav|ðɪ ˈɑːfɪsɚz ɛnskˈɑːnst ðɛmsˈɛlvz ɪnðə lˈæɾɚ , ænd wˈeɪɾᵻd fɔːɹ bˈʌntʃɚz ɛkspˈɛktᵻd vˈɪzɪt .|0
+LJSpeech-1.1/wavs/LJ049-0114.wav|wˌʌt ðɪs bˈɪl mˈiːnz tə pˈʌnɪʃ ɪz ðə kɹˈaɪm ʌv ˌɪntɚɹˈʌpʃən ʌvðə ɡˈʌvɚnmənt ʌvðə juːnˈaɪɾᵻd stˈeɪts ænd ðə dᵻstɹˈʌkʃən ʌv ɪts sᵻkjˈʊɹɹɪɾi baɪ stɹˈaɪkɪŋ dˌaʊn ðə lˈaɪf|0
+LJSpeech-1.1/wavs/LJ005-0182.wav|ðæt fɔːɹ lˈɔŋ nˈoʊ aɪdˈiə ʌv ˌɪntəfˈɪɹɪŋ wɪð ðˌɛm wʌz ˌɛntɚtˈeɪnd .|0
+LJSpeech-1.1/wavs/LJ028-0399.wav|ðə spɹˈɛd ʌv moʊhˈæmɪdənˌɪzəm kˈɔːzd nˈuː sˈɪɾiz təbi bˈɪlt , ænd bˈæbɪlən wʌzðə kwˈɔːɹi fɔːɹ ðɛɹ bˈɪldɪŋ mətˈɪɹiəl .|0
+LJSpeech-1.1/wavs/LJ032-0243.wav|ɹˈaɪfəl ɐmˌʌŋ ˈɑːswəldz pəzˈɛʃənz|0
+LJSpeech-1.1/wavs/LJ001-0008.wav|hɐz nˈɛvɚ bˌɪn sɚpˈæst .|0
+LJSpeech-1.1/wavs/LJ010-0173.wav|wˌɛɹ hiː wˈeɪɾᵻd tˈɪl fˈoːɹ pˈiː.ˈɛm. , ðə tˈaɪm æt wˌɪtʃ ðə kwˈiːn ænd pɹˈɪns kˈɑːnsɔːɹt jˈuːʒuːəli tˈʊk ɐn ˌæftɚnˈuːn dɹˈaɪv .|0
+LJSpeech-1.1/wavs/LJ028-0193.wav|ænd tə ðˌɛm kˈeɪm hˈoʊp ʌv ɹᵻtˈɜːnɪŋ tə dʒɚɹˈuːsələm .|0
+LJSpeech-1.1/wavs/LJ033-0059.wav|ɐ ʃˈɔːɹt tˈaɪm lˈeɪɾɚ mˈɪsɪz . pˈeɪn tˈoʊld hɜː ðæt sˈʌmwʌn hæd ʃˈɑːt ðə pɹˈɛzɪdənt , kwˈoʊt , fɹʌmðə bˈɪldɪŋ ɪnwˌɪtʃ lˈiː ɪz wˈɜːkɪŋ , ˈɛnd kwˈoʊt .|0
+LJSpeech-1.1/wavs/LJ012-0222.wav|plˈeɪnli pˈɔɪntɪŋ tə ðə pˌɜːpɪtɹˈeɪʃən ʌv ˈʌðɚ kɹˈaɪmz .|0
+LJSpeech-1.1/wavs/LJ014-0157.wav|nˌɛvɚðəlˈɛs , ʃiː ɐtˈɛmptᵻd tə kəmˈɪt sˈuːɪsˌaɪd baɪ dɹˈaɪvɪŋ hɜː nˈeɪlz , pˈɜːpəsli lˈɛft lˈɔŋ , ˌɪntʊ hɜː θɹˈoʊt .|0
+LJSpeech-1.1/wavs/LJ035-0034.wav|ðə stˈɛɹz fɹʌm wˈʌn flˈoːɹ tə ðə nˈɛkst ɑːɹ dˈɑːlɚɹ ˈɛl ʃˈeɪpt , dˈɑːlɚ wɪð bˈoʊθ lˈɛɡz ʌvðə dˈɑːlɚɹ ˈɛl dˈɑːlɚɹ ɐpɹˈɑːksɪmətli ðə sˈeɪm lˈɛŋθ .|0
+LJSpeech-1.1/wavs/LJ029-0051.wav|ɪnðə tˈɛɹɪtˌoːɹi ʌvðə sˈiːkɹᵻt sˈɜːvɪs ɹˈiːdʒənəl ˈɑːfɪs wˌɪtʃ ɪŋklˈuːdz dˈæləs ænd fˈɔːɹt wˈɜːθ .|0
+LJSpeech-1.1/wavs/LJ042-0104.wav|ˈæftɚ hiː ɹᵻtˈɜːnd tə ðə juːnˈaɪɾᵻd stˈeɪts|0
+LJSpeech-1.1/wavs/LJ048-0244.wav|tʃˈiːf ɹˈoʊli tˈɛstᵻfˌaɪd ðæt ˈeɪdʒənts ˌɔn dˈuːɾi ɪn sˈʌtʃ ɐ sˌɪtʃuːˈeɪʃən jˈuːʒuːəli stˈeɪ wɪðˌɪn ðə bˈɪldɪŋ dˈʊɹɹɪŋ ðɛɹ ɹᵻlˈiːf ,|0
+LJSpeech-1.1/wavs/LJ032-0260.wav|hiː θˈɔːt ɪt kəntˈeɪnd tˈɛnt pˈoʊlz , ɔːɹ pˈɑːsᵻbli ˈʌðɚ kˈæmpɪŋ ɪkwˈɪpmənt sˈʌtʃ ɐz ɐ fˈoʊldɪŋ ʃˈʌvəl .|0
+LJSpeech-1.1/wavs/LJ016-0441.wav|ðə mˈæn , bˈaʊsfiːld , haʊˈɛvɚ , hˌuːz ˌɛksɪkjˈuːʃən wʌz sˌoʊ sˈædli bˈʌŋɡəld ,|0
+LJSpeech-1.1/wavs/LJ006-0155.wav|hiː mˌeɪhɐv ˈɜːd ɪn sˌʌm pˈɔɪnts θɹuː ˈɪɡnɚɹəns , bˌʌt ɪn ˈʌðɚz hiː wʌz klˈɪɹli ɡˈɪlti ʌv kˈʌlpəbəl nᵻɡlˈɛkt .|0
+LJSpeech-1.1/wavs/LJ048-0223.wav|ˈæftɚ ðə pɹˈɛzɪdənt hæd ɹᵻtˈaɪɚd æt hɪz hoʊtˈɛl ,|0
+LJSpeech-1.1/wavs/LJ047-0027.wav|ɪn ðɪs wˈeɪ , ɪt lˈɜːnd ðæt wɛn ˈɑːswəld hæd ɚɹˈaɪvd ɪnðə sˈoʊviət jˈuːniən|0
+LJSpeech-1.1/wavs/LJ040-0140.wav|mˈɪsɪz . ˈiːvlɪn dˈiː sˈiːdʒəl , ɐ sˈoʊʃəl wˈɜːkɚ hˌuː ˈɪntɚvjˌuːd bˈoʊθ lˈiː ænd hɪz mˈʌðɚ wˌaɪl lˈiː wʌz kənfˈaɪnd ɪn jˈuːθ hˈaʊs ,|0
+LJSpeech-1.1/wavs/LJ011-0189.wav|ðɪ ˈʌðɚ bɹˈʌðɚ wʌz ɐkˈoːɹdɪŋli sˈɛnt ˌɔn ɐ pɹɪtˈɛndᵻd mˈɪʃən tə ʃɹˈɪɡli tə bɹˈɪŋ mˈɪstɚ . tˈɜːnɚɹ ˌɔn tə lˈʌndən , wˈɪðɚ wˈeɪkfiːld ænd mˈɪs tˈɜːnɚɹ ˈɔːlsoʊ pɹəsˈiːdᵻd .|0
+LJSpeech-1.1/wavs/LJ033-0019.wav|ɐkˈoːɹdɪŋ tə ðə tˈɛstᵻməni ʌv fɹˈeɪziɚ , mɚɹˈiːnə ˈɑːswəld , ænd ɹˈuːθ pˈeɪn , ɪɾ ɐpˈɪɹz ðæt ˈɑːswəld nˈɛvɚ ɹᵻtˈɜːnd tʊ ˈɜːvɪŋ ɪn mˈɪdwiːk|0
+LJSpeech-1.1/wavs/LJ008-0255.wav|ðɪ ˈaɪɚn nˈɛl ðæt ɹˈæŋ əpˌɑːn ðə bˈiːɾɪŋ hˈɑːɹt ʌvðə lˈɪvɪŋ mˈæn hˌuː wʌz ɐbˌaʊt tə dˈaɪ ;|0
+LJSpeech-1.1/wavs/LJ036-0189.wav|æt ðə sˈaʊθiːst kˈɔːɹnɚɹ ʌv tˈɛnθ stɹˈiːt ænd pˈæʔn̩ ˈævənˌuː , mˈoʊmənts bᵻfˌoːɹ ðə tˈɪpɪt ʃˈuːɾɪŋ .|0
+LJSpeech-1.1/wavs/LJ047-0122.wav|ˌaʊɚɹ ˈɪntɹɪst ɪn ðɪs mˈæn æt ðɪs pˈɔɪnt wʌz tə dɪtˈɜːmɪn wˈɛðɚ hɪz æktˈɪvɪɾiz kˈɑːnstɪtˌuːɾᵻd ɐ θɹˈɛt tə ðɪ ɪntˈɜːnəl sᵻkjˈʊɹɹɪɾi ʌvðə kˈʌntɹi .|0
+LJSpeech-1.1/wavs/LJ048-0263.wav|dˈʊɹɹɪŋ ɛntˈaɪɚ pˈiəɹɪədz ʌv tɹˈævəl stˈæɾəs ,|0
+LJSpeech-1.1/wavs/LJ007-0141.wav|ænd dˈɑːlɚ tə dɪspˈoʊz hˌɪm , baɪ mˌɛdɪtˈeɪʃən ænd sᵻklˈuːʒən , tə ɹᵻtˈɜːn tʊ ɐn ˈɑːnɪst lˈaɪf.dˈɑːlɚ|0
+LJSpeech-1.1/wavs/LJ019-0327.wav|nˈoʊ lˈɛs klˈoʊs wʌzðə kˈɛɹ æz ɹᵻɡˈɑːɹdz pɹˌɛzɚvˈeɪʃən ʌv hˈɛlθ .|0
+LJSpeech-1.1/wavs/LJ026-0117.wav|ɑːɹ dᵻɹˈɛktli ˈɑːksɪdˌaɪzd tʊ ɛkskɹˈɛʃənz ænd , lˈækɪŋ nˈaɪtɹədʒən , kænˈɑːt sˈɜːv fɔːɹ mˌeɪkɪŋ nˈuː ˈænɪməl pɹˈoʊɾoʊplˌæzəm .|0
+LJSpeech-1.1/wavs/LJ046-0205.wav|wɪððə hɛdkwˈɔːɹɾɚz ʌvðə fˈɛdɚɹəl ɪntˈɛlɪdʒəns ˈeɪdʒənsiz , pɚtˈɪkjʊlɚli ðɪ ˌɛfbˌiːˈaɪ ,|0
+LJSpeech-1.1/wavs/LJ028-0173.wav|wˌɛn wˈʌn ɪz ɐbˌaʊt hˈæfweɪ ˈʌp , wˈʌn fˈaɪndz ɐ ɹˈɛstɪŋ plˈeɪs ænd sˈiːts , wˌɛɹ pˈɜːsənz ɑːɹ wˈɔnt tə sˈɪt sˈʌmtaɪmz ˌɔn ðɛɹ wˈeɪ tə ðə sˈʌmɪt .|0
+LJSpeech-1.1/wavs/LJ018-0122.wav|bˌʌt nˌɑːt bᵻfˌoːɹ ðə fˈɔːɹdʒd pˈeɪpɚ hɐdbɪn pˌʊt ɪn sˌɜːkjʊlˈeɪʃən fɔːɹ mˈoːɹ ðˌænə kˈʌpəl ʌv jˈɪɹz . ɪn ˈeɪtiːn sˈɪksti wˌʌn ,|0
+LJSpeech-1.1/wavs/LJ028-0492.wav|ænd sɚmˈaʊntᵻd wɪð tˈaʊɚz , ænd ðˈɛn fˈaɪnəli ɐ sˈɪksθ wˈɔːl|0
+LJSpeech-1.1/wavs/LJ043-0125.wav|bɪkˈʌz ðə pɹˈɛzɪdənt ʌvðə fˌoʊɾəɡɹˈæfɪk fˈɜːm fɔːɹ wˌɪtʃ hiː hæd pɹˈiːviəsli wˈɜːkt|0
+LJSpeech-1.1/wavs/LJ025-0004.wav|ɑːɹ ˈɔfən dˈɛzɪɡnˌeɪɾᵻd ɔːɹɡˈænɪk fˈʌŋkʃənz .|0
+LJSpeech-1.1/wavs/LJ026-0090.wav|ðɪs pˈaʊɚɹ ɪz pəzˈɛst baɪ ɡɹˈiːn plˈænts ɐlˈoʊn ; ˈɔːl ˈʌðɚɹ ˈɔːɹɡənˌɪzəmz bˌiːɪŋ dᵻpˈɛndənt fɔːɹ ˈɛnɚdʒi əpˌɑːn ðə pətˈɛnʃəl ˈɛnɚdʒi ʌv ɹˈɛdi mˌeɪd fˈuːd .|0
+LJSpeech-1.1/wavs/LJ019-0018.wav|moːɹˈoʊvɚ , ðə ɡɹˈoʊs ɛkspˈɛndɪtʃɚ wʌz ɪŋkɹˈiːst dˈɑːlɚ pˈɑːɹtli fɹʌm ɪts bˌiːɪŋ kənsˈɪdɚd nˈɛsᵻsɚɹi , æz ɪt wʌzɐ nˈæʃənəl pɹˈɪzən ,|0
+LJSpeech-1.1/wavs/LJ019-0148.wav|ðə pɹˈɪzənɚz wɜː stˈɪl lˈɛft tə ðɛmsˈɛlvz tˈɪl nˈɛkst mˈɔːɹnɪŋz ʌnlˈɑːkɪŋ ,|0
+LJSpeech-1.1/wavs/LJ002-0287.wav|ðɛɹwˌɜː nˈoʊ bˈɛdz ɔːɹ bˈɛdɪŋ , nˈoʊ stɹˈɔː ˈiːvən .|0
+LJSpeech-1.1/wavs/LJ046-0004.wav|fˈoːɹ pɹˈɛzɪdənts ʌvðə juːnˈaɪɾᵻd stˈeɪts hɐvbɪn ɐsˈæsᵻnˌeɪɾᵻd|0
+LJSpeech-1.1/wavs/LJ044-0182.wav|wˌɛn fˈeɪsd wɪð ðæt sˌɪtʃuːˈeɪʃən ˈɑːswəld bɪkˌeɪm ɡɹˈeɪtli ˈædʒᵻtˌeɪɾᵻd , ænd ɔːlðˈoʊ hiː lˈeɪɾɚɹ ʌnsəksˈɛsfəli ɐtˈɛmptᵻd|0
+LJSpeech-1.1/wavs/LJ044-0091.wav|wɪð ɐ fˈɛloʊ hˌuː hæd lˈɪvd ɪn ɹˈʌʃə fɔːɹ θɹˈiː jˈɪɹz ænd hˌuː wʌz ɐn ɐdmˈɪɾᵻd mˈɑːɹksɪst .|0
+LJSpeech-1.1/wavs/LJ019-0389.wav|pˈæst ˌʌndɚ ðə mˈoːɹ dᵻɹˈɛkt kəntɹˈoʊl ʌvðə stˈeɪt .|0
+LJSpeech-1.1/wavs/LJ011-0069.wav|ænd ðæt ˈæftɚ hˈæŋɪŋ fɚðə ɹˈɛɡjʊlˌeɪɾᵻd tˈaɪm hiː wʌz tˈeɪkən dˌaʊn ænd ˈiːzili ɹᵻstˈoːɹd tə kˈɑːnʃəsnəs .|0
+LJSpeech-1.1/wavs/LJ046-0003.wav|ɪnðə wˈʌn hˈʌndɹɪd jˈɪɹz sˈɪns ˈeɪtiːn sˈɪksti fˈaɪv|0
+LJSpeech-1.1/wavs/LJ007-0096.wav|ɪt wʌz hˈaɪ tˈaɪm ðætðɪ ʌnsˌæɾɪsfˈæktɚɹi stˈeɪt ʌvðə lˈɔː æz ɹᵻɡˈɑːɹdz ðə tɹˈiːtmənt ʌv kɹˈɪmɪnəl lˈuːnətˌɪks ʃˌʊd biː ɹˈɛmədid|0
+LJSpeech-1.1/wavs/LJ044-0113.wav|ˈæftɚ hiː hæd bɪɡˈʌn hɪz kjˈuːbən æktˈɪvɪɾi ɪn nˈuː ˈɔːɹliənz , kwˈoʊt ,|0
+LJSpeech-1.1/wavs/LJ034-0081.wav|ɡˈɪvənz θˈɔːt ðɪs wʌz ɐbˌaʊt ᵻlˈɛvən : fˈɪfti fˈaɪv ˈeɪ.ˈɛm .|0
+LJSpeech-1.1/wavs/LJ017-0103.wav|ðɪs tˈɛtənəs , ɐkˈoːɹdɪŋ tə ðə pɹˌɑːsɪkjˈuːʃən , wʌz pɹədˈuːst baɪ stɹˈɪtʃniə , ænd fˈɑːloʊd ðɪ ɐdmˌɪnɪstɹˈeɪʃən ʌv pˈɪlz baɪ pˈɑːmɚ|0
+LJSpeech-1.1/wavs/LJ040-0185.wav|hiː ɛɡzˈɪbɪts sˌʌm dˈɪfɪkˌʌlti ɪn ɹᵻlˈeɪʃənʃˌɪp tə ðə mətˈɜːnəl fˈɪɡjɚ sədʒˈɛstɪŋ mˈoːɹ æŋzˈaɪəɾi ɪn ðɪs ˈɛɹiə ðɐn ɪn ˌɛni ˈʌðɚ .|0
+LJSpeech-1.1/wavs/LJ012-0157.wav|ɪt mˈeɪ biː ˈædᵻd ðæt pɹˈɪzən lˈaɪf dɪdnˌɑːt ɐɡɹˈiː wɪð dˈɑːlɚ mˈʌni mˈoʊsᵻz dˈɑːlɚ ; ɐ stɹˈaɪkɪŋ tʃˈeɪndʒ kˈeɪm ˌoʊvɚ hɪz ɐpˈɪɹəns wˌaɪl ɪn nˈuːɡeɪt .|0
+LJSpeech-1.1/wavs/LJ050-0152.wav|ðə sˈiːkɹᵻt sˈɜːvɪs ænd ðə dᵻpˈɑːɹtmənt ʌvðə tɹˈɛʒɚɹi nˈaʊ ɹˈɛkəɡnˌaɪz ðɪs kɹˈɪɾɪkəl nˈiːd .|0
+LJSpeech-1.1/wavs/LJ021-0190.wav|wiː duːnˌɑːt ɡɛt ɡɹˈeɪtli ɛksˈaɪɾᵻd nˈɔːɹ ɪz ˌaʊɚ pˈiːs ʌv mˈaɪnd dɪstˈɜːbd , wˈɛðɚ wiː biː bˈɪznəsmˌɛn ɔːɹ wˈɜːkɚz ɔːɹ fˈɑːɹmɚz ,|0
+LJSpeech-1.1/wavs/LJ003-0151.wav|ˈɔːl hˌuː kʊd skɹˈeɪp təɡˌɛðɚ ðə kˈæʃ sˈiːm tə hæv ɡlˈædli ɐvˈeɪld ðɛmsˈɛlvz ʌvðə pɹˈɪvᵻlɪdʒ ʌv ˈɛntɚɹɪŋ ðə mˈæstɚz sˈaɪd .|0
+LJSpeech-1.1/wavs/LJ014-0330.wav|hiː hæd sˈɛvɹəl nˈæɹoʊ ɛskˈeɪps .|0
+LJSpeech-1.1/wavs/LJ018-0367.wav|bˌʌt ʃiː ᵻvˈɛntʃuːəli pˈæst ˌɪntʊ bɹˈɔːdmoːɹ lˈuːnətˌɪk ɐsˈaɪləm , wˌɛɹ ʃiː bˈɪziz hɜːsˈɛlf wɪð wˈɔːɾɚkˌʌlɚ dɹˈɔːɪŋ .|0
+LJSpeech-1.1/wavs/LJ001-0028.wav|bˌʌt baɪ pɹˈɪntɚz ɪn stɹˈæsbɜːɡ , bˈæsəl , pˈæɹɪs , lˈuːbɛk , ænd ˈʌðɚ sˈɪɾiz .|0
+LJSpeech-1.1/wavs/LJ003-0012.wav|ænd dˈɛɾɚz mˌaɪt pɹˈæktɪkli hæv æz mˈʌtʃ æz ðeɪ lˈaɪkt , ɪf ðeɪ kʊd ˈoʊnli pˈeɪ fɔːɹ ɪt .|0
+LJSpeech-1.1/wavs/LJ003-0314.wav|ðə sˈɜːdʒən ʃˌʊd sˈiː ˈɔːl pɹˈɪzənɚz , wˈɛðɚɹ ˈɪl ɔːɹ wˈɛl , wˈʌns ɐ wˈiːk , ænd tˈeɪk dʒˈɛnɚɹəl tʃˈɑːɹdʒ ʌvðɪ ɪnfˈɜːmɚɹiz .|0
+LJSpeech-1.1/wavs/LJ022-0169.wav|ɪt wɪl nˌɑːt dᵻstɹˈɔɪ vˈæljuːz .|0
+LJSpeech-1.1/wavs/LJ048-0240.wav|baɪ mˈɛmbɚz ʌvðə mˈɪdnaɪt tʊ ˈeɪt ˈeɪ.ˈɛm . ʃˈɪft ʌvðə wˈaɪt hˈaʊs diːtˈeɪl .|0
+LJSpeech-1.1/wavs/LJ031-0195.wav|ˈɛɹ fˈoːɹs wˈʌn lˈændᵻd æɾ ˈændɹuːz ˈɛɹ fˈoːɹs bˈeɪs , wˌɛɹ pɹˈɛzɪdənt kˈɛnədi hæd bɪɡˈʌn hɪz lˈæst tɹˈɪp ˈoʊnli θˈɜːɾi wˈʌn ˈaʊɚz bᵻfˈoːɹ .|0
+LJSpeech-1.1/wavs/LJ046-0048.wav|dɪzˈaɪɚd baɪ bˈoʊθ ðə pɹˈɛzɪdənt ænd ðə pˈʌblɪk , ɪɾ ɪz ɐn ˌɪndɪspˈɛnsəbəl mˈiːnz ʌv kəmjˌuːnɪkˈeɪʃən bᵻtwˌiːn ðə tˈuː .|0
+LJSpeech-1.1/wavs/LJ025-0050.wav|ðˈʌs ɹˈoʊt kˈʌviɚɹ ɪn ˈeɪtiːn twˈɛnti ˈeɪt .|0
+LJSpeech-1.1/wavs/LJ032-0096.wav|lˈɪstɪŋ ðə nˈeɪmz ʌv ðˈoʊz , ˈʌðɚ ðɐn ðɪ ˈoʊnɚɹ ʌvðə bˈɑːks , ɛntˈaɪɾəld tə ɹᵻsˈiːv mˈeɪl θɹuː ðə bˈɑːks .|0
+LJSpeech-1.1/wavs/LJ003-0174.wav|mˈɪstɚ . dˈævɪsən , sˈɛnt tə nˈuːɡeɪt fɔːɹ ɛmbˈɛzəlmənt , ænd hˌuːz kˈeɪs ɪz ɡˈɪvən ɪnðə pɹɪsˈiːdɪŋ tʃˈæptɚ ,|0
+LJSpeech-1.1/wavs/LJ012-0201.wav|bˈɪʃəp kənfˈɛst ðæt hiː wʌz mˈuːvd tə ðɪs baɪ ðɪ ɛɡzˈæmpəl ʌv bˈɜːk ænd hˈɛɹ .|0
+LJSpeech-1.1/wavs/LJ032-0160.wav|hiː kəmpˈɛɹd ðˌɛm wɪððə fˈaɪbɚz fˈaʊnd ɪnðə ʃˈɜːt wˌɪtʃ ˈɑːswəld wʌz wˈɛɹɪŋ wɛn ɚɹˈɛstᵻd ɪnðə tˈɛksəs θˈiəɾɚ .|0
+LJSpeech-1.1/wavs/LJ003-0291.wav|ænd mˈɪstɚ . ˈædɪsən , kˈiːpɚɹ ʌv nˈuːɡeɪt , tə mˌeɪk ɐ vˌɪzɪtˈeɪʃən ʌvðə dʒˈeɪlz səpˈoʊzd təbi ðə bˈɛst mˈænɪdʒd , ɪŋklˈuːdɪŋ ðoʊz ʌv pˈɛtwɜːθ ænd ɡlˈɑːstɚ .|0
+LJSpeech-1.1/wavs/LJ048-0088.wav|ɛɡzˌæmᵻnˈeɪʃən ʌv ðiːz pɹəsˈiːdʒɚz ʃˈoʊz ðæt ɪn mˈoʊst ɹᵻspˈɛkts ðeɪ wɜː wˈɛl kənsˈiːvd ænd ˈeɪbli ˈɛksᵻkjˌuːɾᵻd baɪ ðə pˌɜːsənˈɛl ʌvðə sˈɜːvɪs .|0
+LJSpeech-1.1/wavs/LJ033-0079.wav|sˈɪstɚɹ ʌvðə mˈæn wɪð hˈuːm ˈɑːswəld dɹˈoʊv tə wˈɜːk bjˈuːəl wˈɛsli fɹˈeɪziɚ .|0
+LJSpeech-1.1/wavs/LJ042-0028.wav|ˈɑːswəld hæd mˈænɪdʒd tə sˈeɪv ɪnˈʌf mˈʌni tə kˈʌvɚ ðɪ ɛkspˈɛnsᵻz ʌv hɪz fˈɔːɹθkʌmɪŋ tɹˈɪp .|0
+LJSpeech-1.1/wavs/LJ031-0085.wav|sˈɪns ðə dˈæləs dˈɑːktɚz dᵻɹˈɛktᵻd ˈɔːl ðɛɹ ˈɛfɚts tə kəntɹˈoʊlɪŋ ðə mˈæsɪv blˈiːdɪŋ kˈɔːzd baɪ ðə hˈɛd wˈuːnd , ænd tə ɹˌiːkənstɹˈʌktɪŋ ɐn ˈɛɹweɪ tə hɪz lˈʌŋz ,|0
+LJSpeech-1.1/wavs/LJ024-0024.wav|wˌaɪ wʌzðɪ ˈeɪdʒ fˈɪkst æt sˈɛvənti ?|0
+LJSpeech-1.1/wavs/LJ009-0196.wav|ɐnˈʌðɚ bɹˈuːɾəl pɹˈæktɪs hæd nˌɪɹli dˌɪsɐpˈɪɹd ɐbˌaʊt ðə tˈaɪm ʌvðɪ ˌæbəlˈɪʃən ʌv daɪsˈɛkʃən . ðɪs wʌzðə pˈʌblɪk ɛksɪbˈɪʃən ʌvðə bˈɑːdi ,|0
+LJSpeech-1.1/wavs/LJ010-0025.wav|ðoʊz ɐɡˈɛnst ðə pˈɜːsən bɪkˌeɪm mˈoːɹ ænd mˈoːɹ lˈɪmɪɾᵻd tə ðə mˈoʊst hˈeɪnəs , ɔːɹ ðoʊz wˌɪtʃ mˈɛnɪst ɔːɹ dᵻstɹˈɔɪd lˈaɪf .|0
+LJSpeech-1.1/wavs/LJ028-0486.wav|jˈɛt ðə pˈælɪs ʌv nˈɛbətʃˌædnɪzˌɑːɹ wʌz pɹətˈɛktᵻd baɪ ɐ θˈɜːd dᵻfˈɛns fˈɑːɹ stɹˈɔŋɡɚ .|0
+LJSpeech-1.1/wavs/LJ010-0194.wav|bˌʌt ɡˈeɪzd wɪð kəmplˈeɪsənsi ɚɹˈaʊnd ðə kɹˈaʊdᵻd kˈoːɹt , ænd ˈiːɡɚli ɪŋkwˈaɪɚd wʌt pˈɜːsənz ʌv dɪstˈɪŋkʃən wɜː pɹˈɛzənt .|0
+LJSpeech-1.1/wavs/LJ012-0246.wav|ðə mˈɜːdɚɹ ɪn bˈoʊθ kˈeɪsᵻz wʌz lˈɔŋ ɐ pɹəfˈaʊnd mˈɪstɚɹi . ɪn ðɪs wˌɪtʃ aɪɐm nˈaʊ dᵻskɹˈaɪbɪŋ ,|0
+LJSpeech-1.1/wavs/LJ038-0265.wav|ænd , fˈɜːðɚ , ˌɔn ðɪs bˈeɪsɪs ðə bˈʊlɪt kˌʊdɐv bˌɪn fˈaɪɚd fɹʌmðə ɹˈaɪfəl ɔnðə bˈeɪsɪs ʌv ɪts lˈænd ænd ɡɹˈuːv ɪmpɹˈɛʃənz , ˈɛnd kwˈoʊt .|0
+LJSpeech-1.1/wavs/LJ019-0361.wav|hˌuː wʌz bˈaʊnd tə ɹᵻpˈoːɹt ˌɛni dᵻfˈɪʃənsiz ænd ɐbjˈuːsᵻz hiː mˌaɪt fˈaɪnd æt hɪz pˌiəɹɪˈɑːdɪkəl vˈɪzɪts . ðə sˈɛkɹətɹi ʌv stˈeɪt mˌaɪt ɡˌoʊ fˈɜːðɚ .|0
+LJSpeech-1.1/wavs/LJ044-0024.wav|wˌaɪl ˈɑːswəld pˈʌblɪkli ɛŋɡˈeɪdʒd ɪnðɪ æktˈɪvɪɾiz dᵻskɹˈaɪbd əbˈʌv , hˈɪz , kwˈoʊt , ˌɔːɹɡɐnᵻzˈeɪʃən , ˈɛnd kwˈoʊt , wʌzɐ pɹˈɑːdʌkt ʌv hɪz ɪmˌædʒᵻnˈeɪʃən .|0
+LJSpeech-1.1/wavs/LJ050-0010.wav|dˈeɪli suːpɚvˈɪʒən ʌvðɪ ˌɑːpɚɹˈeɪʃənz ʌvðə sˈiːkɹᵻt sˈɜːvɪs wɪðˌɪn ðə dᵻpˈɑːɹtmənt ʌvðə tɹˈɛʒɚɹi ʃˌʊd biː ɪmpɹˈuːvd .|0
+LJSpeech-1.1/wavs/LJ017-0266.wav|ðeɪ nˈʌn ʌv ðˌɛm spˈoʊk mˈʌtʃ ˈɪŋɡlɪʃ ɛksˈɛpt lˈiːɑːn , kˈɑːmənli kˈɔːld lˈaɪɑːnz .|0
+LJSpeech-1.1/wavs/LJ043-0104.wav|hɪz sˈuːpɚvˌaɪzɚɹ ɐdmˈɪɾᵻd , haʊˈɛvɚ ,|0
+LJSpeech-1.1/wavs/LJ002-0262.wav|ˈoʊɪŋ tə mˈɛni tʃˈæɹɪɾəbəl ɡˈɪfts ænd bᵻkwˈɛsts , wˌɪtʃ ɪŋklˈuːdᵻd ˈænjuːəl doʊnˈeɪʃənz fɹʌmðɪ ˌɑːɹtʃbˈɪʃəp ʌv kˈæntɚbˌɛɹi ,|0
+LJSpeech-1.1/wavs/LJ012-0128.wav|ɐ jˈʌŋ mˈæn nˈeɪmd kˈæspɑːɹ , klˈɜːk tʊ ɐ stˈiːm ʃˈɪp kˈʌmpəni ,|0
+LJSpeech-1.1/wavs/LJ022-0135.wav|bˌʌt aɪɐm dʒˈɛləs ʌvðə ɹˈaɪt ʌv ˈɛvɹi sˈɪɾɪzən tə kˈɔːl tə ðɪ ɐtˈɛnʃən ʌv hɪz ɔːɹ hɜː ɡˈʌvɚnmənt|0
+LJSpeech-1.1/wavs/LJ001-0123.wav|ðɪs ɪz ˈɔːkwɚd ɪf juː hæv tə ɹˈɛd bɹˈædʃɔːz ɡˈaɪd ɪn ɐ hˈɜːɹi .|0
+LJSpeech-1.1/wavs/LJ015-0035.wav|pɹədˈuːst ɪmˈiːdɪət ɛmbˈæɹəsmənt ænd faɪnˈænʃəl dɪstɹˈɛs .|0
+LJSpeech-1.1/wavs/LJ049-0188.wav|ɪn wˈʌn ɔːɹ ɐnˈʌðɚ ɡˈʌvɚnmənt ˈeɪdʒənsi , tə klˈæɹᵻfˌaɪ ðə dᵻvˈɪʒən ʌv ɐθˈɔːɹɪɾi bᵻtwˌiːn ðɪ ˈeɪdʒənsiz ɪnvˈɑːlvd , ænd tə ɹᵻtˈeɪn ðɪ ɛɡzˈɪstɪŋ sˈɪstəm|0
+LJSpeech-1.1/wavs/LJ050-0191.wav|mˈoːɹ ɪmpˈoːɹtəntli , ðə lˈæk ʌv kˈɛɹfəli pɹɪpˈɛɹd ænd kˈɛɹfəli tɹænsmˈɪɾᵻd ɪnstɹˈʌkʃənz fɔːɹ tˈɪpɪkəl vˈɪzɪts tə sˈɪɾiz|0
+LJSpeech-1.1/wavs/LJ021-0188.wav|ðæt mˈʌtʃ ʌv ˌaʊɚ nˈuː dˈiːl pɹˈoʊɡɹæm ɪz ˈoʊnli ɐn ɐtˈɛmpt tə kˈætʃ ˌʌp wɪð ˈɪŋɡlɪʃ ɹᵻfˈɔːɹmz ðæt ɡˌoʊ bˈæk tˈɛn jˈɪɹz ɔːɹ mˈoːɹ .|0
+LJSpeech-1.1/wavs/LJ006-0085.wav|ɪf ɐ mˈæn ɪz pˈʊɹ ænd ɹˈæɡᵻd , haʊˈɛvɚɹ ˌɪnɛkspˈiəɹɪənst ɪŋ kɹˈaɪm , ɔːɹ haʊˈɛvɚ tɹˈaɪflɪŋ mˈeɪ biː ðɪ əfˈɛns fɔːɹ wˌɪtʃ hiː hɐzbɪŋ kəmˈɪɾᵻd|0
+LJSpeech-1.1/wavs/LJ024-0026.wav|ænd ðə ɹˈuːlz ʌv mˈɛnɪəv ˌaʊɚ jˌuːnɪvˈɜːsᵻɾiz ænd ʌv ˈɔːlmoʊst ˈɛvɹi ɡɹˈeɪt pɹˈaɪvət bˈɪznəs ˈɛntɚpɹˌaɪz ,|0
+LJSpeech-1.1/wavs/LJ024-0067.wav|hæv nˈaʊ ɡˈɪvən ˌʌs ɐ kˈoːɹt ɪnwˌɪtʃ fˈaɪv dʒˈʌstɪsᵻz wɪl biː ˌoʊvɚ sˈɛvənti fˈaɪv jˈɪɹz ʌv ˈeɪdʒ bᵻfˌoːɹ nˈɛkst dʒˈuːn|0
+LJSpeech-1.1/wavs/LJ050-0179.wav|bˈeɪst ˌɔn ɪts ɛkspˈiəɹɪəns dˈʊɹɹɪŋ ðɪs pˈiəɹɪəd , ðə sˈiːkɹᵻt sˈɜːvɪs nˈaʊ ɹˌɛkəmˈɛndz ðæt ɐdˈɪʃənəl pˌɜːsənˈɛl biː mˌeɪd ɐvˈeɪləbəl tə pˌiːˌɑːɹɹˈɛs|0
+LJSpeech-1.1/wavs/LJ016-0098.wav|ɔːɹ ˌɛni ʌvðə nˈuː ɪstˈæblɪʃmənts æt hˈoʊm , æt pˈoːɹtlənd , dˈɑːɹtmoːɹ , ɔːɹ ˈɛlswɛɹ .|0
+LJSpeech-1.1/wavs/LJ011-0218.wav|spˈoʊk sᵻvˈɪɹli ʌvðə ɡɹˈoʊs dᵻsˈɛpʃən pɹˈæktɪst əpˌɑːn ɐn ˈɪnəsənt ɡˈɜːl , ænd sˈɛntənst ðə bɹˈʌðɚz ˈiːtʃ tə θɹˈiː jˈɪɹz ɪmpɹˈɪzənmənt ,|0
+LJSpeech-1.1/wavs/LJ042-0037.wav|ænd ˌʌndɚ wˈɪtʃ , kwˈoʊt , ˈɑːɹt , kˈʌltʃɚɹ ænd ðə spɹˈɪt ʌv mˈæn ɑːɹ sˈʌbdʒɛktᵻd tə kəmˈɜːʃəl ˈɛntɚpɹˌaɪzɪŋ ,|0
+LJSpeech-1.1/wavs/LJ032-0197.wav|fˈoʊɾəɡɹˌæf ʌv ˈɑːswəld wɪð ɹˈaɪfəl|0
+LJSpeech-1.1/wavs/LJ037-0220.wav|ɐpɹˈɑːksɪmətli fˈɪftiːn mˈɪnɪts bᵻfˌoːɹ ðə ʃˈuːɾɪŋ ʌv tˈɪpɪt , ˈɑːswəld wʌz sˈiːn lˈiːvɪŋ hɪz ɹˈuːmɪŋhˌaʊs .|0
+LJSpeech-1.1/wavs/LJ006-0055.wav|ænd wɛn ðə pˌɑːpjʊlˈeɪʃən fˈɛl ðeɪ ʃˈʌt ˌʌp wˈʌn hˈæf ðə dʒˈeɪl ænd kɹˈaʊdᵻd ˌʌp ðɪ ˈʌðɚ .|0
+LJSpeech-1.1/wavs/LJ031-0121.wav|dˈɑːktɚ . dʒˈɔːɹdʒ tˈiː . ʃˈaɪɚz , ɐsˈɪstᵻd baɪ dˌiːˌɑːɹɹˈɛs . ɹˈɑːbɚt mə klˈɛlənd , tʃˈɑːɹlz bˈækstɚ , ænd ɹˈælf dˈɑːn pˈætmən ,|0
+LJSpeech-1.1/wavs/LJ019-0144.wav|ðɪ ˌɪndɪskɹˈɪmᵻnət vˌɪzɪtˈeɪʃən ʌv fɹˈɛndz , ænd ðɪ ˈɔːlmoʊst ʌnlˈɪmɪɾᵻd ɐdmˈɪʃən ʌv ˈɛkstɹə fˈuːd , ðiːz mˈoːɹ ɡlˈɛɹɪŋ dˈiːfɛkts hæd dˌɪsɐpˈɪɹd .|0
+LJSpeech-1.1/wavs/LJ003-0118.wav|vˈɛɹiəs pˈʌnɪʃmənts wɜːɹ ɪnflˈɪktᵻd , ðə hˈɛviɪst ʌvwˈɪtʃ wʌz stˈændɪŋ ɪnðə pˈɪlɚɹi .|0
+LJSpeech-1.1/wavs/LJ028-0013.wav|ðə dɐmˈæskəs mˈɑːsks ænd ðɛɹ mˌɪnɚɹˈɛts sˈɪŋk bᵻnˌiːθ ðə wˈɛstɚn skˈaɪ .|0
+LJSpeech-1.1/wavs/LJ038-0289.wav|æz ʃˈoʊn əbˈʌv , ðə nˈoʊt ænd ðə fˈoʊɾəɡɹˌæfz ʌv wˈɔːkɚz hˈaʊs ænd ʌvðə nˈɪɹbaɪ ɹˈeɪlɹoʊd tɹˈæks|0
+LJSpeech-1.1/wavs/LJ015-0190.wav|ðæt ʌv dɪsˈɑːnɪst ɹˈoʊɡz hˌuː ɐsˈuːm pˈaɪəɾi ænd fɪlˈænθɹəpi æz ɐ klˈoʊk fɔːɹ ðɛɹ mɪsdˈiːdz .|0
+LJSpeech-1.1/wavs/LJ028-0504.wav|dɪzˈaɪnd ɪŋ kˈʌlɚz ʌv wˈaɪt ænd blˈuː ænd jˈɛloʊ ænd blˈæk .|0
+LJSpeech-1.1/wavs/LJ035-0007.wav|ðɪ ɛŋkˈaʊntɚɹ ɪnðə lˈʌntʃ ɹuːm .|0
+LJSpeech-1.1/wavs/LJ010-0092.wav|lˈɔːɹd hˈæɹoʊbiz dˈɪnɚ pˈɑːɹɾi wʌz poʊstpˈoʊnd , bˌʌt ðə kənspˈɪɹəɾɚz nˈuː nˈʌθɪŋ ʌv ɪt ,|0
+LJSpeech-1.1/wavs/LJ002-0250.wav|ðɛɹ kˈɑːndʌkt tˈuː wʌz ˈɔːɹdɚli ɔnðə hˈoʊl .|0
+LJSpeech-1.1/wavs/LJ006-0033.wav|ðɪ ˈɪŋk wʌz bˈɛɹli dɹˈaɪ əpˌɑːn ðɛɹ lˈɛɾɚz ʌv ɐpˈɔɪntmənt bᵻfˌoːɹ ðeɪ ɐpˈɪɹd æt nˈuːɡeɪt , ænd kəmˈɛnst ɐ sˈɜːtʃɪŋ ɪnvˌɛstɪɡˈeɪʃən .|0
+LJSpeech-1.1/wavs/LJ009-0262.wav|ðə kɹˈaʊd voʊsˈɪfɚɹəsli jˈɛld ðɛɹ dɪsɐpɹˈuːvəl , ænd æt lˈɛŋθ|0
+LJSpeech-1.1/wavs/LJ032-0029.wav|ðɪ ˈɔːɹdɚ kˈuːpɑːn wʌz sˈaɪnd , ɪn hˈændpɹɪntɪŋ , dˈɑːlɚɹ ˈeɪ . hˈaɪdəl , pˈiː.ˈoʊ . bˈɑːks tˈuː nˈaɪn wˈʌn fˈaɪv , dˈæləs , tˈɛksəs.dˈɑːlɚ|0
+LJSpeech-1.1/wavs/LJ038-0106.wav|ðiːz fˈoʊɾəɡɹˌæfz wɜː ʃˈoʊn tʊ ˈɑːswəld ɔnðɪ ˈiːvnɪŋ ʌv noʊvˈɛmbɚ twˈɛnti θɹˈiː ænd ɐɡˈɛn ɔnðə mˈɔːɹnɪŋ ʌvðə twˈɛnti fˈoːɹθ .|0
+LJSpeech-1.1/wavs/LJ047-0193.wav|ænd sˌoʊ ɐdvˈaɪzd ðə dˈæləs ˈɑːfɪs ɪnðɪ ˈɔːɹdɪnˌɛɹi kˈoːɹs ʌv bˈɪznəs .|0
+LJSpeech-1.1/wavs/LJ014-0237.wav|aɪ wɪl nˈaʊ pˈæs tə ɡɹˈeɪv bˌʌt lˈɛs ɐtɹˈoʊʃəs kɹˈaɪmz .|0
+LJSpeech-1.1/wavs/LJ011-0191.wav|ðə stɹˈeɪndʒli mˈæɹid kˈʌpəl ðɛɹˈʌpɑːn pɹˈɛst ˌɔn tə dˈoʊvɚ , ænd kɹˈɔst ˌoʊvɚ tə kˈæleɪ .|0
+LJSpeech-1.1/wavs/LJ039-0208.wav|ðɪs wʌz bɪkˈʌz əvə dˈiːfɛkt ɪnðə skˈoʊp wˌɪtʃ wʌz ɹˈɛkəɡnˌaɪzd baɪ ðɪ ˌɛfbˌiːˈaɪ ˈeɪdʒənts ænd wˌɪtʃ ðeɪ kˌʊdɐv kˈɑːmpənsˌeɪɾᵻd fɔːɹ ɪf ðeɪ wɜːɹ ˈeɪmɪŋ tə hˈɪt ɐ bˈʊlz ˈaɪ .|0
+LJSpeech-1.1/wavs/LJ021-0183.wav|ɪz ɪt nˌɑːɾə fˈækt ðæt ˈɛvɚ sˈɪns ðə jˈɪɹ nˈaɪntiːn ˈoʊ nˈaɪn ,|0
+LJSpeech-1.1/wavs/LJ002-0057.wav|ðiːz wˈɔːɹdz wɜːɹ ˈɔːl fˈɪɾᵻd wɪð bˈɛɹək bˈɛdz , bˌʌt nˈoʊ bˈɛdɪŋ wʌz səplˈaɪd .|0
+LJSpeech-1.1/wavs/LJ009-0044.wav|hɪz fˈiːtʃɚz hæv nˈoʊ fɛlˈoʊniəs kˈæst ;|0
+LJSpeech-1.1/wavs/LJ050-0244.wav|ðɪ ɐsˈɪstəns ʌv tɹˈeɪnd fˈɛdɚɹəl lˈɔː ɛnfˈoːɹsmənt ˈɑːfɪsɚz .|0
+LJSpeech-1.1/wavs/LJ007-0128.wav|dˈɑːlɚ wʌt mˈʌst biː ðə stˈeɪt ʌv dˈɪsɪplˌɪn ɪn ɐ plˈeɪs fˈɪld wɪð kˈæɹɪktɚz sˌoʊ vˈɛɹiəs æz wɜːɹ ɐsˈɛmbəld ðˈɛɹ , wˌɛɹ ðə tɹˈaɪd ænd ðɪ ʌntɹˈaɪd , ðə sˈɪk ænd ðə hˈɛlθi ,|0
+LJSpeech-1.1/wavs/LJ037-0213.wav|mɚɹˈiːnə ˈɑːswəld ɡˈeɪv æz hɜːɹ əpˈɪniən ðætðə mˈeɪl ˈɔːɹdɚ kˈuːpɑːn wʌz ɪn ˈɑːswəldz hˈændɹaɪɾɪŋ .|0
+LJSpeech-1.1/wavs/LJ002-0232.wav|dɪstˈɜːbənsᵻz wɜː fɹˈiːkwənt , ˈoʊɪŋ tə ðə ɹˈaɪəɾəs kˈɑːndʌkt ʌv ɪntˈɑːksᵻkˌeɪɾᵻd wˈɪmɪn .|0
+LJSpeech-1.1/wavs/LJ023-0126.wav|ɪn ˈʌðɚ wˈɜːdz , wiː sˈɛd wiː wʊd sˈiːk ɐn ɐmˈɛndmənt ˈoʊnli ɪf ˈɛvɹi ˈʌðɚ pˈɑːsᵻbəl mˈiːnz baɪ lˌɛdʒɪslˈeɪʃən wɜː tə fˈeɪl .|0
+LJSpeech-1.1/wavs/LJ042-0178.wav|hiː θˈɔːt ðə nˈuː ɔːltˈɜːnətˌɪv wʊdhɐv ɪts bˈɛst tʃˈæns təbi ɐksˈɛptᵻd ˈæftɚ , kwˈoʊt , kˈɑːnflɪkt bᵻtwˌiːn ðə tˈuː wˈɜːld sˈɪstəmz lˈiːvz ðə wˈɜːld kˈʌntɹi|0
+LJSpeech-1.1/wavs/LJ017-0185.wav|ʃiː wʌz ɪŋ ɡˈʊd hˈɛlθ ˌɔn lˈiːvɪŋ hˈoʊm , ænd hæd wɪð hɜːɹ ɐ lˈɑːɹdʒ sˈʌm ʌv mˈʌni .|0
+LJSpeech-1.1/wavs/LJ045-0078.wav|ˈɑːswəld ɹˈiːd ðə lˈɛɾɚ , bˌʌt ɹᵻfjˈuːzd tə bᵻlˈiːv ðˌɐɾɪt wʌz sɪnsˈɪɹ , ˈiːvən ðˌoʊ hɪz wˈaɪf ɪnsˈɪstᵻd tə hˌɪm ðˌɐɾɪt wʌz .|0
+LJSpeech-1.1/wavs/LJ002-0335.wav|sˌoʊ wɜː kˈændəlz , sˈɔlt , pˈɛpɚ , mˈɑːps ænd bɹˈuːmz . bˌʌt ðə lˈæɾɚ kˌʊdɐv bˌɪn ʌv lˈɪɾəl sˈɜːvɪs . dˈɜːt pɹɪvˈeɪld ˈɛvɹɪwˌɛɹ ;|0
+LJSpeech-1.1/wavs/LJ022-0132.wav|ˈaɪ , ðˈɛɹfoːɹ , hˈoʊp juː wɪl wˈɑːtʃ ðə wˈɜːk ɪn ˈɛvɹi kˈɔːɹnɚɹ ʌv ðɪs nˈeɪʃən .|0
+LJSpeech-1.1/wavs/LJ050-0183.wav|ɐdvˈaɪs baɪ ðə sˈiːkɹᵻt sˈɜːvɪs tə lˈoʊkəl pəlˈiːs ɪn mˌɛtɹəpˈɑːlɪtən ˈɛɹiəz ɹᵻlˈeɪɾɪŋ tə ðɪ ɐsˈɪstəns ɛkspˈɛktᵻd ɪŋ kənˈɛkʃən wɪð ɐ pɹˌɛzɪdˈɛnʃəl vˈɪzɪt|0
+LJSpeech-1.1/wavs/LJ017-0274.wav|wˌɛn ðə wˈɔːɹdɚ wɛnt ɪn tə kˈɔːl hˌɪm hiː ˈæskt fɔːɹ hɪz klˈoʊðz . hiː wʌz tˈoʊld hiː wʊdhˌævtə wˈɛɹ hɪz ˈoʊn .|0
+LJSpeech-1.1/wavs/LJ018-0351.wav|ænd ðˈæt , ɪn spˈaɪt ʌvðə vˈɜːdɪkt ʌvðə dʒˈʊɹɹi , dˈɑːlɚ hiː lˈɛft ðə dˈɑːk wɪð ɐ kˈɑːm ænd kwˈaɪət kˈɑːnʃəns ; dˈɑːlɚ|0
+LJSpeech-1.1/wavs/LJ042-0175.wav|kʊd pˈɑːsᵻbli mˌeɪk ɐ tʃˈɔɪs bᵻtwˈiːn ðˌɛm , ðɛɹ ɪz nˈoʊ tʃˈɔɪs ,|0
+LJSpeech-1.1/wavs/LJ002-0273.wav|lˈʌdɡeɪt tə ðə lˈæst wʌzðə dˈɛɾɚz pɹˈɪzən fɔːɹ fɹˈiːmɛn ʌvðə sˈɪɾi ʌv lˈʌndən ,|0
+LJSpeech-1.1/wavs/LJ030-0131.wav|wˌɪtʃ kˈɜːvz ɪn ɐ saʊθwˈɛstɚli dᵻɹˈɛkʃən æz ɪt pɹəsˈiːdz dˈaʊŋɡɹeɪd təwˈɔːɹd ðə tɹˈɪpəl ˌʌndɚpˈæs ænd ðə stˈɛmənz fɹˈiːweɪ .|0
+LJSpeech-1.1/wavs/LJ017-0255.wav|ɹᵻpˈɛɹd ðɛɹ sˈiːkɹᵻtli , ænd sˌoʊ ɡˈeɪv ˌɪnfɚmˈeɪʃən tə ðə bɹæzˈɪliən ɐθˈɔːɹɪɾiz .|0
+LJSpeech-1.1/wavs/LJ009-0129.wav|ðæt mˈɛnɪəv ðə nˈiːlɪŋ mˈɛn ɔːɹ bˈɔɪz lˈæft wˌaɪl ðeɪ nˈɛlt , pˈɪntʃt ˈiːtʃ ˈʌðɚ , ænd , wˌɛn ðeɪ kʊd dˈuː sˌoʊ wɪðˌaʊt fˈɪɹ ʌv bˌiːɪŋ sˈiːn baɪ ˌɛni ˈɑːfɪsɚɹ ʌvðə pɹˈɪzən ,|0
+LJSpeech-1.1/wavs/LJ007-0213.wav|ɐɡˈɛn ðə fˈɑːloʊɪŋ jˈɪɹ ðɪ ɪnspˈɛktɚz ɹᵻpˈiːt ðɛɹ tʃˈɑːɹdʒ .|0
+LJSpeech-1.1/wavs/LJ027-0063.wav|ɛnlˈɑːɹdʒd ænd kənsˈɑːlᵻdˌeɪɾᵻd tə fˈɔːɹm ðə pˈɛlvɪs , tə sˈɜːv æz ɐ fˈɜːm səpˈoːɹt tə ðə hˈaɪnd lˈɪmz .|0
+LJSpeech-1.1/wavs/LJ007-0240.wav|ðˌæɾə stɹˈɪkt kəmplˈaɪəns wɪð ðɛɹ dˈuːɾiz ɡˈeɪv ðˌɛm nˈoʊ tʃˈɔɪs dˈɑːlɚ bˌʌt tə ɹᵻpˈoːɹt mˈæɾɚz æz wiː fˈaʊnd ðˌɛm ,|0
+LJSpeech-1.1/wavs/LJ011-0144.wav|bˌʌt mˈɪstɚ . dʒˈoʊsəf hjˈuːm pɹˈɛst ðə ɡˈʌvɚnmənt hˈɑːɹd , ænd əbtˈeɪnd ɐn əʃˈʊɹɹəns ðætðə mˈɛn ʃˌʊd nˌɑːt biː ˈɛksᵻkjˌuːɾᵻd .|0
+LJSpeech-1.1/wavs/LJ017-0204.wav|hˌuː sˈɛd ðæt hiː fˈɪɹd ɪt wʌz ˈoʊnli tˈuː tɹˈuː ðæt sˈiːkɹᵻt pˈɔɪzənɪŋ wʌz æt ðæt tˈaɪm vˈɛɹi ɹˈaɪf ɪnðə mətɹˈɑːpəlˌɪs .|0
+LJSpeech-1.1/wavs/LJ028-0071.wav|lˈeɪt ɪn hɪz lˈaɪf , ɪn fˈaɪv sˈɪksti sˈɛvən , hiː ɪnvˈeɪdᵻd ˈiːdʒɪpt .|0
+LJSpeech-1.1/wavs/LJ013-0071.wav|hˈɪɹ ɐɡˈɛn ðə mˈʌni , wɪð tˈɛn jˈɪɹz ˈɪntɹɪst , wʌz hˈændᵻd ˌoʊvɚ tə bˈɑːɹbɚ ænd ɐnˈʌðɚ kˈɔːlɪŋ hɪmsˈɛlf tˈɑːməs hˈʌnt , ɐn ɛɡzˈɛkjuːɾɚɹ ʌvðə wˈɪl .|0
+LJSpeech-1.1/wavs/LJ019-0072.wav|ɪɾ ɪz skˈɛɹsli nˈɛsᵻsɚɹi tə fˈɑːloʊ ðə kˈɑːntɹəvˌɜːsi fˈɜːðɚ . aɪ hæv ˈoʊnli ˌɪntɹədˈuːst ðə sˈʌbdʒɛkt æz ʃˈoʊɪŋ hˌaʊ lˈɪɾəl æz jˈɛt ðə stˈeɪt|0
+LJSpeech-1.1/wavs/LJ043-0055.wav|hiː nˈɛvɚ sˈɔː ɔːɹ kəmjˈuːnᵻkˌeɪɾᵻd wɪð hɜːɹ ɪn ˌɛni wˈeɪ ɐɡˈɛn ʌntˈɪl ʃiː kˈeɪm tə sˈiː hˌɪm ˈæftɚ ðɪ ɐsˌæsᵻnˈeɪʃən .|0
+LJSpeech-1.1/wavs/LJ050-0166.wav|ðə kəmˈɪʃən wʌz stɹˈʌk baɪ ðɪ ɐpˈæɹənt lˈæk ʌv ˈɛfɚt , ˌɔn ɐn ˌɪntɚɹˈeɪdʒənsi bˈeɪsɪs ,|0
+LJSpeech-1.1/wavs/LJ017-0138.wav|θɹˈiː jˈɪɹz lˈeɪɾɚ kˈeɪm ðə kˈeɪs ʌv dˈɑːktɚ . smˈɛθɜːst ,|0
+LJSpeech-1.1/wavs/LJ002-0129.wav|wʊdhɐv ɐmˈaʊntᵻd tə sˈɪksti ˈeɪt θˈaʊzənd , sˈɛvən hˈʌndɹɪd twˈɛnti ˈeɪt pˈaʊndz , ænd ɪf dᵻfˈɛndᵻd ,|0
+LJSpeech-1.1/wavs/LJ007-0019.wav|ˈiːvən ɪnðə dˈeɪtaɪm , wˌɛn suːpɚvˈɪʒən wʌz wɪθdɹˈɔːn , dˈɑːlɚ ðə lˈæŋɡwɪdʒ jˈuːzd təbi dɹˈɛdfəl , dˈɑːlɚ sˈɛz wˈʌn ʌvðə wˈɪmɪn wɛn ˌʌndɚɹ ɛɡzˌæmᵻnˈeɪʃən ;|0
+LJSpeech-1.1/wavs/LJ015-0172.wav|ðɪ ˈɪŋkwɚɹi sˈuːn ɹᵻvˈiːld ðə kəlˈɔsəl kˈæɹɪktɚɹ ʌvðə fɹˈɔːdz .|0
+LJSpeech-1.1/wavs/LJ009-0256.wav|stˈɪl hiː ɹᵻzˈɪstᵻd .|0
+LJSpeech-1.1/wavs/LJ019-0341.wav|ðɪ ˈoʊld kˈʌstəm , sˌoʊ fɹˈuːtfəl ʌvðə wˈɜːst ˈiːvəlz , ʌv kˈiːpɪŋ ɐ tˈæp ɪnsˈaɪd ðə pɹˈɪzən wʌz mˌeɪd ɪlˈiːɡəl .|0
+LJSpeech-1.1/wavs/LJ018-0386.wav|ðə hˈoʊl mˌænjuːfˈæktʃɚd wˌaɪl ɪnðə kəndˈɛmd sˈɛl ʌvðə kɹˈʌm ʌv bɹˈɛd mˌeɪd ˌɪntʊ pˈeɪst .|0
+LJSpeech-1.1/wavs/LJ006-0275.wav|tə hæv ˈæksɛs tə ðə fˈiːmeɪl sˈaɪd ˌɔn sˈʌndeɪz ænd wˈɛnzdeɪz , ɪn ˈɔːɹdɚ tə vˈɪzɪt ðɛɹ səpˈoʊzd ɹᵻlˈeɪʃənz ðˈɛɹ .|0
+LJSpeech-1.1/wavs/LJ050-0267.wav|bᵻtwˌiːn sˈɛkɹətɹi dˈɪlən ænd dˈɑːnəld ˈɛf . hˈoːɹnɪɡ , spˈɛʃəl ɐsˈɪstənt tə ðə pɹˈɛzɪdənt fɔːɹ sˈaɪəns ænd tɛknˈɑːlədʒi , ɪz ɐ jˈuːsfəl ˈɛfɚt ɪnðə ɹˈaɪt dᵻɹˈɛkʃən .|0
+LJSpeech-1.1/wavs/LJ032-0189.wav|sˈɪns ðɛɹwˌʌz lˈɪmɪɾᵻd , ɪf ˌɛni , ɑːpɚtˈuːnɪɾi fɔːɹ ˈɑːswəld tə hˈændəl ðə wˈɛpən dˈʊɹɹɪŋ ðə tˈuː mˈʌnθs pɹˈaɪɚ tə noʊvˈɛmbɚ twˈɛnti tˈuː .|0
+LJSpeech-1.1/wavs/LJ041-0162.wav|θˈoːɹnli ˈɔːlsoʊ tˈɛstᵻfˌaɪd ɐbˌaʊt ɐn ˈɪnsɪdənt wˌɪtʃ ɡɹˈuː|0
+LJSpeech-1.1/wavs/LJ017-0008.wav|hˌuː hæd pˈɔɪzənd hɪz mˈæstɚ ænd mˈɛnɪəv hɪz dᵻpˈɛndənts .|0
+LJSpeech-1.1/wavs/LJ013-0138.wav|ˈæʃli wʌzðə sˈʌn əvən ˈɑːɹmi ˈeɪdʒənt ænd bˈæŋkɚ ,|0
+LJSpeech-1.1/wavs/LJ048-0020.wav|ðɪ ˈɪntɚvjˌuː wɪð hˌɪm ɪn dʒˈeɪl ɪz nˌɑːt sɪɡnˈɪfɪkənt fɹʌmðə stˈændpɔɪnt ʌv wˈɛðɚ hiː hæd ɐ pɹəpˈɛnsɪɾi fɔːɹ vˈaɪələns .|0
+LJSpeech-1.1/wavs/LJ010-0087.wav|ænd ɪt wʌz ɚɹˈeɪndʒd ðˈætwˌʌn ʌv ðɛɹ nˈʌmbɚ ʃˌʊd nˈɑːk æt lˈɔːɹd hˈæɹoʊbiz dˈoːɹ ɔnðə pɹˈiːtɛns ʌv lˈiːvɪŋ ɐ pˈɑːɹsəl ,|0
+LJSpeech-1.1/wavs/LJ019-0182.wav|lˈɔːɹd dʒˈɑːn ɹˈʌsəl , kˈɑːmɛntɪŋ əpˌɑːn ðɪ ˈɔfɚɹ ʌvðə kˌɔːɹpɚɹˈeɪʃən tʊ ɪmpɹˈuːv nˈuːɡeɪt ,|0
+LJSpeech-1.1/wavs/LJ020-0053.wav|ɪnðə fˈɔːɹm ʌv tˈɜːnoʊvɚz , pˈɪntʃɪŋ ðə kˈɔːɹnɚz ʌvðə fˈoʊld pɹˈɪɾi hˈɑːɹd tə hˈɪndɚ ðə flˈæp ʌv dˈoʊ fɹʌm flˈaɪɪŋ ˌʌp æz ðə ɹˈaɪzɪŋ pɹˈoʊsiːdz .|0
+LJSpeech-1.1/wavs/LJ050-0036.wav|ɪz nˌɑːt kənsˈɪstənt wɪððə stˈændɚdz wˌɪtʃ ðə ɹᵻspˌɑːnsəbˈɪlɪɾiz ʌvðə sˈiːkɹᵻt sˈɜːvɪs ɹᵻkwˈaɪɚɹ ɪt tə mˈiːt .|0
+LJSpeech-1.1/wavs/LJ042-0212.wav|aɪ hæv ˈɔfən wˈʌndɚd wˌaɪ ɪɾ ɪz ðætðə kˈɑːmjuːnˌɪst , ˈænɑːɹkˌɪst kˈæpɪɾəlˌɪst , ænd ˈiːvən ðə fˈæʃɪst ænd ˈænɑːɹkˌɪst ˈɛlɪmənts ɪn ɐmˈɛɹɪkən ,|0
+LJSpeech-1.1/wavs/LJ003-0021.wav|ðə hˈɛd ʌvðə dˈɛɾɚz pɹˈɪzən wʌzɐ pɹˈɪzənɚ kˈɔːld ðə stˈuːɚd , hˌuː wʌz tʃˈoʊzən baɪ ðə hˈoʊl bˈɑːdi fɹʌm sˈɪks hˈuːm ðə kˈiːpɚ nˈɑːmᵻnˌeɪɾᵻd .|0
+LJSpeech-1.1/wavs/LJ011-0157.wav|hiː ðɛɹˈʌpɑːŋ kənsˈiːvd ɐn aɪdˈiə ʌv kˈæɹiɪŋ hɜːɹ ˈɔf ænd mˈæɹiɪŋ hɜː wˈɪli nˈɪli æt ɡɹˈɛtnə ɡɹˈiːn .|0
+LJSpeech-1.1/wavs/LJ046-0161.wav|mˈɛnɪəv ðiːz kˈeɪsᵻz wɜː nˌɑːt ɪnvˈɛstᵻɡˌeɪɾᵻd baɪ pˌiːˌɑːɹɹˈɛs .|0
+LJSpeech-1.1/wavs/LJ025-0075.wav|wɪððɪ ɐdvˈæns ʌv mˌaɪkɹəskˈɑːpɪk ɐnˈæɾəmi , ðə jˌuːnɪvˈɜːsˈælɪɾi ʌvðə fˈækt ɪtsˈɛlf ɐmˌʌŋ ˈænɪməlz hɐz sˈiːst təbi pɹɪdˈɪkəbəl .|0
+LJSpeech-1.1/wavs/LJ002-0314.wav|wʌz ˈæftɚɹ ˈeɪtiːn ˈoʊ sˈɛvən , θɹuː ðɪ ɛɡzˈɜːʃənz ʌvðə kˈiːpɚɹ ʌvðə dʒˈeɪl , spˈɛnt ɪnðə pˈɜːtʃɪs ʌv nˈɛsᵻsɚɹiz .|0
+LJSpeech-1.1/wavs/LJ044-0230.wav|hɪz ʌnhˈæpi ɛkspˈiəɹɪəns wɪððə kjˈuːbəŋ kˈɑːnsəl sˈiːmz ðˈʌs tə hæv ɹᵻdˈuːst hɪz ɛnθˈuːziˌæzəm fɚðə kˈæstɹoʊ ɹeɪʒˈiːm ænd hɪz dɪzˈaɪɚ tə ɡˌoʊ tə kjˈuːbə .|0
+LJSpeech-1.1/wavs/LJ038-0250.wav|ɐnˈʌðɚ fˈoʊɾəɡɹˌæf ʌv ɹˈeɪlɹoʊd tɹˈæks fˈaʊnd ɐmˌʌŋ ˈɑːswəldz pəzˈɛʃənz wʌz nˌɑːt aɪdˈɛntᵻfˌaɪd baɪ hɪz wˈaɪf ,|0
+LJSpeech-1.1/wavs/LJ013-0227.wav|ðɪ ˈɔːɹdɚ wʌz , haʊˈɛvɚ , æt lˈɛŋθ oʊbˈeɪd , ænd ðə hˈoʊl ʌvðə pɹˈɪzənɚz klˈoʊðz wɜː maɪnjˈuːtli sˈɜːtʃt .|0
+LJSpeech-1.1/wavs/LJ038-0117.wav|hiː fˈɔlsli ɐlˈɛdʒd ðæt hiː bˈɔːt ðə ɹᵻvˈɑːlvɚɹ ɪn fˈɔːɹt wˈɜːθ , wˌɛn ɪn fˈækt hiː pˈɜːtʃɪst ɪt fɹʌm ɐ mˈeɪl ˈɔːɹdɚ hˈaʊs ɪn lˌɑːs ˈændʒəlɪs .|0
+LJSpeech-1.1/wavs/LJ031-0131.wav|ɐn ˈeɪdʒənt wʌz stˈeɪʃənd æt ðɪ ˈɛntɹəns tə stˈɑːp ˈɛnɪwˌʌn hˌuː wʌz nˌɑːɾə mˈɛmbɚɹ ʌvðə pɹˌɛzɪdˈɛnʃəl pˈɑːɹɾi .|0
+LJSpeech-1.1/wavs/LJ026-0011.wav|bɪkˈʌz ʌv ðiːz ʌnsˈɜːʔn̩ fˈɔːɹmz ʌv lˈaɪf ,|0
+LJSpeech-1.1/wavs/LJ015-0307.wav|ðɪ ˈɛvɪdəns wʌz kɚɹˈɑːbɚɹˌeɪɾᵻd baɪ ðæt ʌv mˈɛnɪəv ðə vˈɪktɪmz hˌuː hæd ˈæktᵻd æz mˈɛsɪndʒɚz ,|0
+LJSpeech-1.1/wavs/LJ009-0080.wav|ðə tˈɛkst , wɪðˌaʊt ɐnˈʌðɚ wˈɜːd , ɪz ɪnˈʌf tə ɹˈeɪz ðə wˈaɪldɪst pˈæʃənz ʌvðɪ ˈɔːdiəns|0
+LJSpeech-1.1/wavs/LJ049-0146.wav|ðɪ ˈɛkspɜːt ɐsˈɪstəns ænd ɹᵻsˈoːɹsᵻz wˌɪtʃ ɪt kʊd dɹˈɔː əpˌɑːn wʊd biː pɚtˈɪkjʊlɚli dɪzˈaɪɚɹəbəl ɪn ðɪs kˈɑːmplɛks ænd sˈɛnsᵻtˌɪv ˈɛɹiə .|0
+LJSpeech-1.1/wavs/LJ040-0083.wav|ˈæftɚ ðə dᵻvˈoːɹs mˈɪsɪz . ˈɑːswəld kəmplˈeɪnd kənsˈɪdɚɹəbli ɐbˌaʊt hˌaʊ ʌnfˈɛɹli ʃiː wʌz tɹˈiːɾᵻd ,|0
+LJSpeech-1.1/wavs/LJ017-0097.wav|hiː hæd swˈɔloʊd hɪz pˈɪlz æz jˈuːʒuːəl , æt lˈiːst pˈɑːmɚ hæd ɐdmˈɪnɪstɚd ðˌɛm|0
+LJSpeech-1.1/wavs/LJ028-0165.wav|ðɛɹˈɪz , haʊˈɛvɚ , ɐ sˈɛkənd ˈɪnɚ wˈɔːl , ʌv lˈɛs θˈɪknəs ðɐn ðə fˈɜːst , bˌʌt vˈɛɹi lˈɪɾəl ɪnfˈɪɹiɚ tʊ ɪɾ ɪn stɹˈɛŋθ .|0
+LJSpeech-1.1/wavs/LJ047-0004.wav|nˈoʊ ˌɪnfɚmˈeɪʃəŋ kənsˈɜːnɪŋ lˈiː hˈɑːɹvi ˈɑːswəld ɐpˈɪɹd ɪn pˌiːˌɑːɹɹˈɛs fˈaɪlz bᵻfˌoːɹ ðə pɹˈɛzɪdənts tɹˈɪp tə dˈæləs .|0
+LJSpeech-1.1/wavs/LJ046-0218.wav|ɐdvˈaɪz ðə bjˈʊɹɹoʊ æt ðə sˈeɪm tˈaɪm baɪ tˈɛlᵻtˌaɪp ʌvðɪ ˌɪnfɚmˈeɪʃən sˌoʊ fˈɜːnɪʃt tə ðə sˈiːkɹᵻt sˈɜːvɪs ænd ðə fˈækt ðˌɐɾɪt hɐzbɪn sˌoʊ dɪsˈɛmᵻnˌeɪɾᵻd .|0
+LJSpeech-1.1/wavs/LJ048-0058.wav|ˈeɪdʒənt hˈɑːsti tˈɛstᵻfˌaɪd|0
+LJSpeech-1.1/wavs/LJ002-0009.wav|ɔnðə twˈɛnti sˈɛvənθ ˈeɪpɹəl , ɪnðə fˈɑːloʊɪŋ jˈɪɹ ,|0
+LJSpeech-1.1/wavs/LJ010-0078.wav|ˌɔn hɪz sˈɛkənd ɹᵻlˈiːs , ɡˈoʊdᵻd baɪ hɪz fˈænsid ɹˈɔŋz , hiː bɪɡˈæn tə plˈɑːt ɐ dˈɑːɹk ænd dɹˈɛdfəl ɹᵻvˈɛndʒ ,|0
+LJSpeech-1.1/wavs/LJ011-0192.wav|ðə fˈækt ʌvðɪ ɐbdˈʌkʃən dɪdnˌɑːt tɹænspˈaɪɚ fɔːɹ sˌʌm dˈeɪz .|0
+LJSpeech-1.1/wavs/LJ029-0181.wav|kˈɔːld ɔnðə pˈiːpəl ʌv dˈæləs təbi dˈɑːlɚ kəndʒˈiːnɪəl hˈoʊsts dˈɑːlɚɹ ˈiːvən ðˌoʊ dˈɑːlɚ dˈæləs dˈɪdnt vˈoʊt fɔːɹ mˈɪstɚ . kˈɛnədi ɪn nˈaɪntiːn sˈɪksti ,|0
+LJSpeech-1.1/wavs/LJ025-0031.wav|ðɛɹwˌɜː nˈoʊ mˈiːnz baɪ wˌɪtʃ ðə mˈoʊʃən ʌv ɪts flˈuːɪdz kʊd biː pɹədˈuːst baɪ ɪntˈɜːnəl kˈɔːzᵻz .|0
+LJSpeech-1.1/wavs/LJ005-0043.wav|ænd əbtˈeɪnd fˈʊl diːtˈeɪlz , fɹʌm plˈeɪsᵻz wˌɛɹ ðeɪ hɐdbɪn ɐdˈɑːptᵻd , ʌvðə nˈeɪtʃɚɹ ʌv ðiːz nˈuː məʃˈiːnz|0
+LJSpeech-1.1/wavs/LJ003-0197.wav|ðɪs pɹoʊkɹˌæstᵻnˈeɪʃən bɹˈɛd sˈɜːʔn̩ kˈæləsnəs .|0
+LJSpeech-1.1/wavs/LJ011-0139.wav|ðɪs tˈaɪm ðeɪ sˈɛnt bˈæk ðə bˈɪl , ɹˌiː ɛnˈæktɪŋ ˈoʊnli ðə tˈuː pˈɛnəlɾiz fɔːɹ wɪl fˈɔːɹdʒɪŋ ænd ðə fˈɔːɹdʒɪŋ ʌv pˈaʊɚz ʌv ɐtˈɜːni ;|0
+LJSpeech-1.1/wavs/LJ028-0122.wav|tə ðə wˈɛst ʌv bˈæbɪlən , æɾə ɡɹˈeɪɾɚ dˈɪstəns fɹʌmðɪ ˈaʊɾɚ wˈɔːl , aɪ kənstɹˈʌktᵻd ɐn ɛŋklˈoʊzɪŋ wˈɔːl fˈoːɹ θˈaʊzənd kjˈuːbɪts ɪn lˈɛŋθ ɐbˌaʊt ðə sˈɪɾi .|0
+LJSpeech-1.1/wavs/LJ011-0052.wav|ðə sˈɜːmən ˈɛndᵻd wɪð ɐn ɐpˈiːl tə ðə dˈaɪɪŋ mˈæn , ɛɡzˈɔːɹɾɪŋ hˌɪm tə pˈɛnɪtəns .|0
+LJSpeech-1.1/wavs/LJ029-0011.wav|pɹˈɛzɪdənt kˈɛnədiz vˈɪzɪt tə tˈɛksəs ɪn noʊvˈɛmbɚ nˈaɪntiːn sˈɪksti θɹˈiː hɐdbɪn ˌʌndɚ kənsˌɪdɚɹˈeɪʃən fɔːɹ ˈɔːlmoʊst ɐ jˈɪɹ bᵻfˌoːɹ ɪɾ əkˈɜːd .|0
+LJSpeech-1.1/wavs/LJ016-0202.wav|kˈælkɹæfts ɪmˈɑːljuːmənts wɜːɹ ɐ ɡˈɪni pɜː wˈiːk , ænd ɐn ˈɛkstɹə ɡˈɪni fɔːɹ ˈɛvɹi ˌɛksɪkjˈuːʃən .|0
+LJSpeech-1.1/wavs/LJ024-0039.wav|ænd nˈoʊ sˈɛnət ʌv ˈɑːnɚɹəbəl mˈɛn fˈɪt fɔːɹ ðɛɹ ˈɑːfɪs wʊd kənfˈɜːm , ðæt kˈaɪnd ʌv ɐpˈɔɪntiːz tə ðə suːpɹˈiːm kˈoːɹt .|0
+LJSpeech-1.1/wavs/LJ030-0122.wav|tə ðə ɹˈaɪt sˈaɪd ʌvðə pɹˈɛzɪdənts kˈɑːɹ .|0
+LJSpeech-1.1/wavs/LJ028-0098.wav|ðə wˈaɪz , ðə pˈaɪəs , ðə meɪntˈeɪnɚɹ ʌv ˈɛsɐdʒˌɪl ænd ˈɛzɪdə ,|0
+LJSpeech-1.1/wavs/LJ007-0102.wav|pˈɪlɡɹɪm , bˈɑːnd , ænd klˈæmp , hæd ɹᵻfjˈuːzd tə ɡˈɪv ˈɛvɪdəns bᵻfˌoːɹ ðə hˈaʊs ʌv kˈɑːmənz kəmˈɪɾi ; ɐ spˈiːkɚz wˈɔːɹənt wʌz ˈɪʃuːd fɔːɹ ðɛɹ ɚɹˈɛst wɛn ðeɪ ɐbskˈɑːndᵻd .|0
+LJSpeech-1.1/wavs/LJ008-0001.wav|ðə kɹˈɑːnɪkəlz ʌv nˈuːɡeɪt , vˈɑːljuːm tˈuː . baɪ ˈɑːɹθɚ ɡɹˈɪfɪθs . sˈɛkʃən ᵻlˈɛvən : ˌɛksɪkjˈuːʃənz , pˈɑːɹt wˌʌn .|0
+LJSpeech-1.1/wavs/LJ026-0042.wav|ðə lˈoʊɚ plˈænts ænd ˈænɪməlz ɹᵻfˈɜːd tʊ əbˌʌv ɑːɹ sˈoʊ fˌɑːɹ fɹʌm ˈɛvɹɪdˌeɪ ɑːbzɚvˈeɪʃən|0
+LJSpeech-1.1/wavs/LJ047-0074.wav|ˌʌndɚɹ ɐ dʒˈɛnɚɹəl bjˈʊɹɹoʊ ɹᵻkwˈɛst təbi ɔnðɪ ɐlˈɜːt fɔːɹ æktˈɪvɪɾiz ʌvðə fˈɛɹ plˈeɪ fɔːɹ kjˈuːbə kəmˈɪɾi|0
+LJSpeech-1.1/wavs/LJ034-0064.wav|ðɪs fˈaɪndɪŋ , ɪn ɐdˈɪʃən tə ðə fɹˈɛʃnəs ʌv wˈʌn ʌvðə pɹˈɪnts ænd ðə pɹˈɛzəns ʌv ˈɑːswəldz pɹˈɪnts ˌɔn tˈuː ʌvðə fˈoːɹ kˈɑːɹtənz ænd ðə pˈeɪpɚ bˈæɡ|0
+LJSpeech-1.1/wavs/LJ008-0114.wav|hɪz hˈændz wɜː klˈæspt , ænd hiː wʌz tɹˈuːli pˈɛnɪtənt .|0
+LJSpeech-1.1/wavs/LJ003-0298.wav|fɔːɹ ɡˈɪvɪŋ ˈɛvɹi pɹˈɪzənɚɹ ɐ slˈiːpɪŋ sˈɛl tə hɪmsˈɛlf , ɐn ɐmˈaʊnt ʌv ɛnlˈaɪʔn̩mənt wˌɪtʃ ɪz hˈɑːɹdli dʒˈɛnɚɹəl ɐmˌʌŋ jˌʊɹɹəpˈiən nˈeɪʃənz æt ðˈɪs|0
+LJSpeech-1.1/wavs/LJ011-0195.wav|ðə tˈɛɹɚ ænd dɪsmˈeɪ ʌv hɜː pˈɛɹənts wɜː sˈuːn ɪntˈɛnsᵻfˌaɪd baɪ ðə ɹᵻsˈiːt əvə lˈɛɾɚ fɹʌm wˈeɪkfiːld , æt kˈɑːɹlaɪəl , ɐnˈaʊnsɪŋ ðə mˈæɹɪdʒ .|0
+LJSpeech-1.1/wavs/LJ045-0129.wav|hɐz vˈɪzɪɾᵻd ˌʌs hˈɪɹ ɪn dˈæləs , tˈɛksəs , ˌɔn noʊvˈɛmbɚ wˌʌn . ˈeɪdʒənt dʒˈeɪmz pˈiː . hˈeɪsti|0
+LJSpeech-1.1/wavs/LJ014-0040.wav|ðæt hiː ɹˈʌʃt tʊ ɐ slˈɔːɾɚhˌaʊs ɪn hˈæmpstɛd ænd pˈɜːpəsli stˈeɪnd hɪz klˈoʊðz wɪð blˈʌd .|0
+LJSpeech-1.1/wavs/LJ014-0209.wav|wʌz pˈɜːpɪtɹˌeɪɾᵻd ɪn ˈeɪtiːn fˈɪfti tˈuː . ðə kˈeɪs wʌz ɐkˈʌmpənid wɪððə mˈoʊst ʃˈɑːkɪŋ bɹuːtˈælɪɾi .|0
+LJSpeech-1.1/wavs/LJ042-0007.wav|æt ðɪ ˈeɪdʒ ʌv nˈaɪntiːn , ˈɑːswəld ðˈʌs kəmˈɪɾᵻd ɐn ˈækt wˌɪtʃ wʌzðə mˈoʊst stɹˈaɪkɪŋ ˌɪndɪkˈeɪʃən hiː hæd jˈɛt ɡˈɪvən|0
+LJSpeech-1.1/wavs/LJ021-0080.wav|ɪn ðiːz ɡˈeɪnz ænd ɪnðə pˈɑːlɪsiz ʌvðɪ ɐdmˌɪnɪstɹˈeɪʃən ðɛɹˌɑːɹ əʃˈʊɹɹənsᵻz ðæt hˈɑːɹʔn̩ ˈɔːl fˈɔːɹwɚd lˈʊkɪŋ mˈɛn ænd wˈɪmɪn|0
+LJSpeech-1.1/wavs/LJ039-0221.wav|ðə vˈɛɹiəs tˈɛsts ʃˈoʊd ðætðə mˈænlɪxɚ kɑːɹkˈɑːnoʊ wʌz ɐn ˈækjʊɹət ɹˈaɪfəl ænd ðætðə jˈuːs əvə fˈoːɹ pˈaʊɚ skˈoʊp|0
+LJSpeech-1.1/wavs/LJ010-0029.wav|ðə kˈoʊld blˈʌdᵻd , kˈælkjʊlˌeɪɾɪŋ ɐtɹˈɑːsɪɾi bˈɔːɹn ʌv sˈɛlf ˈɪntɹɪst , wɜː stˈɪl ðɪ ɪɹᵻzˈɪstᵻbəl ɪnsˈɛntɪvz tə kˈɪl .|0
+LJSpeech-1.1/wavs/LJ025-0028.wav|bᵻfˌoːɹ ɪt kæn biː kənvˈɜːɾᵻd ˌɪntʊ sˈʌbstənsᵻz fˈɪɾᵻd fɔːɹ ɐbsˈoːɹpʃən ,|0
+LJSpeech-1.1/wavs/LJ016-0148.wav|ðɪs wʌz nˌɑːt stɹˈɔŋ ɪnˈʌf tə kˈæɹi hˌɪm , ænd hiː fˈɛl θɹˈuː .|0
+LJSpeech-1.1/wavs/LJ019-0041.wav|ˈʌðɚ dʒˌʊɹɹɪsdˈɪkʃənz wɜː lˈɛs pɹˈɑːmpt tə ɹˈɛkəɡnˌaɪz ðɛɹ ɹᵻspˌɑːnsəbˈɪlɪɾiz , ðə sˈɪɾi ʌv lˈʌndən ɐmˌʌŋ ðə nˈʌmbɚ , æz aɪʃˌɐl pɹˈɛzəntli ʃˈoʊ æt lˈɛŋθ .|0
+LJSpeech-1.1/wavs/LJ004-0140.wav|ænd ðə tˈɜːŋkiː tˈoʊld mˈɪstɚ . bˈʌkstən ðætðə dˈɑːlɚ smˈɛl ˌɔn fˈɜːst ˈoʊpənɪŋ ðə dˈoːɹ wʌz ɪnˈʌf tə nˈɑːk dˌaʊn ɐ hˈɔːɹs .|0
+LJSpeech-1.1/wavs/LJ009-0001.wav|ðə kɹˈɑːnɪkəlz ʌv nˈuːɡeɪt , vˈɑːljuːm tˈuː . baɪ ˈɑːɹθɚ ɡɹˈɪfɪθs . sˈɛkʃən twˈɛlv : ˌɛksɪkjˈuːʃənz , pˈɑːɹt tˈuː .|0
+LJSpeech-1.1/wavs/LJ039-0069.wav|mˈædʒ . jˈuːdʒiːn dˈiː . ˈændɚsən , ɐsˈɪstənt hˈɛd ʌvðə mˈɑːɹksmənʃˌɪp bɹˈæntʃ ʌv jˈuː.ˈɛs . mɚɹˈiːŋ kˈɔːɹ|0
+LJSpeech-1.1/wavs/LJ007-0034.wav|æt tˈaɪmz ðə nˈʌmbɚz kˈɑːŋɡɹɪɡˌeɪɾᵻd təɡˌɛðɚ wɜː vˈɛɹi ɡɹˈeɪt ; æz mˈɛni æz fˈɪfti ænd sˈɪksti , ˈiːvən mˈoːɹ , wɜː kɹˈaʊdᵻd ˌɪndɪskɹˈɪmᵻnətli ˌɪntʊ ðə pɹˈɛs jˈɑːɹd .|0
+LJSpeech-1.1/wavs/LJ046-0131.wav|ɪn nˈaɪntiːn fˈɪfti θɹˈiː ðɪs hæd ɪŋkɹˈiːst tə mˈoːɹ ðɐn sˈɛvəntˌiːn θˈaʊzənd ˈaɪɾəmz ;|0
+LJSpeech-1.1/wavs/LJ009-0002.wav|ɪɾ ɪz sˌæɾɪsfˈæktɚɹi təbi ˈeɪbəl tə ɹᵻkˈoːɹd ðæt sˌʌm kənsˌɪdɚɹˈeɪʃən wʌz ʃˈoʊn ðə kˈæpɪɾəl kˈɑːnvɪkt ˈæktʃuːəli ɐwˈeɪɾɪŋ ˌɛksɪkjˈuːʃən .|0
+LJSpeech-1.1/wavs/LJ027-0139.wav|ænd dɪvˈɛləpmˈɛntəl tʃˈeɪndʒᵻz wˌɪtʃ mˈeɪ biː əbzˈɜːvd dˈʊɹɹɪŋ ðə lˈaɪf hˈɪstɚɹi ʌv nˈaʊ ɛɡzˈɪstɪŋ ˌɪndᵻvˈɪdʒuːəlz bᵻlˈɔŋɪŋ tə ðə sˈeɪm ɡɹˈuːp ʌv ˈænɪməlz .|0
+LJSpeech-1.1/wavs/LJ028-0366.wav|ðˈɛɹfoːɹ , tə dᵻstɹˈɔɪ ðə pˈaʊɚɹ ʌvðɪ ˈoʊld kˈæpɪɾəl , hiː plˈænd tə bˈɪld sɛlˈuːʃə ɔnðə tˈaɪɡɹɪs ɐbˌaʊt fˈɪfti mˈaɪlz tə ðɪ ˈiːst .|0
+LJSpeech-1.1/wavs/LJ019-0386.wav|ðæt nˈoʊ kəmplˈiːt ɹᵻfˈɔːɹm kʊd biː ɐkˈɑːmplɪʃt sˌoʊ lˈɔŋ æz ðə pɹˈɪzənz wɜː lˈɛft ˌʌndɚ ðə dʒˌʊɹɹɪsdˈɪkʃən ʌvðə lˈoʊkəl ɐθˈɔːɹɪɾiz .|0
+LJSpeech-1.1/wavs/LJ039-0232.wav|ðɪ ɐsˈæsɪn wʌz ðˈɛn ɹᵻkwˈaɪɚd tə hˈɪt ðə tˈɑːɹɡɪt wˈʌn mˈoːɹ tˈaɪm wɪðˌɪn ɐ spˈeɪs ʌv fɹʌm fˈoːɹ pˈɔɪnt ˈeɪt tə fˈaɪv pˈɔɪnt sˈɪks sˈɛkəndz .|0
+LJSpeech-1.1/wavs/LJ047-0175.wav|ɔːɹ tˈɛlᵻfˌoʊn nˈʌmbɚɹ ɪn dˈæləs . mˈɪsɪz . pˈeɪn tˈɛstᵻfˌaɪd ðæt ʃiː lˈɜːnd ˈɑːswəldz tˈɛlᵻfˌoʊn nˈʌmbɚɹ æt ðə bˈɛkli stɹˈiːt ɹˈuːmɪŋhˌaʊs ɪnðə mˈɪdəl ʌv ɑːktˈoʊbɚ|0
+LJSpeech-1.1/wavs/LJ005-0031.wav|nˈoʊ vˈɪzɪɾɪŋ ʌv fɹˈɛndz , nˈoʊ ˌɛdʒuːkˈeɪʃən bˌʌt ɹᵻlˈɪdʒəs ˌɛdʒuːkˈeɪʃən , nˈoʊ fɹˈiːdəm ʌv dˈaɪət ,|0
+LJSpeech-1.1/wavs/LJ047-0233.wav|hɪz lˈaɪz tʊ ˈeɪdʒənt kwˈɪɡli , hɪz ɹˈiːsənt vˈɪzɪt tə mˈɛksɪkˌoʊ sˈɪɾi ˈɪndᵻkˌeɪɾᵻd ðæt ˈɑːswəld wʌz kˈeɪpəbəl ʌv vˈaɪələns .|0
+LJSpeech-1.1/wavs/LJ011-0005.wav|ɐ lˈeɪdi ɪnðə kˈʌntɹi , hˌuː hæd θˈɜːtiːn θˈaʊzənd pˈaʊndz ɪnðə stˈɑːks , dɪzˈaɪɚd hɜː lˈʌndən ˈeɪdʒənt tə sˈɛl ðˌɛm ˈaʊt .|0
+LJSpeech-1.1/wavs/LJ048-0231.wav|ɐkˈoːɹdɪŋ tə ðɛɹ stˈeɪtmənts , ðɪ ˈeɪdʒənts ɹᵻmˈeɪnd æt ðə pɹˈɛs klˈʌb fɔːɹ pˈiəɹɪədz vˈɛɹiɪŋ fɹʌm θˈɜːɾi mˈɪnɪts tʊ ɐn ˈaʊɚ ænd ɐ hˈæf ,|0
+LJSpeech-1.1/wavs/LJ020-0010.wav|wˈʌn hˈiːpɪŋ kˈʌp ʌv sˈɪftᵻd flˈaʊɚ .|0
+LJSpeech-1.1/wavs/LJ012-0207.wav|ðə pˈoːɹɾɚɹ ˈæskt wʌt hiː hæd ɡˈɑːt , ænd ðɪ ˈænsɚ wʌz , ɐ mˈeɪl sˈʌbdʒɛkt .|0
+LJSpeech-1.1/wavs/LJ009-0070.wav|ðə jˈuːθz hˈændz tɹˈɛmbəl æz ðeɪ hˈoʊld ðə bˈʊk ˈʌpsaɪd dˈaʊn .|0
+LJSpeech-1.1/wavs/LJ008-0006.wav|æz ðɪ ɛkspˈoʊʒɚ wʌz bɹˈuːɾəl ænd kɹˈuːəl təwˈɔːɹdz ðə pɹˈɪnsɪpəl ˈæktɚz .|0
+LJSpeech-1.1/wavs/LJ046-0121.wav|æt ðə tˈaɪm ʌvðɪ ɐsˌæsᵻnˈeɪʃən pˌiːˌɑːɹɹˈɛs wʌzɐ vˈɛɹi smˈɔːl ɡɹˈuːp , kəmpɹˈaɪzd ʌv twˈɛlv spˈɛʃəlˌɪsts ænd θɹˈiː klˈɜːks .|0
+LJSpeech-1.1/wavs/LJ019-0138.wav|æt ðə mˈoʊst kɹˈaʊdᵻd pˈiəɹɪədz , ɔːɹ dʒˈʌst bᵻfˌoːɹ ðə sˈɛʃənəl dʒˈeɪl dᵻlˈɪvɚɹi ; ænd æɾ ɪts lˈoʊɪst ɪt fˈɛl sˈʌmtaɪmz tə fˈɪfti ɔːɹ sˈɪksti .|0
+LJSpeech-1.1/wavs/LJ041-0037.wav|ænd sˈʌbsᵻkwəntli , ˈæftɚ ðɪs kɑːnvɚsˈeɪʃən , maɪ fˈɑːðɚ kˈeɪm ɪn ænd wiː wɜː kˈaɪnd ʌv ˈɑːɹɡjuːɪŋ bˈæk ænd fˈɔːɹθ ɐbˌaʊt ðə sˌɪtʃuːˈeɪʃən , ænd maɪ fˈɑːðɚ kˈeɪm ɪnðə ɹˈuːm ,|0
+LJSpeech-1.1/wavs/LJ019-0105.wav|ænd ðˌæɾə nˈuː sˈɪstəm ʌv pɹˈɪzən dˈɪsɪplˌɪn ʃˌʊd biː ˌɪntɹədˈuːst .|0
+LJSpeech-1.1/wavs/LJ036-0056.wav|mˈɪsɪz . blˈɛdsoʊ ɹᵻkˈɔːld ðæt ˈɑːswəld sˈæt hˈæfweɪ tə ðə ɹˈɪɹ ʌvðə bˈʌs wˌɪtʃ mˈuːvd slˈoʊli ænd ˌɪntɚmˈɪtəntli æz tɹˈæfɪk bɪkˌeɪm hˈɛvi .|0
+LJSpeech-1.1/wavs/LJ032-0111.wav|lˈɛɾɚz ɹᵻsˈiːvd baɪ mɚɹˈiːnə ˈɑːswəld fɹʌm hɜː hˈʌsbənd sˈaɪnd dˈɑːlɚɹ ˈælɪk dˈɑːlɚ wɜː ɡˈɪvən tə ðə kəmˈɪʃən .|0
+LJSpeech-1.1/wavs/LJ017-0045.wav|ðə sˈɛntɹəl kɹˈɪmɪnəl kˈoːɹt wʌz kɹˈaʊdᵻd tə sˌʌfəkˈeɪʃən .|0
+LJSpeech-1.1/wavs/LJ005-0092.wav|ænd ˈɛvɹi pɹˈɪzənɚ wʌz təbi pɹəvˈaɪdᵻd wɪð ɐ hˈæmək ɔːɹ kˈɑːt tə hɪmsˈɛlf , sˈuːɾəbəl bˈɛdɪŋ , ænd , ɪf pˈɑːsᵻbəl , ɐ sˈɛpɹət sˈɛl .|0
+LJSpeech-1.1/wavs/LJ003-0165.wav|ðə bˈɛɾɚ klˈæs ʌv ˈɪnmeɪt kəmplˈeɪnd bˈɪɾɚli ʌv ðɪs ɛnfˈoːɹst kəmpˈæniənʃˌɪp wɪððə vˈaɪl ,|0
+LJSpeech-1.1/wavs/LJ040-0016.wav|ænd ɪnðə hˈɪstɚɹi ʌv hɪz lˈaɪf wˌɪtʃ dˈʌz ɡˈɪv sˌʌm ˈɪnsaɪt ˌɪntʊ hɪz kˈæɹɪktɚɹ ænd , pˈɑːsᵻbli , ˌɪntʊ ðə mˈoʊɾɪvz fɔːɹ hɪz ˈækt .|0
+LJSpeech-1.1/wavs/LJ003-0237.wav|ðə fˈiːz ˌɔn ɹᵻsˈɛpʃən ænd dɪstʃˈɑːɹdʒ mˈʌst biː dˈiːmd ɛɡzˈoːɹbɪtənt , wˌɛn ɪɾ ɪz ɹᵻmˈɛmbɚd ðɪ ɪmpˈɑːvɚɹɪʃt klˈæs hˌuː jˈuːʒuːəli kɹˈaʊdᵻd ðə dʒˈeɪl ;|0
+LJSpeech-1.1/wavs/LJ026-0037.wav|ɪt wɪl nˈoʊ dˈaʊt əkˈɜː tə ðə ɹˈiːdɚ ðˈæt , ɔnðə θˈiəɹi ʌv ˌɛvəlˈuːʃən ,|0
+LJSpeech-1.1/wavs/LJ026-0007.wav|mˈɛnɪəv ðə lˈoʊɪst fˈɔːɹmz ʌv lˈaɪf hæv lˈɔŋ bˌɪn pˈʌzəlz|0
+LJSpeech-1.1/wavs/LJ004-0173.wav|ænd sˈʌmtaɪmz slˈɛpt ɪn dˈɑːlɚ ðə pˈɪt , dˈɑːlɚ lˈoʊdᵻd wɪð hˈɛvi ˈaɪɚnz fɚɹə hˈoʊl jˈɪɹ , wˈeɪɾɪŋ ðə dʒˈeɪl dᵻlˈɪvɚɹi .|0
+LJSpeech-1.1/wavs/LJ003-0069.wav|ɪn ðɪs hˌɛɾɚɹədʒˈiːniəs səsˈaɪəɾi wɜːɹ ˈɔːlsoʊ θɹˈoʊn ðɪ ʌnfˈɔːɹtʃənət dʒˈɜːnəlˌɪsts tə hˈuːm aɪ hæv ɔːlɹˌɛdi ɹᵻfˈɜːd , ænd ˌɔn hˈuːm ɪmpɹˈɪzənmənt ɪn nˈuːɡeɪt|0
+LJSpeech-1.1/wavs/LJ032-0255.wav|ɐbˌaʊt wˈʌn wˈiːk ˈæftɚ ðə ɹᵻtˈɜːn fɹʌm nˈuː ˈɔːɹliənz ,|0
+LJSpeech-1.1/wavs/LJ015-0160.wav|hiː pˈætɹənˌaɪzd ðə bˈɛst tˈeɪlɚz , ænd hæd ɐ fˈæʃənəbəl kɔɪfˈʊɹ fɹʌm hˈænoʊvɚ skwˈɛɹ dˈeɪli tə kˈɜːl hɪz hˈɛɹ .|0
+LJSpeech-1.1/wavs/LJ032-0002.wav|tʃˈæptɚ fˈoːɹ . ðɪ ɐsˈæsɪn : pˈɑːɹt wˌʌn .|0
+LJSpeech-1.1/wavs/LJ016-0290.wav|ðɛɹwˌɜː bˌʌt fjˈuː wˈɪmɪn , ɛksˈɛpt ʌvðə mˈoʊst dᵻɡɹˈeɪdᵻd sˈɔːɹt ; ðə mˈɛn wɜː mˈoʊstli jˈʌŋ mˈɛn|0
+LJSpeech-1.1/wavs/LJ044-0018.wav|ænd wʌz ɚɹˈɛstᵻd bɪkˈʌz əvə dɪspjˈuːt wɪð θɹˈiː ˈæntaɪ kˈæstɹoʊ kjˈuːbən ˈɛɡzaɪlz , ænd ɐɡˈɛn ˌɔn ˈɔːɡəst sˈɪkstiːn , nˈaɪntiːn sˈɪksti θɹˈiː .|0
+LJSpeech-1.1/wavs/LJ016-0271.wav|ðə ɹᵻplˈaɪ ᵻvˈɪnst ˈiːkwəl sˌæɾɪsfˈækʃən , ænd ðə spˈiːkɚ , wɪð ɐ pɹəfˈeɪn ˈoʊθ , dᵻklˈɛɹd ðæt hiː wʊd lˈaɪk tʊ ˈækt æz dʒˈæk kˈɛtʃ tə ðə hˈoʊl lˈɑːt .|0
+LJSpeech-1.1/wavs/LJ001-0016.wav|ðə mˈɪdəl ˈeɪdʒᵻz bɹˈɔːt kælˈɪɡɹəfi tə pɚfˈɛkʃən , ænd ɪt wʌz nˈætʃɚɹəl ðˈɛɹfoːɹ|0
+LJSpeech-1.1/wavs/LJ006-0151.wav|mˈɛnɪəv ðˌɛm wɜːɹ ˈʌðɚwˌaɪz ænd ɪmpɹˈɑːpɚli ˈɑːkjʊpˌaɪd fɔːɹ ˈaʊɚz ˈɛvɹi dˈeɪ ɪn mˈiːnɪəl sˈɜːvɪsᵻz fɚðə ɡˈʌvɚnɚ , klˈiːnɪŋ hɪz wˈɪndoʊz ɔːɹ ɡɹˈuːmɪŋ hɪz hˈɔːɹs .|0
+LJSpeech-1.1/wavs/LJ020-0002.wav|bɹˈɛd ɹˈeɪzd wɪð wʌt ɪz nˈoʊn tə bˈeɪkɚz æz ˈeɪ “ spˈʌndʒ , ” ɹᵻkwˈaɪɚz mˈoːɹ tˈaɪm ænd ɐ tɹˈaɪfəl mˈoːɹ wˈɜːk ðɐn ðə sˈɪmplɚ fˈɔːɹm fɔːɹ wˌɪtʃ aɪ hæv dʒˈʌst ɔːlɹˌɛdi ɡˈɪvən dᵻɹˈɛkʃənz .|0
+LJSpeech-1.1/wavs/LJ001-0070.wav|ænd wʌz jˈuːzd ðɛɹ wɪð vˈɛɹi lˈɪɾəl vˌɛɹɪˈeɪʃən ˈɔːl θɹuː ðə sˈɪkstiːnθ ænd sˈɛvəntˌiːnθ sˈɛntʃɚɹiz , ænd ˌɪndˈiːd ˌɪntʊ ðɪ ˈeɪtiːnθ .|0
+LJSpeech-1.1/wavs/LJ007-0097.wav|ænd nˌɑːt ðə lˈiːst ʌvðə ɡˈʊd sˈɜːvɪsᵻz ɹˈɛndɚd baɪ ðə nˈuː ɪnspˈɛktɚz wʌz ðɛɹ ˈɪŋkwɚɹi ˌɪntʊ ðə stˈæɾəs ʌv ðiːz ʌnfˈɔːɹtʃənət pˈiːpəl , ænd ðɛɹ ɹˌɛkəmɛndˈeɪʃən tʊ ɪmpɹˈuːv ɪt .|0
+LJSpeech-1.1/wavs/LJ022-0024.wav|ðeɪ nˈoʊ ðætðə pɹˈɑːsɛs ʌvðə kənstɹˈʌktɪv ɹᵻbˈɪldɪŋ ʌv ɐmˈɛɹɪkə kænˈɑːt biː dˈʌn ɪn ɐ dˈeɪ ɔːɹ ɐ jˈɪɹ ,|0
+LJSpeech-1.1/wavs/LJ022-0139.wav|wɪð wˌɪtʃ wiː hɐvbɪŋ kənsˈɜːnd fɔːɹ tˈuː jˈɪɹz .|0
+LJSpeech-1.1/wavs/LJ021-0050.wav|aɪ sɪnsˈɪɹli hˈoʊp ðæt æz ɐ ɹɪzˈʌlt|0
+LJSpeech-1.1/wavs/LJ028-0392.wav|ðə stˈeɪtmənt ʌv sənt . dʒˈɛɹoʊm ɪz kənfˈɜːmd baɪ ðə fˈɑːloʊɪŋ pˈæsɪdʒ fɹʌm zˈɑːsɪməs , ɐ ɡɹˈiːk ɹˈaɪɾɚɹ ʌvðə fˈɪfθ sˈɛntʃɚɹi ˈeɪ.dˈiː . :|0
+LJSpeech-1.1/wavs/LJ049-0215.wav|ðə pɹətˈɛkʃən ʌvðə pɹˈɛzɪdənt ɪz ɪn ɐ ɹˈiːəl sˈɛns ɐ ɡˈʌvɚnmənt wˈaɪd ɹᵻspˌɑːnsəbˈɪlɪɾi wˌɪtʃ mˈʌst nˌɛsɪsˈɛɹᵻli ɐsˈuːmd baɪ ðə dᵻpˈɑːɹtmənt ʌv stˈeɪt ,|0
+LJSpeech-1.1/wavs/LJ029-0130.wav|ðə pɹˈɛzɪdənts mˈoʊɾɚkˌeɪd wʊd pˈæs ðə tˈɛksəs skˈuːl bˈʊk dᵻpˈɑːzɪtˌoːɹi bˈɪldɪŋ ɔnðə nɔːɹθwˈɛst kˈɔːɹnɚɹ ʌv hjˈuːstən ænd ˈɛlm stɹˈiːts .|0
+LJSpeech-1.1/wavs/LJ028-0194.wav|bˌʌt hˌaʊ dˈɪd ðə dˈɑːlɚ mˈaɪɾi sˈɪɾi dˈɑːlɚ fˈɔːl ? hˌaʊ kʊd sˈaɪɹəs tˈeɪk bˈæbɪlən hˌuːz wˈɔːlz wɜː stɹˈɔŋ ɪnˈʌf tə ɹᵻzˈɪst ˌɛni ˈɑːɹmi ?|0
+LJSpeech-1.1/wavs/LJ028-0452.wav|ðɪ ˈaʊɾɚ wˈɔːl bˈoːɹ ðə nˈeɪm ʌv nɪmˈɪɾi bˈɛl . ɪts dᵻɹˈɛkʃən wʌz nˈɔːɹθiːst ænd saʊθwˈɛst , fˈɔːɹmɪŋ ɐ tɹˈaɪæŋɡəl wɪððə ɹˈɪvɚ .|0
+LJSpeech-1.1/wavs/LJ028-0192.wav|wˌɛn ðə nˈuːz kˈeɪm tə ðə hˈiːbɹuːz , hˌuː wɜː hˈɛld ðɛɹ ɪn ˈɛɡzaɪl , ðeɪ ɛksˈaɪɾɪdli ɹˈʌʃt ɐbˌaʊt ðə stɹˈiːts , kɹˈaɪɪŋ : dˈɑːlɚ bˈæbɪlən ɪz fˈɔːlən , dˈɑːlɚ|0
+LJSpeech-1.1/wavs/LJ048-0259.wav|haʊˈɛvɚ , tʃˈiːf ɹˈoʊli dɪdnˌɑːt kəndˈoʊn ðɪ ˈækʃən ʌvðɪ ˈɔf dˈuːɾi ˈeɪdʒənts , pɚtˈɪkjʊlɚli sˈɪns ɪt vˈaɪəleɪɾᵻd ɐ ɹˌɛɡjʊlˈeɪʃən ʌvðə sˈiːkɹᵻt sˈɜːvɪs ,|0
+LJSpeech-1.1/wavs/LJ006-0144.wav|ɐ wˈɔːɹdzmən dɪdnˌɑːt nˌɛsɪsˈɛɹᵻli lˈuːz hɪz sˌɪtʃuːˈeɪʃən fɔːɹ ɪt . nˈɔːɹ wʌz dɹˈɪŋk ðɪ ˈoʊnli kɹˈiːtʃɚ kˈʌmfɚt hiː mˌaɪt ɛndʒˈɔɪ .|0
+LJSpeech-1.1/wavs/LJ005-0157.wav|hˈɪɹ ɐnd ðˈɛɹ fˈuːd wʌz nˌɑːt ˈɪʃuːd ɪŋ kˈaɪnd , bˌʌt ɐ mˈʌni ɐlˈaʊəns wˌɪtʃ ðə pɹˈɪzənɚ mˌaɪt ɛkspˈɛnd hɪmsˈɛlf .|0
+LJSpeech-1.1/wavs/LJ016-0133.wav|ðɛɹˈɪz , haʊˈɛvɚ , nˈoʊ ɛksplɐnˈeɪʃən ʌvðə mˈoʊɾɪvz wˌɪtʃ pɹˈɑːmpt pɹˈɪzənɚz tʊ ɐtˈɛmpt ɛskˈeɪps .|0
+LJSpeech-1.1/wavs/LJ018-0226.wav|lˈiːvɪŋ ˈɛvɹɪθˌɪŋ tə ðə wˈɪdoʊ , ænd kˈɑːnstɪtˌuːɾɪŋ wˈɪljəm sˈoʊl ɛɡzˈɛkjuːɾɚ .|0
+LJSpeech-1.1/wavs/LJ045-0184.wav|ðˈɛn ˌɔn θˈɜːzdeɪ mˈɔːɹnɪŋ , noʊvˈɛmbɚ twˈɛnti wˌʌn ,|0
+LJSpeech-1.1/wavs/LJ010-0072.wav|ɹᵻtˈɜːnɪŋ tʊ ˈɪŋɡlənd ,|0
+LJSpeech-1.1/wavs/LJ002-0118.wav|ɐ tˈeɪbəl ʃˈoʊɪŋ ðə fˈɪɡjɚz fɚðə jˈɪɹ ˈɛndɪŋ mˈaɪkəlməz ˈeɪtiːn ˈoʊ tˈuː .|0
+LJSpeech-1.1/wavs/LJ011-0291.wav|tˈuː bˈoʊ stɹˈiːt ɹˈʌnɚz wɜː dɪspˈætʃt tə ðə hˈaʊs ɪn jˈɔːɹk stɹˈiːt , wˌɪtʃ hæd ˈɛvɪdəntli bˌɪn tˈeɪkən ˌɔn pˈɜːpəs fɚðɪ ˈaʊtɹeɪdʒ .|0
+LJSpeech-1.1/wavs/LJ036-0023.wav|ɔnðə bˈeɪsɪs ʌvðə dˈeɪt ænd tˈaɪm ɔnðə tɹˈænsfɜː , mək wˈɑːɾɚz wʌz ˈeɪbəl tə tˈɛstᵻfˌaɪ ðætðə tɹˈænsfɜː hɐdbɪn ˈɪʃuːd baɪ hˌɪm|0
+LJSpeech-1.1/wavs/LJ016-0276.wav|nˈɛvɚ , ˌɪndˈiːd , hæd ɐn ˌɛksɪkjˈuːʃən bˌɪn mˈoːɹ dʒˈɛnɚɹəli pˈætɹənˌaɪzd .|0
+LJSpeech-1.1/wavs/LJ008-0073.wav|wˈʌŋ kˈeɪs ɪz pɹɪzˈɜːvd baɪ kˈætnæk ,|0
+LJSpeech-1.1/wavs/LJ010-0066.wav|wˌɪtʃ ˌʌndɚ θˈɪsəlwˌʊd æz dɪktˈeɪɾɚ wʌz tə ɹˈuːl ðə nˈeɪʃən , baɪ fˈɜːst hˈændɪŋ ˌoʊvɚɹ ɪts kˈæpɪɾəl tə fˈaɪɚ ænd pˈɪlɪdʒ .|0
+LJSpeech-1.1/wavs/LJ003-0226.wav|ðə ɹˈæʃənz ʌv fˈuːd wɜː noʊtˈoːɹiəsli ɪnˈædɪkwət , ænd sˌoʊ kˈɛɹləsli dˈɪstɹɪbjˌuːɾᵻd , ðæt mˈɛni wɜː lˈɛft tə stˈɑːɹv .|0
+LJSpeech-1.1/wavs/LJ046-0240.wav|bˈaʊk ɛksplˈeɪnd ðə fˈeɪlɪɹ tə tɹˈaɪ tʊ aɪdˈɛntᵻfˌaɪ ðɪ ˌɪndᵻvˈɪdʒuːəlz ɪnvˈɑːlvd ɪnðə stˈiːvɛnsən ˈɪnsɪdənt ˈæftɚɹ ɪɾ əkˈɜːd ɔnðə ɡɹˈaʊnd ðˈæt|0
+LJSpeech-1.1/wavs/LJ002-0251.wav|dɹˈʌŋkənnəs wʌz nˌɑːt kˈɑːmən , tʃˈiːfli bɪkˈʌz lˈɪkɚ wʌz nˌɑːt təbi hæd fɹˈiːli , ɔːlðˈoʊ ðə tˈæpstɚ pˈeɪd ɐ ɹˈɛnt ʌv tˈuː ɡˈɪniz ɐ wˈiːk fɔːɹ pɚmˈɪʃən tə sˈɛl ɪt .|0
+LJSpeech-1.1/wavs/LJ013-0028.wav|ænd æt lˈæst , wˌɛn wɪðˌɪn fˈɪftiːn mˈaɪlz ʌv pˈoːɹt , wɪð wˈɪnd ænd wˈɛðɚ pˈɜːfɛktli fˈɛɹ , hiː ɹˈæn hɜːɹ ˌɔn tə ðə ɹˈɑːks .|0
+LJSpeech-1.1/wavs/LJ017-0092.wav|hiː dᵻsˈaɪdᵻd tə jˈuːz stɹˈɪtʃniə , ɔːɹ ðə vˈɛdʒɪɾəbəl pˈɔɪzən ˈʌðɚwˌaɪz nˈoʊn æz nˈʌks vˈɑːmɪkə ;|0
+LJSpeech-1.1/wavs/LJ031-0112.wav|ɪn ɪts ɡɹˈeɪɾɪst daɪˈæmɪɾɚ , wʌz tɹˈiːɾᵻd baɪ kˈʌɾɪŋ ɐwˈeɪ ðə dˈæmɪdʒd skˈɪn ænd sˈuːtʃɚɹɪŋ ðə bˈæk mˈʌsəl ænd skˈɪn .|0
+LJSpeech-1.1/wavs/LJ038-0144.wav|ðæt mˈʌstɐv bˌɪn sˌʌm ˈʌðɚ tˈaɪm hiː pˈɪkt mˌiː ˈʌp , ˈɛnd kwˈoʊt ,|0
+LJSpeech-1.1/wavs/LJ034-0184.wav|ɐpɹˈɑːksɪmətli wˈʌn wˈiːk ˈæftɚ ðɪ ɐsˌæsᵻnˈeɪʃən , ɐkˈoːɹdɪŋ tə fˈɪʃɚ , pəlˈiːsmɛn ʃˈoʊd hˌɪm ɐ pˈɪktʃɚɹ ʌv ˈɑːswəld .|0
+LJSpeech-1.1/wavs/LJ042-0067.wav|sˈoʊk fˈɪst ɪŋ kˈoʊld wˈɔːɾɚ tə nˈʌm ðə pˈeɪn . ðˈɛn slˈæʃ maɪ lˈɛft ɹˈɪst . ðɐn plˈʌndʒ ɹˈɪst ˌɪntʊ bˈæθtʌb ʌv hˈɑːt wˈɔːɾɚ .|0
+LJSpeech-1.1/wavs/LJ015-0271.wav|hiː dˈɛlt tˈuː ɪnðə pɹˈɛʃəs mˈɛɾəlz , wˌɛn ðeɪ hɐdbɪn ɪmpɹˈɑːpɚli ɐkwˈaɪɚd ,|0
+LJSpeech-1.1/wavs/LJ049-0222.wav|pˈɛndɪŋ ˌɛni sˈʌtʃ dɪtˌɜːmᵻnˈeɪʃən , haʊˈɛvɚ , ðɪs kəmˈɪʃən ɪz kənvˈɪnst ʌvðə nəsˈɛsɪɾi ʌv bˈɛɾɚ koʊˈɔːɹdᵻnˈeɪʃən|0
+LJSpeech-1.1/wavs/LJ042-0233.wav|hɪz fˈɜːst sˈɛt ʌv kwˈɛstʃənz ænd ˈænsɚz ˈɪndᵻkˌeɪɾᵻd hɪz bᵻlˈiːf ðæt ðɛɹwˌɜː nˈoʊ aʊtstˈændɪŋ dˈɪfɹənsᵻz bᵻtwˌiːn ðə sˈoʊviət jˈuːniən ænd ðə juːnˈaɪɾᵻd stˈeɪts ,|0
+LJSpeech-1.1/wavs/LJ017-0213.wav|ðə fˈɜːst ænd sˈɛkənd mˈeɪts , kˈɑːɹswɛl ænd tˈæfɪɹ ; ðɛɹwˌɜː tˈuː ˈʌðɚɹ ˈɪŋɡlɪʃmˌɛn ˌɔn bˈoːɹd , ænd ðə ɹˈɛst ʌvðə kɹˈuː wɜːɹ ɐ pˈɑːlɪɡlˌɑːt lˈɑːt ,|0
+LJSpeech-1.1/wavs/LJ008-0117.wav|dˈɑːlɚ juː hæv tˈaɪd mˌiː vˈɛɹi tˈaɪt , dˈɑːlɚɹ əpˌɑːn wˌɪtʃ dˈɑːktɚ . fˈɔːɹd ˈɔːɹdɚd hˌɪm tə slˈækən ðə kˈoːɹd , wˌɪtʃ hiː dˈɪd , bˌʌt nˌɑːt wɪðˌaʊt mˈʌɾɚɹɪŋ .|0
+LJSpeech-1.1/wavs/LJ008-0074.wav|ðæt ʌv fˈiːbiː hˈæɹɪs , hˌuː ɪn sˈɛvəntˌiːn ˈeɪɾi ˈeɪt wʌz dˈɑːlɚ bɑːɹbˈɛɹiəsli dˈɑːlɚɹ ˈɛksᵻkjˌuːɾᵻd ænd bˈɜːnt bᵻfˌoːɹ nˈuːɡeɪt fɔːɹ kˈɔɪnɪŋ .|0
+LJSpeech-1.1/wavs/LJ021-0108.wav|fɹʌmðə stˈændpɔɪnt ʌvðə ɡˈʊd ʌvðɪ ˈɪndʌstɹiz ðɛmsˈɛlvz , æz wˈɛl æz ðə dʒˈɛnɚɹəl pˈʌblɪk ˈɪntɹɪst ,|0
+LJSpeech-1.1/wavs/LJ029-0045.wav|tə sᵻlˈɛkt ðə lˈʌntʃən sˈaɪt ænd mˈoʊɾɚkˌeɪd ɹˈaʊt , ænd tə plˈæn sᵻkjˈʊɹɹɪɾi mˈɛʒɚz fɚðə lˈʌntʃən ænd ðə mˈoʊɾɚkˌeɪd .|0
+LJSpeech-1.1/wavs/LJ013-0179.wav|ðə lˈæɾɚ wʌz sˌoʊ plˈeɪst ðˌɐɾɪt kʊd θɹˈoʊ nˈoʊ lˈaɪt ɔnðə fˈɔːɹmɚ , wˌɪtʃ wʌzɐ lˈaɪf ʌv sˌɜː sˈæmjuːl ɹˈɑːmɪli .|0
+LJSpeech-1.1/wavs/LJ028-0336.wav|dˈɛɹɪəs nˈaʊ , stˈɪl kˈiːpɪŋ tə ðə plˈæn ɐɡɹˈiːd əpˌɑːn ,|0
+LJSpeech-1.1/wavs/LJ028-0514.wav|ðə ɡɹˈeɪt ˈaʊɾɚ wˈɔːl sˈiːmz tə hæv dˌɪsɐpˈɪɹd kəmplˈiːtli bᵻnˌiːθ ðə dˈɛzɚt sˈɜːfɪs .|0
+LJSpeech-1.1/wavs/LJ015-0023.wav|mˈɪstɚ . bˈeɪts hɐdbɪŋ kˌɑːnfɪdˈɛnʃəl mˈænɪdʒɪŋ klˈɜːk , ænd wʌz tˈeɪkən ˌɪntʊ ðə fˈɜːm nˌɑːt ɐlˈoʊn æz ɐ ɹᵻwˈɔːɹd fɔːɹ lˈɔŋ ænd fˈeɪθfəl sˈɜːvɪs|0
+LJSpeech-1.1/wavs/LJ040-0062.wav|ðɪ ˈɜːli jˈɪɹz|0
+LJSpeech-1.1/wavs/LJ038-0225.wav|wˌɪtʃ wʊd ˈɪndᵻkˌeɪt ðˌɐɾɪt wʌz pɹˈɑːbəbli ɹˈɪʔn̩ bᵻfˌoːɹ ðə bˈɜːθ ʌv ˈɑːswəldz sˈɛkənd tʃˈaɪld ˌɔn ɑːktˈoʊbɚ twˈɛnti , nˈaɪntiːn sˈɪksti θɹˈiː .|0
+LJSpeech-1.1/wavs/LJ027-0161.wav|ɪɾ ɪz ᵻsˈɛnʃəli ɐ fˈɪʃ , ænd wʊd biː sˌoʊ klˈæst ɪf ɪt ɹᵻmˈeɪnd ɪn ðɪs kəndˈɪʃən .|0
+LJSpeech-1.1/wavs/LJ006-0023.wav|hæd mˌeɪd sˈʌtʃ pɹˈɪzənz æz ˈɔːbɜːn ɐ mˈɑːdəl fɔːɹ ˌɪmɪtˈeɪʃən .|0
+LJSpeech-1.1/wavs/LJ046-0044.wav|ɪn ɐkˈoːɹdəns wɪð dʒˈɔːɹdʒ wˈɑːʃɪŋtənz mˈæksɪm ðæt ɐmˈɛɹɪkənz hæv ɐ ɡˈʌvɚnmənt , kwˈoʊt , ʌv ɐkˌɑːmədˈeɪʃən æz wˈɛl æz ɐ ɡˈʌvɚnmənt ʌv lˈɔːz , ˈɛnd kwˈoʊt ,|0
+LJSpeech-1.1/wavs/LJ008-0020.wav|hˈɪɹ dʒˈɑːn sˈʌðɜːlənd , kəmˈændɚɹ ʌvðə bɹˈɪɾɪʃ ˈɑːɹmd tɹˈænspoːɹt ðə fɹˈɛndz , sˈʌfɚd ɔnðə twˈɛnti nˈaɪnθ dʒˈuːn , ˈeɪtiːn ˈoʊ nˈaɪn ,|0
+LJSpeech-1.1/wavs/LJ017-0056.wav|ɔːlðˈoʊ ðə stɹˈeɪn lˈæstᵻd fˈoːɹtiːn dˈeɪz , hiː ʃˈoʊd nˈoʊ sˈaɪnz ʌv ɛɡzˈɔːstʃən , ˈiːðɚ fˈɪzɪkəl ɔːɹ mˈɛntəl .|0
+LJSpeech-1.1/wavs/LJ038-0172.wav|ɔːlðˈoʊ ðə bˈʊlɪt wʌz ɹᵻkˈʌvɚd fɹʌm wˈɔːkɚz hˈaʊs , ɪnðɪ ˈæbsəns əvə wˈɛpən ɪt wʌz ʌv lˈɪɾəl ɪnvˈɛstɪɡətˌoːɹi vˈæljuː .|0
+LJSpeech-1.1/wavs/LJ030-0110.wav|ænd vˈaɪs pɹˌɛzɪdˈɛnʃəl fˈɑːloʊ ˌʌp kˈɑːɹ jˈuːzd pˈoːɹɾəbəl sˈɛts wɪð ɐ sˈɛpɹət fɹˈiːkwənsi fɔːɹ ðɛɹ ˈoʊŋ kˈɑːɹ tə kˈɑːɹ kəmjˌuːnɪkˈeɪʃən .|0
+LJSpeech-1.1/wavs/LJ025-0122.wav|ðə kɑːntɹɐktˈɪlɪɾi wˌɪtʃ ɪz ðə fˌʌndəmˈɛntəl kəndˈɪʃən ʌv lˌoʊkəmˈoʊʃən , dˈɑːlɚ kəntˈɪnjuːz hˈʌksli ,|0
+LJSpeech-1.1/wavs/LJ039-0178.wav|ðɪs ˈæŋɡəl wʌz jˈuːzd ɪnðə tˈɛst bɪkˈʌz ðə mədʒˈɔːɹᵻɾi ʌvðɪ ˈaɪwɪtnəsᵻz tə ðɪ ɐsˌæsᵻnˈeɪʃən|0
+LJSpeech-1.1/wavs/LJ031-0169.wav|mˈoʊɾɚkˌeɪd pəlˈiːsmɛn hˌuː ɛskˈɔːɹɾᵻd ðɪ ˈɔːɾəməbˌiəlz wɜː ɹᵻkwˈɛstᵻd baɪ ðə vˈaɪs pɹˈɛzɪdənt ænd ˈeɪdʒənt jˈʌŋblʌd nˌɑːt tə jˈuːz sˈaɪɹənz .|0
+LJSpeech-1.1/wavs/LJ018-0144.wav|ðɪ ɐmˈaʊnt ʌv bɹˈuːɚz ɐbstɹˈækʃənz hˌuː wʌz ᵻvˈɛntʃuːəli ɐkwˈɪɾᵻd wʌz nˈɛvɚɹ ɛɡzˈæktli ˈɛstᵻmˌeɪɾᵻd .|0
+LJSpeech-1.1/wavs/LJ012-0251.wav|ðə lˈɑːkmən ʌv dˈɑːlɚ bˈɛn dʒˈɑːnsən lˈɑːk , dˈɑːlɚɹ ɪn stˈɛpni fˈiːldz , fˈaʊnd ɐ hjˈuːmən hˈɛd dʒˈæmd ˌɪntʊ ðə lˈɑːk ɡˈeɪts .|0
+LJSpeech-1.1/wavs/LJ044-0101.wav|hiː hæd pɹˈiːviəsli sˈɛnt , ɐpˈæɹəntli ʌnsəlˈɪsɪɾᵻd , tə ðə pˈɑːɹɾi nˈuːzpeɪpɚ , ðə wˈɜːkɚ ,|0
+LJSpeech-1.1/wavs/LJ040-0205.wav|ænd ʌvðə , kwˈoʊt , pɹətˈɛktɪv ʃˈɛl hiː hɐz dɹˈɔːn ɚɹˈaʊnd hɪmsˈɛlf , ˈɛnd kwˈoʊt . dˈɑːktɚ . hˈɑːɹɾɑːɡz ɹᵻpˈoːɹɾᵻd ðæt mˈɪsɪz . ˈɑːswəld dɪdnˌɑːt ˌʌndɚstˈænd|0
+LJSpeech-1.1/wavs/LJ027-0073.wav|mˈeɪ biː ʃˈoʊn təbi mˌɑːdɪfɪkˈeɪʃənz wˈʌn ʌv ɐnˈʌðɚ .|0
+LJSpeech-1.1/wavs/LJ020-0031.wav|ˌɪntʊ ðə “ kɹˈeɪɾɚ ” dˈʌɡ ˈaʊt ɪnðə mˈɪdəl , pˈoːɹ ðə spˈʌndʒ , wˈɔːɹm wˈɔːɾɚ , ðə məlˈæsᵻz , ænd sˈoʊdə dɪsˈɑːlvd ɪn hˈɑːt wˈɔːɾɚ .|0
+LJSpeech-1.1/wavs/LJ004-0130.wav|ɪŋkəmˈoʊdiəs , æz hɐzbɪn stˈeɪɾᵻd , ˌɪnsᵻkjˈʊɹ , ʌnhˈɛlθi , ænd ʌnpɹəvˈaɪdᵻd wɪððə pɹˈɪntᵻd ɔːɹ ɹˈɪʔn̩ ɹˌɛɡjʊlˈeɪʃənz ɹᵻkwˈaɪɚd baɪ lˈɔː .|0
+LJSpeech-1.1/wavs/LJ029-0062.wav|ɪɾ ˈɔːlsoʊ ɐdvˈaɪzd ðə sˈiːkɹᵻt sˈɜːvɪs ʌvðə sˌɜːkjʊlˈeɪʃən ˌɔn noʊvˈɛmbɚ twˈɛnti wˈʌn əvə hˈændbɪl ʃˈɑːɹpli kɹˈɪɾɪkəl ʌv pɹˈɛzɪdənt kˈɛnədi ,|0
+LJSpeech-1.1/wavs/LJ015-0217.wav|ðə nˈɛkst stˈɛp wʌz tə ɡɛt ɪmpɹˈɛʃənz ænd fˈæbɹᵻkˌeɪt fˈɔls kˈiːz .|0
+LJSpeech-1.1/wavs/LJ006-0292.wav|mˈeɪl pɹˈɪzənɚz kˈæɹid kˈoʊl ˌɪntʊ ðə fˈiːmeɪl pɹˈɪzən , wˌɛn ðeɪ sˈɔː ænd kʊd spˈiːk ɔːɹ pˈæs lˈɛɾɚz tə ðə fˈiːmeɪl pɹˈɪzənɚz ;|0
+LJSpeech-1.1/wavs/LJ037-0040.wav|ʃiː sˈɔː ðə mˈæŋ kˈʌm tə ðə ɹˈaɪt wˈɪndoʊ ʌvðə pəlˈiːs kˈɑːɹ . æz hiː tˈɔːkt , hiː lˈiːnd ɔnðə lˈɛdʒ ʌvðə ɹˈaɪt wˈɪndoʊ wɪð hɪz ˈɑːɹmz .|0
+LJSpeech-1.1/wavs/LJ043-0183.wav|ˈɑːswəld dɪdnˌɑːt lˈæk ðə dɪtˌɜːmᵻnˈeɪʃən ænd ˈʌðɚ tɹˈeɪts ɹᵻkwˈaɪɚd|0
+LJSpeech-1.1/wavs/LJ050-0009.wav|dɪsklˈoʊzd baɪ ðə kəmˈɪʃənz ɪnvˌɛstɪɡˈeɪʃən . ˈʌðɚ mˈɛʒɚz ʃˌʊd biː tˈeɪkən æz wˈɛl tʊ ɪmpɹˈuːv ðɪ ˌoʊvɚɹˈɔːl ˌɑːpɚɹˈeɪʃən ʌvðə sˈiːkɹᵻt sˈɜːvɪs .|0
+LJSpeech-1.1/wavs/LJ005-0246.wav|wˌɛɹ dˈɑːlɚ pɹˈɪzənɚz bᵻfˌoːɹ ænd ˈæftɚ tɹˈaɪəl ɑːɹ ˌʌndɚ nˈoʊ ɪfˈɪʃənt sˌuːpɚɹɪntˈɛndəns , dˈɑːlɚɹ ænd wˌɛɹ dˈɑːlɚ ðɛɹwˌʌz nˈoʊ ɹᵻstɹˈeɪnt , ɔːɹ ɐtˈɛmpt æt ɹᵻstɹˈeɪnt.dˈɑːlɚ|0
+LJSpeech-1.1/wavs/LJ011-0073.wav|sˈɛvɹəl pˈɜːsənz wɜː sˈɛntənst tʊ ɔːɹ sˈʌfɚd dˈɛθ fɔːɹ ðɪs kɹˈaɪm .|0
+LJSpeech-1.1/wavs/LJ025-0025.wav|hiː nˈætʃɚɹəli sˈiːz ðə pɹˈaɪmɚɹi ænd ðə mˈoʊst ɪmpˈoːɹtənt dɪstˈɪŋkʃən bᵻtwˌiːn ˈænɪməlz ænd plˈænts ,|0
+LJSpeech-1.1/wavs/LJ025-0017.wav|hiː ɐfˈɜːmz ðæt lˈɪvɪŋ bˈiːɪŋz hɐvbɪn sˌʌbdᵻvˈaɪdᵻd fɹʌmðɪ ˈɜːlɪɪst tˈaɪmz ˌɪntʊ ˈænɪmˌeɪɾᵻd bˈiːɪŋz , wˌɪtʃ pəzˈɛs sˈɛns ænd mˈoʊʃən ,|0
+LJSpeech-1.1/wavs/LJ004-0050.wav|mˈɪstɚ . bˈʌkstən hæd ɔːlɹˌɛdi bˌɪn ɐsˈoʊsɪˌeɪɾᵻd wɪð mˈɪsɪz . fɹˈaɪ ɪnðə nˈuːɡeɪt vˌɪzɪtˈeɪʃən , ænd hɪz ɐtˈɛnʃən hæd ðˈʌs bˌɪn dɹˈɔːn tə ðə nᵻɡlˈɛktᵻd stˈeɪt ʌv ˈɪŋɡlɪʃ pɹˈɪzənz .|0
+LJSpeech-1.1/wavs/LJ050-0058.wav|wˌɪtʃ wʌzðə pˌɑːsəbˈɪlɪɾi əvən ɐtˈɛmpt ɐɡˈɛnst ðə pˈɜːsən ɔːɹ sˈeɪfti ʌvðə pɹˈɛzɪdənt .|0
+LJSpeech-1.1/wavs/LJ026-0146.wav|ðeɪ ɑːɹ ɐbsˈoːɹbd baɪ ðə sˈɜːkjʊlˌeɪɾɪŋ lˈɪkwɪdz ænd kˈæɹid tə ðɪ ᵻlˈɪmᵻnˌeɪɾɪŋ ˈɔːɹɡənz , lˈʌŋz ænd kˈɪdniz tʃˈiːfli , fɔːɹ ᵻlˌɪmᵻnˈeɪʃən .|0
+LJSpeech-1.1/wavs/LJ031-0150.wav|ˈʌðɚ sˈiːkɹᵻt sˈɜːvɪs ˈeɪdʒənts pˈoʊstᵻd ðɛmsˈɛlvz ɪnðə kˈɔɹɪdˌoːɹz ænd ˈʌðɚɹ ˈɛɹiəz nˌɪɹ ðɪ ɪmˈɜːdʒənsi ɹˈuːm .|0
+LJSpeech-1.1/wavs/LJ017-0217.wav|nˌævɪɡˈeɪʃən ænd dˈɪsɪplˌɪŋ kʊd nˌɑːt biː ˈiːzi wɪð sˈʌtʃ ɐ nˌɑːndᵻskɹˈɪpt kɹˈuː .|0
+LJSpeech-1.1/wavs/LJ017-0175.wav|ðə sˈɜːkəmstˌænsᵻz wɜː stɹˈeɪndʒ . mˈɪsɪz . wˈɪlsən hæd ɡɔn tə ðə kˈɛmɪsts fɔːɹ mˈɛdəsən ,|0
+LJSpeech-1.1/wavs/LJ036-0045.wav|mˈɪsɪz . blˈɛdsoʊ tˈoʊld hˌɪm , kwˈoʊt , aɪɐm nˌɑːt ɡˌoʊɪŋ tə ɹˈɛnt tə juː ˌɛni mˈoːɹ , ˈɛnd kwˈoʊt ,|0
+LJSpeech-1.1/wavs/LJ002-0284.wav|ðə bˈʌɹoʊ kəmptˈɜː wʌz ɪn ɐ dɪsɡɹˈeɪsfəl stˈeɪt tə ðə lˈæst . ðə mˈɛnz wˈɔːɹd hæd ɐn ˈɜːθ , ɔːɹ ɹˈæðɚɹ ɐ mˈʌd , flˈoːɹ ,|0
+LJSpeech-1.1/wavs/LJ018-0212.wav|ðɪ ˈænəlz ʌv fɹˈɔːdʒuːlənt kɹˈaɪm pɹˈɑːbəbli kəntˈeɪn nˈʌθɪŋ|0
+LJSpeech-1.1/wavs/LJ014-0253.wav|ðɛɹwˌʌz nˈoʊ ˌɪndᵻpˈɛndənt tʃˈɛk əpˌɑːn hˌɪm ɪf hiː tʃˈoʊz tə tˈæmpɚ wɪð ɪt .|0
+LJSpeech-1.1/wavs/LJ017-0222.wav|hˈætʃt ɐmˌʌŋst ðˌɛm ɐ plˈɑːt tə mˈɜːdɚ ðɛɹ ˈɑːfɪsɚz ænd sˈiːz ðə ʃˈɪp .|0
+LJSpeech-1.1/wavs/LJ040-0051.wav|wˌaɪl ðɛɹ ɪz dˈaʊt ɐbˌaʊt hˌaʊ fˈʊli ˈɑːswəld ˌʌndɚstˈʊd ðə dˈɑːktɹɪn wˌɪtʃ hiː sˌoʊ ˈɔfən ɛspˈaʊst , ɪt sˈiːmz klˈɪɹ|0
+LJSpeech-1.1/wavs/LJ036-0008.wav|wˈʌn pˈɑːzᵻtˌɪv aɪdˈɛntɪfɪkˈeɪʃən ʌvðə kˈɪlɚ baɪ tˈuː ˈaɪwɪtnəsᵻz hˌuː sˈɔː ðə ʃˈuːɾɪŋ|0
+LJSpeech-1.1/wavs/LJ008-0166.wav|ðə pˈiːmən stˈuːpt dˌaʊn tə pˈɪk ˌʌp hɪz skˈæɾɚd stˈɑːk , ænd sˌʌm ʌvðə mˈɑːb , nˌɑːt sˈiːɪŋ wʌt hæd hˈæpənd , stˈʌmbəld ˈoʊvɚ hˌɪm .|0
+LJSpeech-1.1/wavs/LJ019-0360.wav|ðɪs hiː mˌaɪt dˈuː ɔnðə ɹˌɛpɹᵻzˈɛntˈeɪʃən ʌvðɪ ɪnspˈɛktɚɹ ʌv pɹˈɪzənz ,|0
+LJSpeech-1.1/wavs/LJ048-0102.wav|ɪn pɚtˈɪkjʊlɚ , ðə kəmˈɪʃən bᵻlˈiːvz ðætðə mˈoʊɾɚkˌeɪd ɹˈaʊt sᵻlˈɛktᵻd baɪ ˈeɪdʒənt lˈɔːsən , əpˌɑːn ðɪ ɐdvˈaɪs ʌv ˈeɪdʒənt ɪn tʃˈɑːɹdʒ sˈɔɹəlz|0
+LJSpeech-1.1/wavs/LJ047-0219.wav|kwˈoʊt , mˈɪstɚ . ʃˈæŋklɪn ɐdvˈaɪzd ˌʌs , ɐmˌʌŋ ˈʌðɚ θˈɪŋz ,|0
+LJSpeech-1.1/wavs/LJ033-0135.wav|loʊkˈeɪʃən ʌv bˈæɡ|0
+LJSpeech-1.1/wavs/LJ006-0262.wav|ˈɔːl ʌv ðˌɛm ˈɪnstɹəmənts kˈælkjʊlˌeɪɾᵻd tə fəsˈɪlᵻtˌeɪt ɐtˈɛmpts æt bɹˈeɪkɪŋ ˌaʊɾəv pɹˈɪzən ,|0
+LJSpeech-1.1/wavs/LJ007-0149.wav|ðə dʒˈeɪl , ænd ðə skˈæfoʊld .|0
+LJSpeech-1.1/wavs/LJ044-0118.wav|hiː æntˈɪsᵻpˌeɪɾᵻd ðætðə fˈʊl dɪsklˈoʊʒɚɹ ʌv hɪz dᵻfˈɛkʃən wʊd hˈɪndɚ hˌɪm ˈɪn , kwˈoʊt , ðə stɹˈʌɡəl fɔːɹ pɹˈɑːɡɹɛs ænd fɹˈiːdəm ɪnðə juːnˈaɪɾᵻd stˈeɪts , ˈɛnd kwˈoʊt .|0
+LJSpeech-1.1/wavs/LJ014-0072.wav|ænd ðæt dˈʊɹɹɪŋ ðə hˈoʊl tˈaɪm hiː wʌz nˈɛvɚɹ ɪn hɪz ɹˈaɪt sˈɛnsᵻz .|0
+LJSpeech-1.1/wavs/LJ036-0073.wav|ɐ bˈʌs mˈuːvɪŋ θɹuː hˈɛvi tɹˈæfɪk ˌɔn ˈɛlm fɹʌm mˈɜːfi tə lɐmˈɑːɹ wʌz tˈaɪmd æt fˈoːɹ mˈɪnɪts .|0
+LJSpeech-1.1/wavs/LJ046-0149.wav|ðɛɹˌɑːɹ mˈɛni ˈækʃənz , sˌɪtʃuːˈeɪʃənz , ænd ˈɪnsɪdənts ðæt mˈeɪ ˈɪndᵻkˌeɪt sˈʌtʃ pətˈɛnʃəl dˈeɪndʒɚ . sˌʌm ɑːɹ spəsˈɪfɪk , sˈʌtʃ ɐz θɹˈɛts ;|0
+LJSpeech-1.1/wavs/LJ011-0061.wav|lˈɛt ðɪs mˈɔnstɚ ɡˈɪv hɪz nˈeɪm ; aɪɐm ɹˈɛdi tə fˈaɪt hˌɪm . aɪɐm stˈɪl dɪtˈɜːmɪnd tə pˌʊt maɪsˈɛlf ɪnðə plˈeɪs ʌv mˈɪstɚ . fˈɔːntəlɹˌɔɪ .|0
+LJSpeech-1.1/wavs/LJ040-0003.wav|ðɪ ˈɛvɪdəns ɹᵻvjˈuːd əbˌʌv aɪdˈɛntᵻfˌaɪz lˈiː hˈɑːɹvi ˈɑːswəld æz ðɪ ɐsˈæsɪn ʌv pɹˈɛzɪdənt kˈɛnədi ænd ˈɪndᵻkˌeɪts ðæt hiː ˈæktᵻd ɐlˈoʊn ɪn ðæt ᵻvˈɛnt .|0
+LJSpeech-1.1/wavs/LJ047-0063.wav|ˈeɪdʒənt hˈɑːsti wʌz tˈoʊld baɪ mˈɪsɪz . ˈɛm . ˈɛf . təbˈaɪəs , ɐ fˈɔːɹmɚ lˈændleɪdi ʌvðɪ ˈɑːswəldz æt sˈɪks ˈoʊ tˈuː ˈɛlsbəθ stɹˈiːt ɪn dˈæləs ,|0
+LJSpeech-1.1/wavs/LJ015-0268.wav|ɪnstˈɛd ʌv fˈɑːloʊɪŋ ɐn ˈɑːnɚɹəbəl pɹəfˈɛʃən , hiː pɹɪfˈɜːd tə tˈɜːn hɪz ɡɹˈeɪt nˈætʃɚɹəl tˈælənts ænd ɹˈɛdi wˈɪts tə ðə mˈoʊst nəfˈɛɹiəs pɹˈæktɪsᵻz .|0
+LJSpeech-1.1/wavs/LJ039-0016.wav|hiː fˈɪnɪʃt ɹˈiːdɪŋ ɐ mˈɔːɹnɪŋ nˈuːzpeɪpɚ , kwˈoʊt , ænd pˌʊt ˌɔn ɐ ɡˈʊd sˈuːt . aɪ sˈɔː ðæt hiː tˈʊk ɐ pˈɪstəl .|0
+LJSpeech-1.1/wavs/LJ037-0195.wav|ðɪ ˈɔːɹdɚ wʌz sˈaɪnd ɪn ˈɪŋk bˈaɪ , kwˈoʊt ,|0
+LJSpeech-1.1/wavs/LJ018-0338.wav|ɡɹˈiːd ɪn ɐnˈʌðɚ fˈɔːɹm lˈɛd ðə stˈɔːntənz tə mˌeɪk ɐwˈeɪ wɪð mˈɪsɪz . pˈætɹɪk stˈɔːntən , mˈɜːdɚɹɪŋ hɜː wɪð dˈɛvɪlɪʃ kɹˈuːəlti baɪ slˈoʊ dᵻɡɹˈiːz .|0
+LJSpeech-1.1/wavs/LJ015-0184.wav|ænd hiː lˈʊkt ɐbˌaʊt hˌɪm wɪð wˈeɪwɚd , fˈɜːɾɪv ɡlˈænsᵻz .|0
+LJSpeech-1.1/wavs/LJ040-0132.wav|wɪð pwˈɛɹɾoʊ ɹˈɪkənz ænd nˈiːɡɹoʊz ænd ˈɛvɹɪθˌɪŋ , ˈɛnd kwˈoʊt .|0
+LJSpeech-1.1/wavs/LJ002-0242.wav|təbi hˈɛld bᵻfˌoːɹ ðə stˈuːɚd ʌvðə ɹˈɔɪəl hˈaʊshoʊld , ðə nˈaɪt mˈɑːɹʃəl , ænd ðə stˈuːɚd ʌvðə kˈoːɹt ,|0
+LJSpeech-1.1/wavs/LJ042-0150.wav|mɚɹˈiːnə ˈɑːswəldz dʒˈʌdʒmənt ʌv hɜː hˈʌsbəndz stˈeɪt ʌv mˈaɪnd mˈeɪ biː səbstˈænʃɪˌeɪɾᵻd baɪ kəmpˈɛɹɪŋ mətˈɪɹiəl wˌɪtʃ hiː ɹˈoʊt ɪnðə sˈoʊviət jˈuːniən|0
+LJSpeech-1.1/wavs/LJ044-0056.wav|wʌz stˈæmpt ˌɔn sˌʌm lˈɪɾɚɹᵻtʃɚ ðæt ˈɑːswəld hæd ɪn hɪz pəzˈɛʃən æt ðə tˈaɪm ʌv hɪz ɚɹˈɛst ɪn nˈuː ˈɔːɹliənz ,|0
+LJSpeech-1.1/wavs/LJ019-0014.wav|hæd ɛmbˈɑːɹkt ˌɔn ɐ kənsˈɪdɚɹəbəl ɛkspˈɛndɪtʃɚɹ ɪn ˈɔːɹdɚ tə pɹəvˈaɪd ɐ mˈɑːdəl pɹˈɪzən fɔːɹ dʒˈɛnɚɹəl ˌɪmɪtˈeɪʃən .|0
+LJSpeech-1.1/wavs/LJ018-0059.wav|hiː sˈɔː mˈɪstɚ . bɹˈɪɡz wˈɑːtʃ tʃˈeɪn , ænd fˈɑːloʊd hˌɪm ˈɪnstəntli ˌɪntʊ ðə kˈæɹɪdʒ , dɪtˈɜːmɪnd tə hæv ɪɾ æɾ ˈɔːl kˈɔsts .|0
+LJSpeech-1.1/wavs/LJ036-0200.wav|ðə ɹˈeɪdɪˌoʊ dɪspˈætʃɚɹ ˌɔn tʃˈænəl wˈʌn ˈɔːɹdɚd ˈɔːl dˈaʊntaʊn pɐtɹˈoʊl skwˈɑːdz tə ɹᵻpˈoːɹt tʊ ˈɛlm ænd hjˈuːstən , kˈoʊd θɹˈiː ɪmˈɜːdʒənsi .|0
+LJSpeech-1.1/wavs/LJ007-0027.wav|bˈæd æz wɜː ðə vˈɛɹiəs pˈɑːɹts ʌvðə dʒˈeɪl ɔːlɹˌɛdi dˈɛlt wɪð ,|0
+LJSpeech-1.1/wavs/LJ003-0030.wav|ðiːz sʌbˈoːɹdᵻnət tʃˈiːfs wɜːɹ ˈɔːlsoʊ ɹᵻwˈɔːɹdᵻd ˌaʊɾəv ðə skˈænti pɹˈɪzən ɹˈæʃənz .|0
+LJSpeech-1.1/wavs/LJ014-0268.wav|wˈɪðɚ hiː wʌz tˈeɪkən ˈɛvɹi mˈɔːɹnɪŋ ɪn ɐ smˈɑːɹt bɹˈʌfæm , ðeɪ wʊdhɐv sˈiːn hˌɪm ɐlˈaɪt fɹʌm ɪɾ ɪŋ kˈɔːɹnhɪl ,|0
+LJSpeech-1.1/wavs/LJ006-0119.wav|wˌɛn ðə wˈɔːɹdzmən wʌzɐ mˈæn ʌv sˌʌm ˌɛdʒuːkˈeɪʃən , wɪð sˌʌm nˈɑːlɪdʒ ʌv lˈiːɡəl ʃᵻkˈeɪnˌɛɹi ɡˈeɪnd baɪ pˈɜːsənəl ɛkspˈiəɹɪəns , hiː mˌaɪt ˈæd kənsˈɪdɚɹəbli tə hɪz ɪmˈɑːljuːmənts|0
+LJSpeech-1.1/wavs/LJ022-0075.wav|wiː ɑːɹ lˈuːzɪŋ nˈoʊ tˈaɪm ɡˌɛɾɪŋ ðə ɡˈʌvɚnmənts vˈæst wˈɜːk ɹᵻlˈiːf pɹˈoʊɡɹæm ˌʌndɚwˈeɪ ,|0
+LJSpeech-1.1/wavs/LJ025-0066.wav|ænd hɪz skˈɛptɪsˌɪzəm wʌzðə mˈoːɹ dʒˈʌstᵻfˌaɪd sˈɪns ˈeɪɹənbˌɜːɡ ɪn hɪz ᵻlˈæbɚɹət ænd kˌɑːmpɹihˈɛnsɪv wˈɜːk ɔnðɪ ɪnfjuːsˈoːɹiə ,|0
+LJSpeech-1.1/wavs/LJ004-0137.wav|ænd ðˌɐɾɪt wʌz ɐkˈɑːmplɪʃt baɪ dˈɑːlɚ slˈiːpɪŋ ˈɛdʒwaɪz.dˈɑːlɚ|0
+LJSpeech-1.1/wavs/LJ023-0079.wav|bˌʌt sˈɪns ðə ɹˈaɪz ʌvðə mˈɑːdɚn mˈuːvmənt fɔːɹ sˈoʊʃəl ænd ˌiːkənˈɑːmɪk pɹˈɑːɡɹɛs θɹuː lˌɛdʒɪslˈeɪʃən ,|0
+LJSpeech-1.1/wavs/LJ007-0100.wav|ðiːz wɜː ðə dʒˈɛntəlməŋ kənsˈɜːnd ɪnðə bɹˈaɪbɚɹi kˈeɪs æɾ ˈɪpswɪtʃ ɪn ˈeɪtiːn θˈɜːɾi fˈaɪv ,|0
+LJSpeech-1.1/wavs/LJ048-0032.wav|sˈoʊ fˌɑːɹ æz ðɪ ˌɛfbˌiːˈaɪ nˈuː hiː hæd nˌɑːt ʃˈoʊn ˌɛni pətˈɛnʃəl fɔːɹ vˈaɪələns .|0
+LJSpeech-1.1/wavs/LJ045-0049.wav|lˈiː wʊd sˈeɪ ðˌɐɾɪt wʊd biː bˈɛɾɚ fɔːɹ mˌiː ɪf aɪ wɛnt tə ɹˈʌʃə . aɪ dɪdnˌɑːt nˈoʊ wˈaɪ . aɪ dɪdnˌɑːt nˈoʊ wʌt hiː hæd ɪn mˈaɪnd .|0
+LJSpeech-1.1/wavs/LJ035-0018.wav|ˈɛnd kwˈoʊt , ˈæftɚ ðə θˈɜːd ʃˈɑːt , hiː , kwˈoʊt , ɹˈɛvd ðæt mˈoʊɾɚsˌaɪkəl ˈʌp , ˈɛnd kwˈoʊt ,|0
+LJSpeech-1.1/wavs/LJ041-0174.wav|ænd hæd nˌɑːt ɪntˈɛndᵻd ˌɛni kɹˈɪɾɪsˌɪzəm ʌv ˈɑːswəldz pəlˈɪɾɪkəl vjˈuːz wˌɪtʃ ɪz ðə wˈeɪ ɪnwˌɪtʃ , θˈoːɹnli θˈɔːt , ˈɑːswəld tˈʊk hɪz ɹᵻmˈɑːɹks .|0
+LJSpeech-1.1/wavs/LJ016-0087.wav|ɐmˌʌŋ ðɪ ɛskˈeɪps stˈɪl ɹᵻmˈɛmbɚd wʌz wˈʌn ɪn ˈeɪtiːn fˈɔːɹɾi nˈaɪn , ɐkˈɑːmplɪʃt baɪ ɐ mˈæn hˌuː hɐdbɪn ɛmplˈɔɪd|0
+LJSpeech-1.1/wavs/LJ018-0322.wav|nˈɔːɹ wɜː ðiːz tˈuː ɐbˈɔːɹɾɪv ˈɛfɚts ˈɔːl ðæt wɜː plˈænd .|0
+LJSpeech-1.1/wavs/LJ012-0186.wav|ðə kɹˈaɪm wʌz bɹˈɔːt hˈoʊm tə θˈɜːɾɛl baɪ ðə kənfˈɛʃən ʌv hˈʌnt ,|0
+LJSpeech-1.1/wavs/LJ004-0162.wav|ɪt wʌz dˈɑːlɚɹ ɐ sˈiːn ʌv ɪnfˈɜːnəl pˈæʃənz ænd dɪstɹˈɛsᵻz , dˈɑːlɚ sˈɛz bˈʌkstən , dˈɑːlɚ wˌɪtʃ fjˈuː hæv ɪmˌædʒᵻnˈeɪʃən səfˈɪʃənt tə pˈɪktʃɚ ,|0
+LJSpeech-1.1/wavs/LJ036-0016.wav|lˈiː hˈɑːɹvi ˈɑːswəld lˈɛft ðə bˈɪldɪŋ ɐpɹˈɑːksɪmətli θɹˈiː mˈɪnɪts ˈæftɚ ðɪ ɐsˌæsᵻnˈeɪʃən .|0
+LJSpeech-1.1/wavs/LJ038-0227.wav|fɹʌm nˈiːli stɹˈiːt ðɪ ˈɑːswəldz wʊdhɐv tɹˈævəld dˈaʊntaʊn ɔnðə bˈɛkli bˈʌs , əkɹˌɑːs ðə kˈɑːmɜːs stɹˈiːt vˈaɪədˌʌkt|0
+LJSpeech-1.1/wavs/LJ006-0263.wav|ænd kˈeɪpəbəl ʌv bᵻkˈʌmɪŋ mˈoʊst dˈeɪndʒɚɹəs wˈɛpənz ɪnðə hˈændz ʌv dˈɛspɚɹət ænd dɪtˈɜːmɪnd mˈɛn .|0
+LJSpeech-1.1/wavs/LJ030-0054.wav|bɪkˈʌz ðə skˈaɪz hæd klˈɪɹd ɪn dˈæləs , lˈɔːsən dᵻɹˈɛktᵻd ðætðə tˈɑːp nˌɑːt biː jˈuːzd fɚðə dˈeɪz æktˈɪvɪɾiz .|0
+LJSpeech-1.1/wavs/LJ018-0074.wav|sˈætlɚ pɹˈɑːbəbli mɪsˌʌndɚstˈʊd , ænd hiː dᵻklˈɛɹd ðætðə pəlˈiːs ˈɑːfɪsɚ hæd bɹˈoʊkən fˈeɪθ wɪð hˌɪm , hˈævɪŋ , moːɹˈoʊvɚ , stˈeɪɾᵻd ðˈæt|0
+LJSpeech-1.1/wavs/LJ048-0221.wav|ɪnðɪ ˈɜːli mˈɔːɹnɪŋ ˈaʊɚz ˌɔn noʊvˈɛmbɚ twˈɛnti tˈuː , nˈaɪntiːn sˈɪksti θɹˈiː ,|0
+LJSpeech-1.1/wavs/LJ011-0211.wav|wˌɛn ɪndˈaɪtmənts wɜː pɹɪfˈɜːd ɐɡˈɛnst bˈoʊθ bɹˈʌðɚz dˈɑːlɚ fɔːɹ hˌævɪŋ kˈæɹid ɐwˈeɪ ˈɛlən tˈɜːnɚ , spˈɪnstɚ ,|0
+LJSpeech-1.1/wavs/LJ044-0153.wav|wˌaɪl ðæt fˈɜːst ɹᵻkwˈɛst , mˌeɪd ɐkˈoːɹdɪŋ tə mɚɹˈiːnə ˈɑːswəld æt hɜː hˈʌsbəndz ɪnsˈɪstəns , spəsˈɪfɪkli stˈeɪɾᵻd ðæt ˈɑːswəld wʌz tə ɹᵻmˈeɪn ɪnðə juːnˈaɪɾᵻd stˈeɪts ,|0
+LJSpeech-1.1/wavs/LJ030-0015.wav|lˈeɪt ɪnðɪ ˈiːvnɪŋ , ðə pɹˌɛzɪdˈɛnʃəl pˈɑːɹɾi flˈuː tə fˈɔːɹt wˈɜːθ wˌɛɹ ðeɪ spˈɛnt ðə nˈaɪt æt ðə tˈɛksəs hoʊtˈɛl .|0
+LJSpeech-1.1/wavs/LJ007-0165.wav|ˌɛni ɐwˈeɪkənɪŋ tɹˈuːθ , sˈæluːtˌɛɹi ɛɡzɔːɹtˈeɪʃən , ɔːɹ ɪmpˈɜːfɛkt ɹˌɛzəlˈuːʃənz ʌv ɐmˈɛndmənt kæn tˈeɪk ɹˈuːt ɔːɹ ɡɹˈoʊ .|0
+LJSpeech-1.1/wavs/LJ043-0184.wav|tə kˈæɹi ˈaʊt ɐ kˈɛɹfəli plˈænd kˈɪlɪŋ ʌv ɐnˈʌðɚ hjˈuːmən bˌiːɪŋ ænd wʌz wˈɪlɪŋ tə kˈɑːnsəmˌeɪt sˈʌtʃ ɐ pˈɜːpəs ɪf hiː θˈɔːt ðɛɹwˌʌz səfˈɪʃənt ɹˈiːzən tə dˈuː soʊ .|0
+LJSpeech-1.1/wavs/LJ035-0159.wav|mˈɪsɪz . ɹˈiːd bᵻlˈiːvz ðæt ʃiː ɹᵻtˈɜːnd tə hɜː dˈɛsk fɹʌmðə stɹˈiːt ɐbˌaʊt tˈuː mˈɪnɪts ˈæftɚ ðə ʃˈuːɾɪŋ .|0
+LJSpeech-1.1/wavs/LJ014-0215.wav|θɹˈuː ðə kˈɑːnstəbəl ˌɔn hɪz bˈæk , ænd vˈaɪələntli ɐsˈɔltᵻd hˌɪm baɪ dʒˈʌmpɪŋ ˌɔn hɪz tʃˈɛst ænd stˈʌmək ,|0
+LJSpeech-1.1/wavs/LJ018-0220.wav|ðɪ ˈoʊld dʒˈɛntəlmənz sˈɪɡnɪtʃɚ tə ðɪs dˈiːd ʌv ɡˈɪft wʌzɐ fˈɔːɹdʒɚɹi ,|0
+LJSpeech-1.1/wavs/LJ017-0054.wav|hɪz fˈiːtʃɚz wɜː nˌɑːt kˈɛɹwoːɹn , bˌʌt ɹˈæðɚ sˈɛt , ænd hiː lˈʊkt ˈoʊldɚ ðɐn hɪz ˈeɪdʒ .|0
+LJSpeech-1.1/wavs/LJ012-0030.wav|ðˈʌs , ɐ wˈɑːtʃ wʌz pˈeɪd fɔːɹ æz ɐ wˈɑːtʃ , wˈɛðɚɹ ɪt wʌz ʌv ɡˈoʊld ɔːɹ sˈɪlvɚ ; ɐ pˈiːs ʌv lˈɪnɪn æz sˈʌtʃ , wˈɛðɚ ðə stˈʌf wʌz kˈoːɹs ɔːɹ fˈaɪn .|0
+LJSpeech-1.1/wavs/LJ010-0286.wav|nˈaɪn ʃˈɪlɪŋz , ˈɔːl ɪn ʃˈɪlɪŋz , ænd nˈoʊ ˈʌðɚ kˈɔɪn .|0
+LJSpeech-1.1/wavs/LJ022-0137.wav|aɪ nˈaʊ kˈʌm , maɪ fɹˈɛndz , tʊ ɐ pˈɑːɹt ʌvðə ɹᵻmˈeɪnɪŋ bˈɪznəs bᵻfˌoːɹ ðə kˈɑːŋɡɹəs .|0
+LJSpeech-1.1/wavs/LJ007-0009.wav|ðeɪ hæd tɹˈaɪd , moːɹˈoʊvɚ ,|0
+LJSpeech-1.1/wavs/LJ014-0197.wav|ðə pəlˈiːs mˈædʒɪstɹˌeɪt , ðæt mˈɑːɹli wʌzðə mˈæn hˌuː hæd bˈiːʔn̩ hˌɪm tə dˈɛθ .|0
+LJSpeech-1.1/wavs/LJ039-0113.wav|æz ˈeɪ , kwˈoʊt , ɹˈæðɚ pˈʊɹ ʃˈɑːt , ˈɛnd kwˈoʊt .|0
+LJSpeech-1.1/wavs/LJ003-0082.wav|ðə mˈɪdəl jˈɑːɹd , æz fˈɑːɹ æz ɪts lˈɪmɪts wʊd pɚmˈɪt , wʌz ɐpɹˈoʊpɹɪˌeɪɾᵻd tə fˈɛlənz ænd tɹˈænspoːɹts . ðə wˈɔːɹdz hˈɪɹ wɜː dʒˈɛnɚɹəli vˈɛɹi kɹˈaʊdᵻd .|0
+LJSpeech-1.1/wavs/LJ011-0038.wav|fˈɔːntəlɹˌɔɪ mˈiːnwaɪl lˈeɪ ɪn nˈuːɡeɪt , nˌɑːt hˈɜːdᵻd wɪð ˈʌðɚ kəndˈɛmd pɹˈɪzənɚz , æz ðə kˈʌstəm wʌz ,|0
+LJSpeech-1.1/wavs/LJ002-0258.wav|bˈæd lˈæŋɡwɪdʒ , kwˈɔːɹəlɪŋ , θɹˈoʊɪŋ wˈɔːɾɚɹ ˌoʊvɚ wˈʌn ɐnˈʌðɚ wʌz fɚbˈɪdən ˌɔn pˈeɪn ʌv fˈaɪn ænd bˌiːɪŋ sˈɛnt tə kˈɑːvɛntɹi ;|0
+LJSpeech-1.1/wavs/LJ036-0033.wav|ˈæskt fɚɹə tɹˈænsfɜː ænd ɡɑːt ˈɔf æt ðə sˈeɪm plˈeɪs ɪnðə mˈɪdəl ʌvðə blˈɑːk wˌɛɹ ðə lˈeɪdi dˈɪd .|0
+LJSpeech-1.1/wavs/LJ011-0116.wav|ɐ səsˈaɪəɾi wˌɪtʃ hæd ɔːlɹˌɛdi bˌɪn stˈɑːɹɾᵻd ɐɡˈɛnst kˈæpɪɾəl pˈʌnɪʃmənt|0
+LJSpeech-1.1/wavs/LJ044-0087.wav|ˈɑːswəld wʌz kənfɹˈʌntᵻd wɪð ðoʊz fˈækts æt ðə bɪɡˈɪnɪŋ ʌvðə dᵻbˈeɪt ænd wʌz sˌoʊ θɹˈoʊn ɔnðə dᵻfˈɛnsɪv baɪ ðɪs ðæt hiː wʌz fˈoːɹst tə stˈeɪt ðˈæt|0
+LJSpeech-1.1/wavs/LJ009-0246.wav|ɡˈʊd pˈiːpəl , duːnˌɑːt biː hˈɜːɹid ; aɪɐm nˈɑːt , aɪ kæn wˈeɪt .|0
+LJSpeech-1.1/wavs/LJ021-0099.wav|ɪn ˈɔːɹdɚ ðætðə fˈʌŋkʃənz ʌv ˈɛn.ˈɑːɹ.ˈeɪ . wˌɪtʃ hæv pɹˈuːvd ðɛɹ wˈɜːθ mˈeɪ biː mˌeɪd ɐ pˈɑːɹt ʌvðə pˈɜːmənənt məʃˈiːnɚɹi ʌv ɡˈʌvɚnmənt .|0
+LJSpeech-1.1/wavs/LJ035-0114.wav|nˈiːðɚɹ ˈɛlɪvˌeɪɾɚ kˌʊdɐv bˌɪn jˈuːzd baɪ ˈɑːswəld æz ɐ mˈiːnz ʌv dᵻsˈɛnt .|0
+LJSpeech-1.1/wavs/LJ030-0246.wav|ˈɔːlmoʊst ɪnðə sˈeɪm mˈoʊmənt ɪnwˌɪtʃ hiː hˈɪt ɔːɹ pˈʊʃt mˌiː , hiː vˈɔltᵻd ˌoʊvɚ ðə bˈæk sˈiːt ænd sˈæt ˈɔn mˌiː .|0
+LJSpeech-1.1/wavs/LJ046-0173.wav|tʊ ɐdvˈaɪz ðə fˈiːld ˈɑːfɪs ɪf ðə sˈʌbdʒɛkt dɪsplˈeɪz sˈaɪnz ʌv ɪŋkɹˈiːst dˈeɪndʒɚ ɔːɹ plˈænz tə lˈiːv hɪz hˈoʊm ˈɛɹiə .|0
+LJSpeech-1.1/wavs/LJ022-0154.wav|aɪ kənsˈɪdɚ ðɪs lˌɛdʒɪslˈeɪʃən ɐ pˈɑːzᵻtˌɪv ɹᵻkˈʌvɚɹi mˈɛʒɚ .|0
+LJSpeech-1.1/wavs/LJ045-0053.wav|mˈɛni tˈaɪmz ˈɑːswəld hɐz ɹᵻkˈɔːld ðɪs mˈæɾɚ tə mˌiː ænd sˈɛd ðæt aɪɐm dʒˈʌst wˈeɪɾɪŋ fɚɹən ɑːpɚtˈuːnɪɾi tə hˈɜːt hˌɪm .|0
+LJSpeech-1.1/wavs/LJ022-0082.wav|ɪn ˈɔːl kˈeɪsᵻz pɹˈɑːdʒɛkts mˈʌst biː əvə kˈæɹɪktɚ tə ɡˈɪv ɛmplˈɔɪmənt tə ðoʊz ɔnðə ɹᵻlˈiːf ɹˈoʊlz .|0
+LJSpeech-1.1/wavs/LJ028-0099.wav|ðə fˈɜːst bˈɔːɹn sˈʌn ʌv nˈæbəpˌɑːlɐsˌɑːɹ , kˈɪŋ ʌv bˈæbɪlən , æm ˈaɪ .|0
+LJSpeech-1.1/wavs/LJ045-0116.wav|wˌaɪl ðə fˈækts ʌv hɪz dᵻfˈɛkʃən hæd bɪkˌʌm nˈoʊn ɪn nˈuː ˈɔːɹliənz æz ɐ ɹɪzˈʌlt ʌv hɪz ɹˈeɪdɪˌoʊ dᵻbˈeɪt wɪð bɹˈɪŋɡaɪɚ ,|0
+LJSpeech-1.1/wavs/LJ048-0071.wav|mˈoʊst ɪmpˈoːɹtənt , nˌɑːtwɪðstˈændɪŋ ðæt bˈoʊθ ˈeɪdʒənsiz hæv pɹəfˈɛst tə ðə kəmˈɪʃən ðætðə liːˈeɪzɑːn bᵻtwˌiːn ðˌɛm wʌz klˈoʊs ænd fˈʊli səfˈɪʃənt ,|0
+LJSpeech-1.1/wavs/LJ028-0033.wav|ðɛɹ ɪz ɐ hˈiːbɹuː tɹɐdˈɪʃən ðˌɐɾɪt wʌzðɪ ˈoʊldɪst ʌv ˈɔːl sˈɪɾiz , bˌʌt nˈaʊ wiː nˈoʊ ðæt ɡɹˈeɪt ˈɛmpaɪɚz flˈɜːɹɪʃt ænd pˈæst ɐwˈeɪ bᵻfˌoːɹ bˈæbɪlən wʌz bˈɪlt .|0
+LJSpeech-1.1/wavs/LJ025-0016.wav|ænd dʒˈʌstᵻfˌaɪ baɪˈɑːlədʒˌɪsts ɪn ɹᵻɡˈɑːɹdɪŋ ðˌɛm æz ɹˌɛpɹᵻzˈɛntətˌɪv ɛkspɹˈɛʃənz ʌvðə mˈoʊst ɛkstˈɛnsɪv , ɪf nˌɑːt ðə pɹəfˈaʊndɪst , nˈɑːlɪdʒ ʌv hɪz tˈaɪm .|0
+LJSpeech-1.1/wavs/LJ011-0123.wav|hiː fˈɔːɹdʒd ðə nˈeɪmz ʌv pˈiːpəl hˌuː hˈɛld stˈɑːk ɔnðə bˈæŋk bˈʊks , ænd ɡɑːt ðə vˈæljuː ʌvðə stˈɑːk ;|0
+LJSpeech-1.1/wavs/LJ019-0255.wav|ɡɹˈeɪt nˈʌmbɚz wɜː nˌɑːt lˈaɪɾᵻd æt nˈaɪt , ænd wɜː wɪðˌaʊt mˈiːnz baɪ wˌɪtʃ ðɛɹ ˈɪnmeɪts kʊd kəmjˈuːnᵻkˌeɪt , ɪŋ kˈeɪs ʌv ˈɜːdʒənt nəsˈɛsɪɾi , wɪð ðɛɹ kˈiːpɚz .|0
+LJSpeech-1.1/wavs/LJ042-0241.wav|sˈuːn ˈæftɚ hɪz ɚɹˈaɪvəl hiː ɹˈoʊt tə ðə sˈoʊviət ˈɛmbəsi ɪn wˈɑːʃɪŋtən|0
+LJSpeech-1.1/wavs/LJ041-0013.wav|ɐnˈʌðɚ tˈaɪm , hiː fˈɔːt wɪð tˈuː bɹˈʌðɚz hˌuː klˈeɪmd ðæt hiː hæd pˈɪkt ɔnðə jˈʌŋɡɚɹ ʌv ðˌɛm , θɹˈiː jˈɪɹz ˈɑːswəldz dʒˈuːnjɚ .|0
+LJSpeech-1.1/wavs/LJ040-0169.wav|ʃiː əbzˈɜːvd ðæt sˈɪns lˈiːz mˈʌðɚ wˈɜːkt ˈɔːl dˈeɪ , hiː mˌeɪd hɪz ˈoʊn mˈiːlz ænd spˈɛnt ˈɔːl hɪz tˈaɪm ɐlˈoʊn|0
+LJSpeech-1.1/wavs/LJ047-0007.wav|ɪt hæd ˈɪntɚvjˌuːd hˌɪm twˈaɪs ʃˈɔːɹtli ˈæftɚ hɪz ɹᵻtˈɜːn tə ðə juːnˈaɪɾᵻd stˈeɪts , ɐɡˈɛn ɐ jˈɪɹ lˈeɪɾɚɹ æt hɪz ɹᵻkwˈɛst|0
+LJSpeech-1.1/wavs/LJ003-0059.wav|ðə slˈiːpɪŋ ɐkˌɑːmədˈeɪʃən ɪnðə tʃˈæpəl jˈɑːɹd wˈɔːɹdz , ænd ˌɪndˈiːd θɹuːˈaʊt ðə pɹˈɪzən , kənsˈɪstᵻd əvə bˈɛɹək bˈɛd ,|0
+LJSpeech-1.1/wavs/LJ017-0167.wav|smˈɛθɜːst wʌz fˈaʊnd ɡˈɪlti baɪ ðə dʒˈʊɹɹi , ænd sˈɛntənst tə dˈɛθ .|0
+LJSpeech-1.1/wavs/LJ040-0211.wav|ðɪs wʊd mˌeɪk hˌɪm ɐpɹˈɑːksɪmətli tˈɛn , wˈɛl , ˈɔːlmoʊst ᵻlˈɛvən jˈɪɹz ˈoʊld . ˈɛnd kwˈoʊt .|0
+LJSpeech-1.1/wavs/LJ011-0009.wav|nˈʌθɪŋ mˈoːɹ wʌz hˈɜːd ʌvðɪ ɐfˈɛɹ , ɔːlðˈoʊ ðə lˈeɪdi dᵻklˈɛɹd ðæt ʃiː hæd nˈɛvɚɹ ɪnstɹˈʌktᵻd fˈɔːntəlɹˌɔɪ tə sˈɛl .|0
+LJSpeech-1.1/wavs/LJ006-0064.wav|ɪnðə mˈæstɚz sˈaɪd jˈɑːɹd , wˌɪtʃ hæd ˈoʊnli wˈʌn wˈɑːʃɪŋ plˈeɪs , æz mˈɛni æz sˈɛvənti ˈeɪt pɹˈɪzənɚz , fɹˈiːkwəntli mˈoːɹ ,|0
+LJSpeech-1.1/wavs/LJ030-0142.wav|ɡˈʌvɚnɚ kˈɑːnæli səstˈeɪnd bˈʊlɪt wˈuːndz ɪn hɪz bˈæk , ðə ɹˈaɪt sˈaɪd ʌv hɪz tʃˈɛst , ɹˈaɪt ɹˈɪst , ænd lˈɛft θˈaɪ .|0
+LJSpeech-1.1/wavs/LJ049-0102.wav|ðə pɹˈɛzɪdənt , vˈaɪs pɹˈɛzɪdənt , ɔːɹ ˈʌðɚɹ ˈɑːfɪsɚ nˈɛkst ɪnðɪ ˈɔːɹdɚɹ ʌv səksˈɛʃən tə ðɪ ˈɑːfɪs ʌv pɹˈɛzɪdənt , ðə pɹˈɛzɪdənt ᵻlˈɛkt ænd ðə vˈaɪs pɹˈɛzɪdənt ᵻlˈɛkt ,|0
+LJSpeech-1.1/wavs/LJ028-0224.wav|aɪ kwˈaɪəɾᵻd ðɛɹ sˈaɪɪŋz ænd sˈuːðd ðɛɹ sˈɑːɹoʊz .|0
+LJSpeech-1.1/wavs/LJ005-0088.wav|ˈɛvɹi pɹˈɪzəŋ kəntˈeɪnɪŋ fˈiːmeɪl pɹˈɪzənɚz wʌz tə hæv ɐ mˈeɪtɹən hˌuː wʌz tə ɹᵻsˈaɪd kˈɑːnstəntli ɪnðə pɹˈɪzən .|0
+LJSpeech-1.1/wavs/LJ048-0002.wav|tʃˈæptɚɹ ˈeɪt . ðə pɹətˈɛkʃən ʌvðə pɹˈɛzɪdənt . pˈɑːɹt θɹˈiː .|0
+LJSpeech-1.1/wavs/LJ036-0130.wav|wˈeɪli dᵻskɹˈaɪbd ðɪ ɛnsˈuːɪŋ ᵻvˈɛnts æz fˈɑːloʊz , kwˈoʊt ,|0
+LJSpeech-1.1/wavs/LJ036-0038.wav|ænd hˈuː , dˈʊɹɹɪŋ ðə ɹˈaɪd sˈaʊθ ˌɔn mɑːɹsˈɑːliz , hæd ɐn ˈɑːɹɡjuːmənt wɪð ɐ wˈʊmən pˈæsɪndʒɚ .|0
+LJSpeech-1.1/wavs/LJ012-0034.wav|dˈaɪəməndz ɹᵻfˈeɪst ; ˈɔːl mˈɑːɹks baɪ wˌɪtʃ ˈʌðɚɹ ˈɑːɹɾɪkəlz mˌaɪt biː aɪdˈɛntᵻfˌaɪd , ðə sˈɛlvɪdʒᵻz ʌv lˈɪnɪn , ðə stˈæmps ˌɔn ʃˈuːz ,|0
+LJSpeech-1.1/wavs/LJ004-0158.wav|ˈɔːl wɜːɹ ɪn ˈɪl hˈɛlθ ; ˈɔːlmoʊst ˈɔːl wɜːɹ ɪn ɹˈæɡz ; ˈɔːlmoʊst ˈɔːl wɜː fˈɪlθi ɪnðɪ ɛkstɹˈiːm .|0
+LJSpeech-1.1/wavs/LJ017-0194.wav|ðæt ɪmˈiːdɪətli ˈæftɚwɚdz mˈɪsɪz . sˈoʊmz wʌz tˈeɪkən ˈɪl wɪð vˈɑːmɪɾɪŋ ænd pˈɜːdʒɪŋ ,|0
+LJSpeech-1.1/wavs/LJ018-0302.wav|fɔːɹ ðiːz kˈæʃ wʌz əbtˈeɪnd ɪn nˈoʊts ; ðə nˈoʊts wɜːɹ ɛkstʃˈeɪndʒd baɪ wˈʌn ʌvðə kənspˈɪɹəɾɚz fɔːɹ ɡˈoʊld æt ðə bˈæŋk ʌv ˈɪŋɡlənd , ænd ɐɡˈɛn ðə sˈeɪm dˈeɪ|0
+LJSpeech-1.1/wavs/LJ042-0201.wav|hiː ɹˈoʊt , kwˈoʊt , ðə kˈɑːmjuːnˌɪst pˈɑːɹɾi ʌvðə juːnˈaɪɾᵻd stˈeɪts hɐz bᵻtɹˈeɪd ɪtsˈɛlf !|0
+LJSpeech-1.1/wavs/LJ003-0089.wav|əkˈeɪʒənəli ðə tɹˈænspoːɹts mˌeɪd ðɛmsˈɛlvz sˌoʊ jˈuːsfəl ɪnðə dʒˈeɪl ðæt ðeɪ wɜː pˈæst ˈoʊvɚ .|0
+LJSpeech-1.1/wavs/LJ015-0114.wav|ðˈɛns hiː wʌz tɹænsfˈɜːd tə kˌoʊpənhˈeɪɡən ænd sɚɹˈɛndɚd ɪn dˈuː kˈoːɹs tʊ ɐ lˈʌndən pəlˈiːs ˈɑːfɪsɚ .|0
+LJSpeech-1.1/wavs/LJ035-0056.wav|mˈiːnwaɪl , tɹˈuːli hæd ɹˈʌn ˌʌp sˈɛvɹəl stˈɛps təwˈɔːɹd ðə θˈɜːd flˈoːɹ .|0
+LJSpeech-1.1/wavs/LJ026-0076.wav|ðə ɡɹˈiːn plˈænt ˈoʊz ɪts pˈaʊɚɹ ʌv ɐbsˈoːɹbɪŋ ðɪ ˈɛnɚdʒi ʌv sˈʌnlaɪt|0
+LJSpeech-1.1/wavs/LJ037-0241.wav|ðə sˈʌspɛkt lˈæst sˈiːn ɹˈʌnɪŋ wˈɛst ˌɔn dʒˈɛfɚsən fɹʌm fˈoːɹ hˈʌndɹɪd ˈiːst dʒˈɛfɚsən .|0
+LJSpeech-1.1/wavs/LJ002-0241.wav|ðə kˈoːɹt ʌvðə mˈɑːɹʃɐlsˌiː wʌz ˈɪnstɪtˌuːɾᵻd baɪ tʃˈɑːɹlz ðə fˈɜːst ɪnðə sˈɪksθ jˈɪɹ ʌv hɪz ɹˈeɪn ,|0
+LJSpeech-1.1/wavs/LJ021-0076.wav|kʊd nˌɑːt biː bɹˈɔːt ɐbˌaʊt ɪn wˈʌn jˈɪɹ .|0
+LJSpeech-1.1/wavs/LJ014-0281.wav|wˌɪtʃ hiː hæd pˈeɪd ˌɪntʊ hɪz ˈoʊn bˈæŋkɚz , ænd ˌɔn ðɪs hiː wʌz kəmˈɪɾᵻd tə nˈuːɡeɪt fɔːɹ tɹˈaɪəl .|0
+LJSpeech-1.1/wavs/LJ033-0010.wav|ðə pɹˈɛzəns əvə lˈɔŋ hˈændmeɪd bɹˈaʊn pˈeɪpɚ bˈæɡ nˌɪɹ ðə pˈɔɪnt fɹʌm wˈɪtʃ ðə ʃˈɑːts wɜː fˈaɪɚd , ænd fˈaɪv ðə pˈɑːmpɹɪnt ,|0
+LJSpeech-1.1/wavs/LJ050-0208.wav|sˈælɚɹiz ɑːɹ bᵻlˌoʊ ðoʊz ʌvðɪ ˌɛfbˌiːˈaɪ ænd lˈiːdɪŋ mjuːnˈɪsɪpəl pəlˈiːs fˈoːɹsᵻz .|0
+LJSpeech-1.1/wavs/LJ022-0055.wav|ðə sˈɛkənd ɪz tʊ ɪstˈæblɪʃ ðə pɹˈæktɪkəl mˈiːnz tə hˈɛlp ðoʊz hˌuː ɑːɹ ʌnɛmplˈɔɪd ɪn ðɪs pɹˈɛzənt ɪmˈɜːdʒənsi .|0
+LJSpeech-1.1/wavs/LJ004-0047.wav|wˈʌn ʌvðə mˈuːvɪŋ spˈɪɹɪts wʌzðɪ ˈɑːnɚɹəbəl ˈeɪtʃ . dʒˈiː . bˈɛnɪt , ˈɛm.pˈiː. , hˌuːz vˈɪɡɚɹəs pɹˈoʊtɛsts ɐɡˈɛnst ðə lɐmˈɛntəbəl kəndˈɪʃən ʌv nˈuːɡeɪt hæv ɔːlɹˌɛdi bˌɪn ɹᵻkˈoːɹdᵻd .|0
+LJSpeech-1.1/wavs/LJ018-0393.wav|mˈɛsrz . swˈɪndəlhˌɜːst , sˈæfɚɹi , ænd lˈæŋɡli klˈɪɹd ɐ lˈɑːɹdʒ pɹˈɑːfɪt|0
+LJSpeech-1.1/wavs/LJ049-0218.wav|bᵻtwˌiːn ðə sˈiːkɹᵻt sˈɜːvɪs ænd ðə pɹˈɛzɪdənt ænd hɪz fˈæmɪli ɪz kˈɑːntəmplˌeɪɾᵻd .|0
+LJSpeech-1.1/wavs/LJ050-0218.wav|tʃˈiːf ɹˈoʊli ɛksplˈeɪnd ðæt ðɪs wʊd nˌɑːt pɹəvˈaɪd ɪnˈʌf ɐdˈɪʃənəl mˈænpaʊɚ tə tˈeɪk ˈɔːl ðə mˈɛʒɚz wˌɪtʃ hiː kənsˈɪdɚz ɹᵻkwˈaɪɚd .|0
+LJSpeech-1.1/wavs/LJ030-0023.wav|ɚɹˈaɪvəl æt lˈʌv fˈiːld|0
+LJSpeech-1.1/wavs/LJ003-0276.wav|ɔːlðˈoʊ ɐtˈɛmptᵻd pˈɑːɹʃəli æt bɹˈaɪdwɛl , ænd mˈoːɹ sˌɪstəmˈæɾɪkli æt ðə nˈuː mˈɪlbæŋk pˌɛnɪtˈɛnʃjɚɹi ,|0
+LJSpeech-1.1/wavs/LJ007-0039.wav|ænd wɛn ðɪ ɪnspˈɛktɚz vˈɪzɪɾᵻd nˈuːɡeɪt ðeɪ fˈaʊnd ðə θɹˈiː sˈɜːʔn̩ tə dˈaɪ ɪn ɐ dˈeɪ ɹˈuːm baɪ ðɛmsˈɛlvz ;|0
+LJSpeech-1.1/wavs/LJ016-0190.wav|dˈɑːlɚɹ aɪ hæv nˈoʊ aɪdˈiə hˌuː ðə ʃˈɛɹɪfs wɪl ɡɛt tə dˈuː ðə wˈɜːk ˈæftɚ mˌiː , dˈɑːlɚ sˈɛd fˈɑːksən , ˈædɪŋ ðæt hɪz ɐsˈɪstənt , tˈɑːm tʃˈɛʃɚ ,|0
+LJSpeech-1.1/wavs/LJ033-0089.wav|ˈæftɚɹ ˈɛntɚɹɪŋ ðə kˈɑːɹ , fɹˈeɪziɚ ɡlˈænst ˌoʊvɚ hɪz ʃˈoʊldɚ ænd nˈoʊɾɪst ɐ bɹˈaʊn pˈeɪpɚ pˈækɪdʒ ɔnðə bˈæk sˈiːt .|0
+LJSpeech-1.1/wavs/LJ037-0217.wav|pəlˈiːs fˈaʊnd ɐn ˈɛmpti ɹᵻvˈɑːlvɚ hˈoʊlstɚ wɛn ðeɪ sˈɜːtʃt ˈɑːswəldz ɹˈuːm ˌɔn bˈɛkli ˈævənˌuː ˈæftɚ hɪz ɚɹˈɛst .|0
+LJSpeech-1.1/wavs/LJ018-0372.wav|mjˈuːtɪnid , mˈɜːdɚd ðə kˈæptɪn ænd mˈeɪts , spˈɛɹɪŋ ðə stˈuːɚd ˈoʊnli ˌɔŋ kəndˈɪʃən ðæt hiː wʊd nˈævɪɡˌeɪt ðə ʃˈɪp tə ðə mˌɛdɪɾɪɹˈeɪniən .|0
+LJSpeech-1.1/wavs/LJ002-0132.wav|ɐn ᵻlˈæbɚɹət məʃˈiːnɚɹi plˈænd fɚðə pɹətˈɛkʃən ʌvðə tɹˈeɪdɚ , ænd ˌɔːltəɡˈɛðɚɹ ˌɔn hɪz sˈaɪd , hæd lˈɔŋ ɛɡzˈɪstᵻd fɚðə ɹᵻkˈʌvɚɹi ʌv dˈɛts .|0
+LJSpeech-1.1/wavs/LJ033-0050.wav|mɚɹˈiːnə ˈɑːswəld tˈɛstᵻfˌaɪd ðˌɐɾɪt wʌz bᵻtwˌiːn nˈaɪn ænd tˈɛn pˈiː.ˈɛm .|0
+LJSpeech-1.1/wavs/LJ016-0355.wav|mˈækeɪz fˈɔːɹɾɪtˌuːd , wˌɪtʃ hɐdbɪŋ ɡɹˈeɪt ,|0
+LJSpeech-1.1/wavs/LJ007-0022.wav|ˈæftɚ lˈɑːkɪŋ ˌʌp tˈaɪm , wˌɪtʃ vˈɛɹid , æz ɔnðə mˈeɪl sˈaɪd , ɐkˈoːɹdɪŋ tə ðə dˈeɪlaɪt , ðə sˈiːnz wɜːɹ ˈɔfən ɹˈaɪəɾəs ænd dɪsɡɹˈeɪsfəl .|0
+LJSpeech-1.1/wavs/LJ014-0144.wav|ʃiː ˈʌɾɚd lˈaʊd ɪmpɹɪkˈeɪʃənz , kˈɜːsɪŋ dʒˈʌdʒ , dʒˈʊɹɹi , bˈæɹɪstɚz , wˈɪtnəsᵻz , ænd ˈɔːl hˌuː stˈʊd ɚɹˈaʊnd .|0
+LJSpeech-1.1/wavs/LJ044-0039.wav|ðeɪ sˈɛd sˈʌmθɪŋ ɐbˌaʊt ɹᵻmˈɑːdəlɪŋ , ɛtsˈɛtɹə . aɪm ʃˈʊɹ juː ˌʌndɚstˈænd , ˈɛnd kwˈoʊt .|0
+LJSpeech-1.1/wavs/LJ038-0259.wav|ðɪ ˈoːɹəl ɹᵻpˈoːɹt wʌz nˈɛɡətˌɪv bɪkˈʌz ʌvðə bˈæɾɚd kəndˈɪʃən ʌvðə bˈʊlɪt .|0
+LJSpeech-1.1/wavs/LJ032-0202.wav|tˈuː pˈɪktʃɚz wɜː tˈeɪkən . ðə kəmˈɪʃən hɐz kəŋklˈuːdᵻd ðætðə ɹˈaɪfəl ʃˈoʊn ɪn ðiːz pˈɪktʃɚz ɪz ðə sˈeɪm ɹˈaɪfəl wˌɪtʃ wʌz fˈaʊnd ɔnðə sˈɪksθ flˈoːɹ ʌvðə dᵻpˈɑːzɪtˌoːɹi bˈɪldɪŋ|0
+LJSpeech-1.1/wavs/LJ028-0246.wav|bˌʌt , æz ɪt wˈʌz , ðə pˈɜːʒənz kˈeɪm əpˌɑːn ðˌɛm baɪ sɚpɹˈaɪz ænd sˌoʊ tˈʊk ðə sˈɪɾi .|0
+LJSpeech-1.1/wavs/LJ041-0106.wav|æt ðə kˈoːɹt mˈɑːɹʃəl hˈɪɹɪŋ wˌɪtʃ fˈɑːloʊd , ˈɑːswəld ɐdmˈɪɾᵻd ðæt hiː hɐdbɪn ɹˈæðɚ dɹˈʌŋk wɛn ðɪ ˈɪnsɪdənt əkˈɜːd .|0
+LJSpeech-1.1/wavs/LJ044-0008.wav|ænd ˌɪntʊ hɪz pˈɑːsᵻbəl mˌoʊɾɪvˈeɪʃən fɚðɪ ɐsˌæsᵻnˈeɪʃən .|0
+LJSpeech-1.1/wavs/LJ018-0073.wav|ðɪs ɹᵻplˈaɪ ʌv hɪz kəntˈeɪnd nˈoʊ pɹˈɑːmɪs ʌv ɪmˈiːdɪət ɹᵻlˈiːs .|0
+LJSpeech-1.1/wavs/LJ045-0050.wav|hiː sˈɛd hiː lˈʌvd mˌiː bˌʌt ðˌɐɾɪt wʊd biː bˈɛɾɚ fɔːɹ mˌiː ɪf aɪ wɛnt tə ɹˈʌʃə , ænd wʌt hiː hæd ɪn mˈaɪnd aɪ dˈoʊnt nˈoʊ . ˈɛnd kwˈoʊt .|0
+LJSpeech-1.1/wavs/LJ027-0024.wav|ɪz ðə θˈiəɹi ʌv dᵻsˈɛnt ˈaɪ.ˈiː. , ðæt sˌɪmɪlˈæɹɪɾiz ɑːɹ dˈuː tə blˈʌd ɹᵻlˈeɪʃənʃˌɪp ænd ðæt dˈɪfɹənsᵻz kˈʌm fɹʌm ɐdˈæptɪv mˌɑːdɪfɪkˈeɪʃənz .|0
+LJSpeech-1.1/wavs/LJ024-0074.wav|ɪnstˈɛd ʌv lˈiːvɪŋ ðə kˌɑːmpəzˈɪʃən ʌv ˌaʊɚ fˈɛdɚɹəl kˈoːɹts , ɪŋklˈuːdɪŋ ðə hˈaɪɪst ,|0
+LJSpeech-1.1/wavs/LJ018-0125.wav|bˈɜːnɪt hæd ˈoʊnli dʒˈʌst kˈʌm ˌaʊɾəv dʒˈeɪl ˈæftɚ kəmplˈiːɾɪŋ ɐ sˈɛntəns ʌv pˈiːnəl sˈɜːvɪtˌuːd .|0
+LJSpeech-1.1/wavs/LJ007-0091.wav|ðə lˈuːnətˌɪk bɪkˌeɪm ðə spˈoːɹt ʌvðɪ ˈaɪdəl ænd ðə dᵻpɹˈeɪvd . hɪz kjˈʊɹ wʌz ˌaʊɾəv ðə kwˈɛstʃən ;|0
+LJSpeech-1.1/wavs/LJ026-0116.wav|ðə fˈuːdz kəntˈeɪnɪŋ ˈoʊnli ðɪ ˈɛlɪmənts kˈɑːɹbən , hˈaɪdɹədʒən ænd ˈɑːksɪdʒən fˈæts ænd kˌɑːɹboʊhˈaɪdɹeɪts|0
+LJSpeech-1.1/wavs/LJ014-0325.wav|ɡˈʊdz wʊd biː lˈændᵻd æt ðɪs wˈɔːɹf ;|0
+LJSpeech-1.1/wavs/LJ013-0025.wav|bˌʌt ɐnˈʌðɚ ʃˈɪp , kəŋklˈuːdɪŋ ðæt hiː wʌz ˈæktɪŋ ɪn ˈɪɡnɚɹəns , ɹˈɛndɚd hˌɪm ɐsˈɪstəns .|0
+LJSpeech-1.1/wavs/LJ020-0099.wav|wˌɛn hˈæbɪɾᵻd fɚðə dˈeɪ ɪn ˈɔːl ɛksˈɛpt ðɪ ˈaʊɾɚ ɡˈaʊn , kˈɑːlɚ , ɛtsˈɛtɹə. , slˈɪp ɔnðə ɹˈæpɚɹ ɐɡˈɛn ænd ɹˈʌn dˌaʊn tə pˌʊt ðə bˈɪskɪts ɪnðɪ ˈʌvən .|0
+LJSpeech-1.1/wavs/LJ005-0216.wav|bˌʌt ɪt wʌz pˈɔɪntᵻd ˈaʊt ɪn ˈeɪtiːn twˈɛnti θɹˈiː ðæt dᵻfˈɛktɪv kənstɹˈʌkʃən mˈʌst ˈɔːlweɪz bˈɑːɹ ðə wˈeɪ tʊ ˌɛni ɹˈædɪkəl ɪmpɹˈuːvmənt ɪn nˈuːɡeɪt .|0
+LJSpeech-1.1/wavs/LJ022-0134.wav|nˈiːðɚ juː nˈɔːɹ aɪ wˈɔnt kɹˈɪɾɪsˌɪzəm kənsˈiːvd ɪn ɐ pjˈʊɹli fˈɔlt fˈaɪndɪŋ ɔːɹ pˈɑːɹɾɪsən spˈɪɹɪt ,|0
+LJSpeech-1.1/wavs/LJ038-0141.wav|ðˈɛɹfoːɹ , hiː mˌeɪd hɪz wˈiːkli vˈɪzɪt ˌɔn θˈɜːzdeɪ nˈaɪt .|0
+LJSpeech-1.1/wavs/LJ009-0188.wav|wˈʌn wʌz ɐtˈætʃt tə hˈɪks hˈɔːl , ðə klˈɜːkənwˌɛl sˈɛʃənz hˈaʊs , bˈɪlt ˌaʊɾəv mˈʌnɪz pɹəvˈaɪdᵻd baɪ sˌɜː bˈæptɪst hˈɪks , ɐ wˈɛlθi ˈɔːldɚmən ʌvðə ɹˈeɪn ʌv dʒˈeɪmz ðə fˈɜːst|0
+LJSpeech-1.1/wavs/LJ013-0187.wav|nˌɪɹ ɪt wʌz hɪz wˈɔːɾɚlˌuː mˈɛdəl , ænd ðɪ əbˌʌv mˈɛnʃənd tˈɛn pˈaʊnd nˈoʊt .|0
+LJSpeech-1.1/wavs/LJ036-0217.wav|æz tˈɪpɪt ɹˈiːtʃt ðə lˈɛft fɹˈʌnt wˈiːl ðə mˈæn pˈʊld ˈaʊt ɐ ɹᵻvˈɑːlvɚ ænd fˈaɪɚd sˈɛvɹəl ʃˈɑːts .|0
+LJSpeech-1.1/wavs/LJ009-0288.wav|kˈælkɹæft , ʌv hˈuːm mˈɛnʃən hɐz dʒˈʌst bˌɪn mˈeɪd , wʌz baɪ tɹˈeɪd ɐ lˈeɪdiz ʃˈuːmeɪkɚ ,|0
+LJSpeech-1.1/wavs/LJ013-0254.wav|ænd ˈɛvɪdəns wʌz ɡˈɪvən ʌv klˈoʊs ɹᵻlˈeɪʃən bᵻtwˌiːŋ ɡˈʊd ænd ɐ θˈɜːd wˈʊmən , ɐ ɡˈɜːl nˈeɪmd bˈʊtʃɚ , ɹᵻsˈaɪdɪŋ æt wˈʊlwɪtʃ .|0
+LJSpeech-1.1/wavs/LJ008-0170.wav|ðə mˈæn , nˈiːdɪŋ ˈɔːl hɪz kˈɛɹ fɔːɹ hɪz ˈoʊn lˈaɪf , θɹˈuː ðə tʃˈaɪld fɹʌm hˌɪm ,|0
+LJSpeech-1.1/wavs/LJ009-0132.wav|ɔːlðˈoʊ ðɪs mɪsˌæplɪkˈeɪʃən ʌv ɹᵻlˈɪdʒəs sˈɜːvɪsᵻz stˈɪl wɛnt ˈɔn ,|0
+LJSpeech-1.1/wavs/LJ016-0123.wav|ɡɑːt hˈoʊld ʌvðə stˈɛp lˈædɚ jˈuːzd ɪn lˈaɪɾɪŋ ðə ɡˈæs , ænd wˌɪtʃ ˌʌndɚɹ ˌaʊɚ mˈoːɹ kˈɛɹfəl suːpɚvˈɪʒən wʊdhɐv bˌɪn , æz nˈaʊ ɐ dˈeɪz , tʃˈeɪnd ˈʌp .|0
+LJSpeech-1.1/wavs/LJ019-0211.wav|ɪt wʌz ˈɜːdʒd ðætðɪ ˈɛɹiə sᵻlˈɛktᵻd fɔːɹ pˈɜːtʃɪs mˈʌst biː ɛksˈɛsɪvli kˈɔstli tʊ ɐkwˈaɪɚ , ænd stˈɪl kwˈaɪt ɪnˈædɪkwət fɚðə sˈɪɾi nˈiːdz .|0
+LJSpeech-1.1/wavs/LJ003-0092.wav|ðɛɹwˌɜː fɹˈiːkwəntli ɪnðə mˈɪdəl jˈɑːɹd sˈɛvən ɔːɹ ˈeɪt tʃˈɪldɹən , ðə jˈʌŋɡɪst bˈɛɹli nˈaɪn ,|0
+LJSpeech-1.1/wavs/LJ011-0057.wav|ˈɜːdʒɪŋ ðæt fˈɔːntəlɹˌɔɪ wʌzɐ fˈɑːðɚ , ɐ sˈɪɾɪzən : dˈɑːlɚ hɪz lˈaɪf ɪz jˈuːsfəl , mˈaɪn ɐ bˈɜːðən , tə ðə stˈeɪt.dˈɑːlɚ|0
+LJSpeech-1.1/wavs/LJ019-0158.wav|lˈeɪɾɚɹ ˌɔn ɐ mˈoːɹ ˌɛfɪkˈeɪʃəs bˌʌt stˈɪl ɪmpˈɜːfɛkt mˈɛθəd ʌv suːpɚvˈɪʒən wʌz ˌɪntɹədˈuːst . ˈaɪɚŋ kˈeɪdʒᵻz , wˌɪtʃ ɑːɹ stˈɪl təbi sˈiːn ɪn nˈuːɡeɪt ,|0
+LJSpeech-1.1/wavs/LJ017-0004.wav|aɪ hæv ɐtˈɛmptᵻd tə dɹˈɔː ʌv kɹˈaɪm ɪŋ kənˈɛkʃən wɪð nˈuːɡeɪt , fɹʌm fˈɜːst tə lˈæst , aɪ mˈʌst mˌeɪk sˌʌm mˈɛnʃən , ɪn ðɪs maɪ pɛnˈʌltᵻmət tʃˈæptɚ ,|0
+LJSpeech-1.1/wavs/LJ044-0034.wav|ænd ʌv hɪz nˈiːd tə pɹɪzˈɛnt hɪmsˈɛlf tʊ ˈʌðɚz æz wˈɛl æz tə hɪmsˈɛlf ɪn ɐ lˈaɪt mˈoːɹ fˈeɪvɚɹəbəl ðɐn wʌz dʒˈʌstᵻfˌaɪd baɪ ɹɪˈælɪɾi .|0
+LJSpeech-1.1/wavs/LJ034-0073.wav|ɡˈɪvənz tˈɛstᵻfˌaɪd ðæt ˈæftɚ ɹˈiːtʃɪŋ ðə fˈɜːst flˈoːɹ , kwˈoʊt ,|0
+LJSpeech-1.1/wavs/LJ050-0241.wav|ðɪ ˌɛfbˌiːˈaɪ hɐz ˈɪndᵻkˌeɪɾᵻd ðˌɐɾɪt ɪz wˈɪlɪŋ tə kəntˈɪnjuː tə mˌeɪk sˈʌtʃ ɐsˈɪstəns ɐvˈeɪləbəl ,|0
+LJSpeech-1.1/wavs/LJ002-0144.wav|ænd wɛn wˈʌns ɐpˈɔɪntᵻd kəntˈɪnjuːd tə sˈɜːv sˈaɪn dˈaɪ ; ðeɪ wɜː dʒˈɛnɚɹəli nˌɪɹ ɪn ɹˈæŋk tə ðə pˈɑːɹɾiz hˌuːz kˈɔːzᵻz ðeɪ dᵻsˈaɪdᵻd .|0
+LJSpeech-1.1/wavs/LJ018-0375.wav|ðə lˈɛniz mˈɛn wɜːɹ ˈɔːl ɡɹˈiːks , ɛksˈɛpt wˈʌn nˈoʊn æz fɹˈɛntʃ pˈiːɾɚ ,|0
+LJSpeech-1.1/wavs/LJ011-0263.wav|ɪt wʌz pˈɜːpɪtɹˌeɪɾᵻd əpˌɑːn ɐ ɹᵻspˈɛktəbəl kˈʌntɹi səlˈɪsɪɾɚ ,|0
+LJSpeech-1.1/wavs/LJ014-0190.wav|mˈɑːɹli , dɪstˈɜːbd , pˈɪkt ˌʌp ɐ sᵻɡˈɑːɹ ænd pˈɑːɹsəl fɹʌmðə kˈaʊntɚ , ðˈɛn ɹˈæn ˈaʊt , pɚsˈuːd baɪ lˈɛɹɪɡˌoʊ ˈoʊnli .|0
+LJSpeech-1.1/wavs/LJ014-0133.wav|ʃiː hæd nˌɑːt bˌɪn tɹˈiːɾᵻd lˈaɪk ɐ kɹˈɪstʃən , bˌʌt lˈaɪk ɐ wˈaɪld bˈiːst ʌvðə fˈɔːɹɪst . ʃiː dᵻklˈɛɹd ðætðə mˈʌni fˈaʊnd ɪn hɜː pəzˈɛʃən hɐdbɪn sˈɛnt hɜː fɹʌm ɐbɹˈɔːd ;|0
+LJSpeech-1.1/wavs/LJ018-0247.wav|wˈɪljəm ɹˈuːpɛl hɪmsˈɛlf wʌz bɹˈɔːt æz ɐ pɹˈɪnsɪpəl wˈɪtnəs tə klˈɛntʃ ðə kˈeɪs baɪ ɐ kənfˈɛʃən ˌɔːltəɡˈɛðɚɹ ɐɡˈɛnst hɪmsˈɛlf .|0
+LJSpeech-1.1/wavs/LJ039-0216.wav|ɪt ʃˌʊd biː nˈoʊɾᵻd , haʊˈɛvɚ , ðætðə pɹˈɛzɪdənts kˈɑːɹ wʌz kˈɜːvɪŋ slˈaɪtli tə ðə ɹˈaɪt wɛn ðə θˈɜːd ʃˈɑːt wʌz fˈaɪɚd .|0
+LJSpeech-1.1/wavs/LJ005-0156.wav|ɪn ˈʌðɚz mˈiːt , sˈuːp , ɡɹˈuːəl , bˈɪɹ wɜː ɡˈɪvən .|0
+LJSpeech-1.1/wavs/LJ048-0026.wav|hiː ɡˈeɪv ˈɛvɪdəns ʌv sˈɛɾəlɪŋ dˈaʊn .|0
+LJSpeech-1.1/wavs/LJ048-0189.wav|ðə dˈæləs pəlˈiːs tə skˈæn wˈɪndoʊz ʌv bˈɪldɪŋz lˈaɪnɪŋ ðə mˈoʊɾɚkˌeɪd ɹˈaʊt , ɔːlðˈoʊ ɪt wʌz hɪz jˈuːʒuːəl pɹˈæktɪs tə dˈuː soʊ .|0
+LJSpeech-1.1/wavs/LJ018-0100.wav|tˈʊk tʊ ɐpɹˈoʊpɹɪˌeɪɾɪŋ ðə bˈɪlz ɪntɹˈʌstᵻd tə hˌɪm , ænd sˌoʊ lˈɔst hɪz bˈɪznəs , ˈæftɚ wˌɪtʃ hiː bɪkˌeɪm ɐ klˈɜːk tə mˈɛsrz . wˈæɡnɚɹ ænd bˈeɪtmən .|0
+LJSpeech-1.1/wavs/LJ030-0137.wav|ðɪ ɐsˌæsᵻnˈeɪʃən|0
+LJSpeech-1.1/wavs/LJ019-0164.wav|ðə pˈɜːsənəl sˌuːpɚɹɪntˈɛndəns ʌv nˈaɪt ˈɑːfɪsɚz , æz ɔːlɹˌɛdi dᵻskɹˈaɪbd , bɪkˌeɪm pˈɑːsᵻbəl .|0
+LJSpeech-1.1/wavs/LJ046-0160.wav|ɐ kˈeɪs fˈaɪl wʌz ɪstˈæblɪʃt ɪf ðɪ ˌɪnfɚmˈeɪʃən ɐvˈeɪləbəl sədʒˈɛstᵻd ðætðə sˈʌbdʒɛkt mˌaɪt biː ɐ dˈeɪndʒɚ tə ðə pɹˈɛzɪdənt .|0
+LJSpeech-1.1/wavs/LJ009-0186.wav|pˈɛnənt spˈiːks ʌv sˈɜːdʒənz hˈɔːl æz ɐ hˈændsʌm bˈɪldɪŋ , ˈɔːɹnəmˌɛntᵻd wɪð aɪˈɑːnɪk pˈɪlæstɚz , ænd wɪð ɐ dˈʌbəl flˈaɪt ʌv stˈɛps tə ðə fˈɜːst flˈoːɹ .|0
+LJSpeech-1.1/wavs/LJ038-0119.wav|ðɪ ɚɹˈɛstɪŋ ˈɑːfɪsɚz fˈaʊnd ɐ fˈɔːɹdʒd sᵻlˈɛktɪv sˈɜːvɪs kˈɑːɹd wɪð ɐ pˈɪktʃɚɹ ʌv ˈɑːswəld ænd ðə nˈeɪm dˈɑːlɚɹ ˈælɪk dʒˈeɪ . hˈaɪdəl dˈɑːlɚ|0
+LJSpeech-1.1/wavs/LJ012-0112.wav|nˌɑːtwɪðstˈændɪŋ ɐ mˈɪnɪt sˈɜːtʃ θɹuː ðə ɹˈuːm ðeɪ hæd ˈɑːkjʊpˌaɪd .|0
+LJSpeech-1.1/wavs/LJ047-0054.wav|ðɪs ɪz ɐn ɐdmˈɪnɪstɹˌeɪɾɪv klˌæsɪfɪkˈeɪʃən ˈɪndᵻkˌeɪɾɪŋ ðæt nˈoʊ fˈɜːðɚ wˈɜːk hɐzbɪn skˈɛdʒuːld .|0
+LJSpeech-1.1/wavs/LJ002-0010.wav|ðiːz nˈʌmbɚz hæd ɹˈɪzən tə tˈuː hˈʌndɹɪd sˈɛvənti fˈaɪv ænd θɹˈiː hˈʌndɹɪd sˈɛvənti fˈaɪv ɹᵻspˈɛktɪvli , ɔːɹ sˈɪks hˈʌndɹɪd fˈɪfti ɪn ˈɔːl .|0
+LJSpeech-1.1/wavs/LJ027-0032.wav|ɪntˈɜːnəl ˈɔːɹɡənz mˈeɪ pɚsˈɪst ʌntʃˈeɪndʒd ænd hˈɛns ðeɪ ˈɔfɚ ɡˈʊd ɡˈaɪdz tə klˌæsɪfɪkˈeɪʃən .|0
+LJSpeech-1.1/wavs/LJ003-0190.wav|ɛksˈɛpt ɪn mˈɜːdɚ kˈeɪsᵻz , wˌɛɹ ðɪ ˌɛksɪkjˈuːʃən wʌz dʒˈɛnɚɹəli vˈɛɹi pɹˈɑːmptli pɚfˈɔːɹmd ,|0
+LJSpeech-1.1/wavs/LJ032-0148.wav|fˈɪŋɡɚpɹˌɪnt ˈɛkspɜːt wɪððə nˈuː jˈɔːɹk sˈɪɾi pəlˈiːs dᵻpˈɑːɹtmənt , kəndˈʌktᵻd ɐn ˌɪndᵻpˈɛndənt ɛɡzˌæmᵻnˈeɪʃən ænd ˈɔːlsoʊ dɪtˈɜːmɪnd ðæt ðɪs wʌzðə ɹˈaɪt pˈɑːmpɹɪnt ʌv ˈɑːswəld .|0
+LJSpeech-1.1/wavs/LJ043-0024.wav|ˈiːvən ðˌoʊ ɪɾ ɐpˈɪɹz ðæt ðeɪ mˌeɪhɐv lˈɛft ˈɑːswəld ɐ fjˈuː dˈeɪz bᵻfˈoːɹ , ɪt sˈiːmz ðæt hiː ɹᵻzˈɪstᵻd ðə mˈuːv æz bˈɛst hiː kˈʊd .|0
+LJSpeech-1.1/wavs/LJ031-0091.wav|juː hæv tə dɪtˈɜːmɪn wˌɪtʃ θˈɪŋz , wˌɪtʃ ɑːɹ ɪmˈiːdɪətli lˈaɪf θɹˈɛʔn̩ɪŋ ænd kˈoʊp wɪð ðˌɛm , bᵻfˌoːɹ ɐtˈɛmptɪŋ tʊ ɪvˈæljuːˌeɪt ðə fˈʊl ɛkstˈɛnt ʌvðɪ ˈɪndʒɚɹiz .|0
+LJSpeech-1.1/wavs/LJ044-0074.wav|ɐn ˈeɪdʒənt ʌv bɹˈɪŋɡaɪɚz ɐtˈɛmptɪŋ tə lˈɜːn mˈoːɹ ɐbˌaʊt ðə tɹˈuː nˈeɪtʃɚ|0
+LJSpeech-1.1/wavs/LJ020-0008.wav|wˈʌn tˈeɪbəlspˌuːnfəl ʌv bˈʌɾɚ .|0
+LJSpeech-1.1/wavs/LJ028-0201.wav|dˈɑːlɚ ðˈaʊ ˈɑːɹt wˈeɪd ɪnðə bˈælənsᵻz ænd ˈɑːɹt fˈaʊnd wˈɔntɪŋ.dˈɑːlɚ|0
+LJSpeech-1.1/wavs/LJ016-0140.wav|nˈoʊ ɹᵻpˈoːɹt ʌv ɪt wʌz mˌeɪd pˈʌblɪk , æz ðə mˈæn wʌz ˈɔːlmoʊst ɪmˈiːdɪətli ɹᵻkˈæptʃɚd .|0
+LJSpeech-1.1/wavs/LJ030-0016.wav|ɔnðə mˈɔːɹnɪŋ ʌv noʊvˈɛmbɚ twˈɛnti tˈuː , pɹˈɛzɪdənt kˈɛnədi ɐtˈɛndᵻd ɐ bɹˈɛkfəst æt ðə hoʊtˈɛl ænd ˈæftɚwɚd ɐdɹˈɛst ɐ kɹˈaʊd æɾ ɐn ˈoʊpən pˈɑːɹkɪŋ lˈɑːt .|0
+LJSpeech-1.1/wavs/LJ014-0118.wav|mˈɪsɪz . mˈænɪŋ wʌz tɹænsfˈɜːd tə lˈʌndən ænd lˈɑːdʒd ɪnðə hˈɔːɹsmˌɑːŋɡɚ lˈeɪn dʒˈeɪl , wˌɛɹ hɜː hˈʌsbənd sˈuːn ˈæftɚwɚdz dʒˈɔɪnd hɜː .|0
+LJSpeech-1.1/wavs/LJ006-0098.wav|ðɛɹwˌʌz sˌʌm pɹəvˈɪʒən ʌv klˈoʊðɪŋ , bˌʌt ɪt wʌz kwˈaɪt ɪnsəfˈɪʃənt , ænd nˈʌθɪŋ æɾ ˈɔːl wʌz ɡˈɪvən ɪf pɹˈɪzənɚz hæd ɪnˈʌf ʌv ðɛɹ ˈoʊn tə kˈʌvɚ ðɛɹ nˈeɪkᵻdnəs .|0
+LJSpeech-1.1/wavs/LJ007-0195.wav|tə ɡˈɪv bˈɛɾɚ lˈaɪt ænd vˌɛntɪlˈeɪʃən ; ðə kənstɹˈʌkʃən ʌv bˈɛd plˈeɪsᵻz , θɹˈiː tˈɪɹz hˈaɪ ɐlˈɔŋsaɪd ðə wˈɔːlz fɔːɹ mˈeɪlz , tˈuː tˈɪɹz fɔːɹ fˈiːmeɪlz ;|0
+LJSpeech-1.1/wavs/LJ046-0112.wav|ænd ɹᵻkwˈɛsts tʊ ˈʌðɚɹ ˈeɪdʒənsiz , fˈɛdɚɹəl ænd lˈoʊkəl , fɔːɹ jˈuːsfəl ˌɪnfɚmˈeɪʃən .|0
+LJSpeech-1.1/wavs/LJ018-0021.wav|ðə fˈækts ʌvðə mˈɜːdɚ ænd ɪts ˈɑːbdʒɛkt , ɹˈɑːbɚɹi , wɜː ðˈʌs kəŋklˈuːsɪvli pɹˈuːvd .|0
+LJSpeech-1.1/wavs/LJ023-0004.wav|fɚðə mˈɛni mˈɛsɪdʒᵻz wˌɪtʃ hæv kˈʌm tə mˌiː ˈæftɚ ðæt spˈiːtʃ , ænd wˌɪtʃ ɪɾ ɪz fˈɪzɪkli ɪmpˈɑːsᵻbəl tʊ ˈænsɚɹ ˌɪndᵻvˈɪdʒuːəli ,|0
+LJSpeech-1.1/wavs/LJ016-0073.wav|mˈɪstɚ . kˈoʊp , ðə ɡˈʌvɚnɚɹ ʌv nˈuːɡeɪt , hˌævɪŋ bˌɪŋ kəmjˈuːnᵻkˌeɪɾᵻd wɪð , pɹəsˈiːdᵻd tə wˈɪntʃɛstɚ , wˌɛɹ hiː ɐtwˈʌns aɪdˈɛntᵻfˌaɪd wˈɪljəmz .|0
+LJSpeech-1.1/wavs/LJ028-0388.wav|ðɪ ˈoʊld wˈɔːlz wɜː ɹᵻstˈoːɹd tʊ ɐ hˈaɪt səfˈɪʃənt tə pɹɪvˈɛnt ðɪ ɛskˈeɪp ʌvðɪ ˈænɪməlz , ænd ɐmˌʌŋ ðə ɹˈuːɪnz ðə kˈɪŋz ɛndʒˈɔɪd ðɛɹ fˈeɪvɚɹᵻt spˈoːɹt .|0
+LJSpeech-1.1/wavs/LJ041-0184.wav|hˌuː mˈaɪt , kwˈoʊt , lˈiːd ɐn ˌɛkspədˈɪʃən tə sˌʌm ʌv ðiːz ˈʌðɚɹ ˈaɪləndz ænd fɹˈiː ðˌɛm tˈuː , ˈɛnd kwˈoʊt .|0
+LJSpeech-1.1/wavs/LJ029-0093.wav|hiː wʌz tˈoʊld ðæt fˈɔːɹɾi fˈaɪv mˈɪnɪts hɐdbɪn ɐlˈɑːɾᵻd fɚɹə mˈoʊɾɚkˌeɪd pɹəsˈɛʃən fɹʌm lˈʌv fˈiːld tə ðə lˈʌntʃən sˈaɪt .|0
+LJSpeech-1.1/wavs/LJ014-0088.wav|ðɪs wʌz ˌɔn ɐ θˈɜːzdeɪ ˈiːvnɪŋ .|0
+LJSpeech-1.1/wavs/LJ049-0082.wav|hæd ðɛɹ bˌɪn ɹˈiːzən tə bᵻlˈiːv ðætðɪ ɐsˌæsᵻnˈeɪʃən wʌzðə ɹɪzˈʌlt əvə kənspˈɪɹəsi , fˈɛdɚɹəl dʒˌʊɹɹɪsdˈɪkʃəŋ kˌʊdɐv bˌɪn ɐsˈɜːɾᵻd ;|0
+LJSpeech-1.1/wavs/LJ023-0113.wav|ɹˈiːtʃt ðə pˈɔɪnt æz ɐ nˈeɪʃən wˌɛɹ wiː mˈʌst tˈeɪk ˈækʃən tə sˈeɪv ðə kˌɑːnstɪtˈuːʃən fɹʌmðə kˈoːɹt ænd ðə kˈoːɹt fɹʌm ɪtsˈɛlf .|0
+LJSpeech-1.1/wavs/LJ021-0202.wav|ðɪ ˈiːkwəli ʌntˈɛnəbəl θˈiəɹi ðˌɐɾɪt ɪz ɐn ˌɪntəfˈɪɹəns wɪð lˈɪbɚɾi tʊ ˈɔfɚ ɹˈiːzənəbəl hˈɛlp wɛn pɹˈaɪvət ˈɛntɚpɹˌaɪz ɪz ɪn nˈiːd ʌv hˈɛlp .|0
+LJSpeech-1.1/wavs/LJ019-0108.wav|ðə pɹˈɪzənɚz wɜː tə kˈʌltᵻvˌeɪt ðə lˈænd ænd ɹˈeɪz səfˈɪʃənt pɹədˈuːs fɔːɹ ðɛɹ ˈoʊn səpˈoːɹt .|0
+LJSpeech-1.1/wavs/LJ003-0014.wav|kwˈɔːɹəlɪŋ ɐmˌʌŋ ðə dˈɛɾɚz wʌz nˌɑːt ʌnfɹˈiːkwənt . blˈoʊz wɜː stɹˈʌk , ænd fˈaɪts ˈɔfən ɛnsˈuːd .|0
+LJSpeech-1.1/wavs/LJ012-0040.wav|æt ðə pɹˈaɪs sˈɑːlɑːmənz hæd pˈeɪd fɔːɹ ɪt , ænd ɪt kˈɔst hˌɪm ɐbˌaʊt ɐ hˈʌndɹɪd pˈaʊndz tə ɹˌiː stˈɑːk hɪz ʃˈɑːp wɪð hɪz ˈoʊŋ ɡˈʊdz .|0
+LJSpeech-1.1/wavs/LJ040-0045.wav|ɪnðə mɚɹˈiːnz , hiː ˈɛvɪdənst ɐ stɹˈɔŋ kənvˈɪkʃən æz tə ðə kɚɹˈɛktnəs ʌv mˈɑːɹksɪst dˈɑːktɹɪn ,|0
+LJSpeech-1.1/wavs/LJ002-0235.wav|wɜː plˈeɪsᵻz sˈɛt ɐpˈɑːɹt fɔːɹ skˈɪɾəlz , fˈaɪvz , ænd tˈɛnɪs , wˌɪtʃ stɹˈeɪndʒɚz fɹˈiːkwəntᵻd æz ˌɛni ˈʌðɚ plˈeɪs ʌv pˈʌblɪk ɐmjˈuːzmənt .|0
+LJSpeech-1.1/wavs/LJ012-0135.wav|ðə pəlˈiːs wɜːɹ ɐtwˈʌns ɛmplˈɔɪd , ænd ˈæftɚɹ ˈɪnfɪnət pˈeɪnz ðeɪ dɪskˈʌvɚd ðə pˈɜːsən , wˈʌn mˈɔs , hˌuː hæd ˈæktᵻd æz ðə mˈɛsɪndʒɚ .|0
+LJSpeech-1.1/wavs/LJ010-0209.wav|lˈuːi ænd æmˈædɪəs ɐmˌʌŋ ðə kˈæptɪnz ; ænd hˈɜːkjʊlˌiːz , nˈɛptuːn , ænd mˈɑːɹz ɐmˌʌŋ ðə luːtˈɛnənts ʌvðɪ ɐsˌoʊsɪˈeɪʃən .|0
+LJSpeech-1.1/wavs/LJ008-0176.wav|ðˈɛn ðə mˈɑːb bɪɡˈæn tə θˈɪn , ænd ðə stɹˈiːts wɜː klˈɪɹd baɪ ðə sˈɪɾi mˈɑːɹʃəlz ænd ɐ nˈʌmbɚɹ ʌv kˈɑːnstəbəlz .|0
+LJSpeech-1.1/wavs/LJ017-0032.wav|ðə fˈɜːst ˌɪntɪmˈeɪʃəŋ kənvˈeɪd tə səsˈaɪəɾi ʌvðə nˈuː tˈɛɹɚ wˌɪtʃ θɹˈɛʔn̩d ɪt wʌz ɪnðɪ ɚɹˈɛst ænd ɚɹˈeɪnmənt ʌv wˈɪljəm pˈɑːmɚ ,|0
+LJSpeech-1.1/wavs/LJ044-0085.wav|ðə bˈeɪsɪk fˈækts ʌvðɪ ᵻvˈɛnt wɜːɹ ʌŋkˈʌvɚd ˌɪndᵻpˈɛndəntli baɪ wˈɪljəm stˈʌki , hˌuː ɚɹˈeɪndʒd ðə dᵻbˈeɪt , ænd ˈɛdwɚd bˈʌtlɚ ,|0
+LJSpeech-1.1/wavs/LJ037-0059.wav|æz ðə mˈæn ʃiː sˈɔː kˈɪl ˈɑːfɪsɚ tˈɪpɪt . ɪn ɪvˈæljuːˌeɪɾɪŋ mˈɪsɪz . mˈɑːɹkæmz aɪdˈɛntɪfɪkˈeɪʃən ʌv ˈɑːswəld , ðə kəmˈɪʃəŋ kənsˈɪdɚd sˈɜːʔn̩ ˌælɪɡˈeɪʃənz|0
+LJSpeech-1.1/wavs/LJ041-0153.wav|æt lˈiːst ɪnðə jˈuːnɪt tʊ wˌɪtʃ hiː wʌz ɐsˈaɪnd ˈæftɚ hɪz ɹᵻtˈɜːn fɹʌmðə fˈɑːɹ ˈiːst .|0
+LJSpeech-1.1/wavs/LJ039-0205.wav|fˈaɪv pˈɔɪnt sˈɪks , ænd sˈɪks pˈɔɪnt fˈaɪv sˈɛkəndz .|0
+LJSpeech-1.1/wavs/LJ023-0051.wav|ɪɾ ɪz ðɪ ɐmˈɛɹɪkən pˈiːpəl ðɛmsˈɛlvz hˌuː ɑːɹ ɪnðə dɹˈaɪvɚz sˈiːt .|0
+LJSpeech-1.1/wavs/LJ008-0256.wav|ænd wɪð blˈæntʃt tʃˈiːk , ænd sˈɪŋkɪŋ , wiː tˈɜːnd ɐwˈeɪ fɹʌmðə sˈiːn .|0
+LJSpeech-1.1/wavs/LJ014-0005.wav|bˌʌt tˈuː lˈeɪt tə ɡˈɪv səbstˈænʃəl ˈeɪd .|0
+LJSpeech-1.1/wavs/LJ001-0182.wav|ðə bˈʊks sˌoʊ ˈɔːɹnəmˌɛntᵻd ɑːɹ ɐmˌʌŋst ðə mˈoʊst dᵻlˈaɪtfəl wˈɜːks ʌv ˈɑːɹt ðæt hæv ˈɛvɚ bˌɪn pɹədˈuːst .|0
+LJSpeech-1.1/wavs/LJ041-0032.wav|ˈɑːswəld ˈɔːlsoʊ bɪkˌeɪm ˈɪntɹɪstᵻd ɪnðə nˈuː ˈɔːɹliənz ˈæmətʃɚɹ ɐstɹˈɑːnəmi ɐsˌoʊsɪˈeɪʃən , ɐn ˌɔːɹɡɐnᵻzˈeɪʃən ʌv hˈaɪ skˈuːl stˈuːdənts .|0
+LJSpeech-1.1/wavs/LJ022-0085.wav|aɪ hæv sˈɛt ˌʌp ɐ dᵻvˈɪʒən ʌv ˌæplɪkˈeɪʃənz ænd ˌɪnfɚmˈeɪʃən|0
+LJSpeech-1.1/wavs/LJ044-0212.wav|ɪɾ ˈɔːlsoʊ dˈɛlt wɪððə fˈɪɹ ʌvðə kˈæstɹoʊ ɹeɪʒˈiːm ðæt sˈʌtʃ ɐ pˈɑːlɪsi mˌaɪt ɹɪzˈʌlt ɪn ɪts ɐbˈændənmənt baɪ ðə sˈoʊviət jˈuːniən .|0
+LJSpeech-1.1/wavs/LJ014-0245.wav|ɪt wʌzðə kˈʌstəm ɪn ðɪs ˈɑːfɪs tə mˌeɪk ðə bˈæŋkɚz pˈæsbʊk ðə bˈeɪsɪs ʌvðɪ ˈɛntɹiz ɪnðə kˈʌmpəniz lˈɛdʒɚz .|0
+LJSpeech-1.1/wavs/LJ027-0007.wav|ðɛɹˌɑːɹ nˈʌmbɚləs sˌɪmɪlˈæɹɪɾiz ænd kˌɔɹɪlˈeɪʃənz ænd sɚpɹˈaɪzɪŋ jˌuːnɪfˈoːɹmɪɾiz .|0
+LJSpeech-1.1/wavs/LJ009-0152.wav|ðə kɹˈaʊd aʊtsˈaɪd nˈuːɡeɪt ɔnðə dˈeɪ ʌv ˌɛksɪkjˈuːʃən hɐz ɔːlɹˌɛdi bˌɪn dᵻskɹˈaɪbd ; bˌʌt ðɛɹwˌʌz ˈɔːlsoʊ ɐ sᵻlˈɛkt ɡˈæðɚɹɪŋ ʌv dɪstˈɪŋɡwɪʃt vˈɪzɪɾɚz wɪðˌɪn ðə dʒˈeɪl .|0
+LJSpeech-1.1/wavs/LJ014-0037.wav|sˈuːn ˈæftɚwɚdz hˈɑːkɚ hˈɜːd kɹˈaɪz ʌv dˈɑːlɚ mˈɜːdɚ , dˈɑːlɚ|0
+LJSpeech-1.1/wavs/LJ035-0204.wav|ˈɑːswəld wʌz sˈiːn ɪnðə vɪsˈɪnɪɾi ʌvðə sˈaʊθiːst kˈɔːɹnɚɹ ʌvðə sˈɪksθ flˈoːɹ ɐpɹˈɑːksɪmətli θˈɜːɾi fˈaɪv mˈɪnɪts bᵻfˌoːɹ ðɪ ɐsˌæsᵻnˈeɪʃən|0
+LJSpeech-1.1/wavs/LJ015-0302.wav|hˌuː wʌz æt lˈɛŋθ tˈeɪkən ɪn ɐ kˈɔfi ʃˈɑːp nˌɪɹ ˈɑːksfɚd stɹˈiːt , ˌʌndɚ ðə nˈeɪm ʌv hˈɑːpkɪnz . hiː ɹᵻzˈɪstᵻd æt fˈɜːst , ænd dᵻnˈaɪd hɪz aɪdˈɛntɪɾi ,|0
+LJSpeech-1.1/wavs/LJ035-0028.wav|tə ðə nɔːɹθwˈɛst kˈɔːɹnɚɹ ʌvðə flˈoːɹ wˌɛɹ tɹˈuːli hˈoʊpt tə fˈaɪnd wˈʌn ʌvðə tˈuː fɹˈeɪt ˈɛlɪvˌeɪɾɚz .|0
+LJSpeech-1.1/wavs/LJ003-0133.wav|pɹɪvˈɛntᵻd mˌiː fɹʌm ɡˌoʊɪŋ ɪnsˈaɪd bˌʌt sˈɛldəm , ænd aɪ jˈuːzd tə kəmjˈuːnᵻkˌeɪt wɪð hˌɪm θɹuː ðə bˈɑːɹz fɹʌmðə pˈæsɪdʒ . ˈɛnd kwˈoʊt .|0
+LJSpeech-1.1/wavs/LJ025-0080.wav|fˈaɪnəli ɐmˈɪd ðə lˈoʊɪst fˈɔːɹmz ʌv ˈænɪməl lˈaɪf ðə spˈɛk ʌv dʒɛlˈætɪnəs pɹˈoʊɾoʊplˌæzəm , wˌɪtʃ kˈɑːnstɪtˌuːts ðə hˈoʊl bˈɑːdi ,|0
+LJSpeech-1.1/wavs/LJ050-0109.wav|sˈɪns ðɪ ɐsˌæsᵻnˈeɪʃən , ðə sˈɜːvɪs hɐz ɹˈɛkəɡnˌaɪzd ðæt ðiːz ɹᵻlˈeɪʃənʃˌɪps mˈʌst biː fˈɑːɹmˌoːɹ fˈɔːɹməl|0
+LJSpeech-1.1/wavs/LJ033-0177.wav|ˌɔn dᵻsˈɛmbɚ wˌʌn , nˈaɪntiːn sˈɪksti θɹˈiː , ɐ ɹˈɛplɪkə bˈæɡ wʌz mˌeɪd fɹʌm mətˈɪɹiəlz fˈaʊnd ˌɔn ðæt dˈeɪt ɪnðə ʃˈɪpɪŋ ɹˈuːm .|0
+LJSpeech-1.1/wavs/LJ036-0022.wav|ðə tɹˈænsfɜː wʌz kəŋklˈuːsɪvli aɪdˈɛntᵻfˌaɪd æz hˌævɪŋ bˌɪn ˈɪʃuːd baɪ sˈɛsəl dʒˈeɪ . mək wˈɑːɾɚz , ɐ bˈʌsdɹaɪvɚ fɚðə dˈæləs tɹˈænsɪt kˈoʊ .|0
+LJSpeech-1.1/wavs/LJ006-0159.wav|ðə pɹˈɪzənɚz dᵻklˈɛɹd ðæt ðeɪ dɪdnˌɑːt sˈiː hˌɪm ˈɔfənɚ ðɐn twˈaɪs ɐ wˈiːk ;|0
+LJSpeech-1.1/wavs/LJ030-0037.wav|ɑːɹ dɪzˈaɪnd tə pɹəvˈaɪd pɹətˈɛkʃən wˌaɪl pɚmˈɪɾɪŋ lˈɑːɹdʒ nˈʌmbɚz ʌv pˈiːpəl tə sˈiː ðə pɹˈɛzɪdənt .|0
+LJSpeech-1.1/wavs/LJ050-0275.wav|mətˈɪɹiəli ɪmpɹˈuːv əpˌɑːn ðə pɹəsˈiːdʒɚz ɪn ɪfˈɛkt æt ðə tˈaɪm ʌv pɹˈɛzɪdənt kˈɛnədiz ɐsˌæsᵻnˈeɪʃən ænd ɹɪzˈʌlt ɪn ɐ səbstˈænʃəl lˈɛsənɪŋ ʌvðə dˈeɪndʒɚ .|0
+LJSpeech-1.1/wavs/LJ035-0158.wav|ɐ blˈuː dʒˈækɪt , lˈeɪɾɚɹ aɪdˈɛntᵻfˌaɪd baɪ mɚɹˈiːnə ˈɑːswəld æz hɜː hˈʌsbəndz , wʌz sˈʌbsᵻkwəntli fˈaʊnd ɪnðə bˈɪldɪŋ , ɐpˈæɹəntli lˈɛft bᵻhˌaɪnd baɪ ˈɑːswəld .|0
+LJSpeech-1.1/wavs/LJ046-0068.wav|ɪt hˈɛlpt hˌɪm ɪn hɪz dʒˈɑːb hˈɪɹ , hiː wʌz ˈeɪbəl tə kˈʌm bˈæk hˈɪɹ wɪð ɐ fɹˈɛʃ vjˈuː ʌv mˈɛni θˈɪŋz .|0
+LJSpeech-1.1/wavs/LJ048-0208.wav|ˈeɪdʒənt sˈɔɹəlz , ɹˈaɪdɪŋ ɪnðə lˈiːd kˈɑːɹ , dˈɪd əbzˈɜːv ðə tˈɛksəs skˈuːl bˈʊk dᵻpˈɑːzɪtˌoːɹi bˈɪldɪŋ æz hiː pˈæst bˈaɪ ,|0
+LJSpeech-1.1/wavs/LJ038-0016.wav|hˈɜːd pəlˈiːs sˈaɪɹənz ænd ðˈɛn sˈɔː ɐ mˈæn æz hiː , kwˈoʊt , dˈʌkt ˌɪntʊ , ˈɛnd kwˈoʊt , ðɪ ˈaʊɾɚ lˈɑːbi spˈeɪs ʌvðə θˈiəɾɚ nˌɪɹ ðə tˈɪkɪt ˈɑːfɪs .|0
+LJSpeech-1.1/wavs/LJ015-0026.wav|moːɹˈoʊvɚ , ðə pˈɑːɹtnɚz wɜː sˈoʊbɚ , stˈɛdi mˈɛn , hˌuː pˈeɪd ˌʌnɹiːmˈɪɾɪŋ ɐtˈɛnʃən tə bˈɪznəs .|0
+LJSpeech-1.1/wavs/LJ013-0170.wav|ðə fɹˈɛʃ mˈɑːɹks ʌv vˈaɪələns əpˌɑːn ðə dˈoːɹ hæd ˈɛvɪdəntli bˌɪn mˌeɪd ɪnsˈaɪd , ænd nˌɑːt fɹʌm aʊtsˈaɪd ;|0
+LJSpeech-1.1/wavs/LJ047-0104.wav|ɹᵻlˈʌktənt ænd ˈæktʃuːəli æz fˈɑːɹ æz aɪ wʌz kənsˈɜːnd , wʌz kəmplˈiːtli ɪvˈeɪsɪv ˈɔn ðˌɛm . ˈɛnd kwˈoʊt .|0
+LJSpeech-1.1/wavs/LJ021-0034.wav|klˈoʊsli fˈɑːloʊɪŋ ðɪs ɡɹˈeɪt kənstɹˈʌktɪv ˈɛfɚt wiː hˈæv , θɹuː vˈɛɹiəs fˈɛdɚɹəl ˈeɪdʒənsiz ,|0
+LJSpeech-1.1/wavs/LJ015-0109.wav|ænd hiː dɪskˈʌst ðə lˈæɾɚ wɪð ˈæpɪtˌaɪt , bˌʌt bˈɛɡd ðæt ðeɪ wʊd nˈɛvɚ ɡˈɪv hˌɪm kˈɜːɹi ɐɡˈɛn , æz hiː dɪdnˌɑːt lˈaɪk ɪt .|0
+LJSpeech-1.1/wavs/LJ014-0337.wav|wˈɪʃɪŋ tə vˈɛɹᵻfˌaɪ ðə vˈæljuː ʌv wˈɔːɹənts ðeɪ hˈɛld , ænd sˈɛndɪŋ tə mˈæltbi ænd kˈoʊ.ˈɛs wˈɔːɹf , fˈaʊnd ˈaʊt hˈæf ðə tɹˈuːθ .|0
+LJSpeech-1.1/wavs/LJ021-0122.wav|hɐzbɪn fˈɑːɹ lˈɛs ðɐn ɪn ˌɛni pɹˈiːviəs , kˈɑːmpɚɹəbəl pˈiəɹɪəd .|0
+LJSpeech-1.1/wavs/LJ036-0196.wav|tˈɪpɪt pɐtɹˈoʊld dˈɪstɹɪkt nˈʌmbɚ sˈɛvənti ˈeɪt ɪnðɪ ˈoʊk klˈɪf ˈɛɹiə ʌv dˈæləs dˈʊɹɹɪŋ dˈeɪlaɪt ˈaʊɚz .|0
+LJSpeech-1.1/wavs/LJ042-0036.wav|ðæt ðæt ɡˈʌvɚnmənt səpˈoːɹɾᵻd ɐn ˌiːkənˈɑːmɪk sˈɪstəm , kwˈoʊt , wˌɪtʃ ɛksplˈɔɪts ˈɔːl ɪts wˈɜːkɚz , ˈɛnd kwˈoʊt ,|0
+LJSpeech-1.1/wavs/LJ050-0239.wav|fɹʌm fˈɛbɹuːˌɛɹi ᵻlˈɛvən θɹuː dʒˈuːn θˈɜːɾi , nˈaɪntiːn sˈɪksti fˈoːɹ ,|0
+LJSpeech-1.1/wavs/LJ005-0100.wav|fɔːɹ ðɪs pˈɜːpəs ɪt kˈɛpt ˌʌp ɐn ɛkstˈɛnsɪv kˌɔːɹɪspˈɑːndəns wɪð ˈɔːl pˈɑːɹts ʌvðə kˈɪŋdəm , ænd sˈɜːkjʊlˌeɪɾᵻd kwˈiəɹɪz təbi ˈænsɚd ɪn diːtˈeɪl ,|0
+LJSpeech-1.1/wavs/LJ002-0332.wav|sˈʌmtaɪmz ɹˈʌɡz wɜːɹ ˈɜːdʒəntli ɹᵻkwˈaɪɚd ænd nˌɑːt fˈɔːɹθkʌmɪŋ ;|0
+LJSpeech-1.1/wavs/LJ016-0002.wav|ðɪ ˈoʊld nˈoʊʃən ˈɔːlweɪz pɹɪvˈeɪld ðæt nˈuːɡeɪt wʌz ɪmpɹˈɛɡnəbəl , sˌoʊ tə spˈiːk , fɹʌm wɪðˈɪn ,|0
+LJSpeech-1.1/wavs/LJ021-0136.wav|wiː hæv pˈæst θɹuː mˈoːɹ ðˌænə jˈɪɹ ʌv ˌɛdʒuːkˈeɪʃən .|0
+LJSpeech-1.1/wavs/LJ035-0090.wav|pˈɑːsᵻbəl dᵻlˈeɪd ɹɪˈækʃən tə ðə ʃˈɑːt , dʒˈɑːsəlɪŋ wɪððə kɹˈaʊd ʌv pˈiːpəl ɔnðə stˈɛps ænd skˈænɪŋ ðɪ ˈɛɹiə ɐlˈɔŋ ˈɛlm stɹˈiːt ænd ðə pˈɑːɹkweɪ .|0
+LJSpeech-1.1/wavs/LJ030-0065.wav|ɡˈʌvɚnɚ kˈɑːnæli ˈɑːkjʊpˌaɪd ðə ɹˈaɪt dʒˈʌmp sˈiːt , mˈɪsɪz . kˈɑːnæli ðə lˈɛft .|0
+LJSpeech-1.1/wavs/LJ032-0173.wav|ðə tˈɛstᵻməni ʌv ðoʊz hˌuː sˈɔː hˌɪm ˈæftɚ ðɪ ɐsˌæsᵻnˈeɪʃən wʌz ɪŋkəŋklˈuːsɪv ɐbˌaʊt ðə kˈʌlɚɹ ʌv ˈɑːswəldz ʃˈɜːt ,|0
+LJSpeech-1.1/wavs/LJ028-0196.wav|ˈɛvɹi tʃˈaɪld nˈoʊz ðə stˈoːɹi ʌv dˈɑːlɚ ðə ɹˈaɪɾɪŋ ʌvðə hˈænd ɔnðə wˈɔːl.dˈɑːlɚɹ ɪt wʌzðə nˈaɪt ðæt bˈæbɪlən fˈɛl .|0
+LJSpeech-1.1/wavs/LJ048-0183.wav|ɐdmˈɪɾᵻdli , pɹətˈɛktɪv mˈɛʒɚz kænˈɑːt ˌɔːɹdɪnˈɛɹᵻli biː tˈeɪkən wɪð ɹᵻɡˈɑːɹd tʊ ˈɔːl bˈɪldɪŋz ɐlˈɔŋ ɐ mˈoʊɾɚkˌeɪd ɹˈaʊt .|0
+LJSpeech-1.1/wavs/LJ032-0171.wav|ænd ðæt ðɪs wʌzðə sˈeɪm ʃˈɜːt wˌɪtʃ ˈɑːswəld wˈoːɹ ɔnðə mˈɔːɹnɪŋ ʌvðɪ ɐsˌæsᵻnˈeɪʃən .|0
+LJSpeech-1.1/wavs/LJ015-0078.wav|hˌuː pɹɪfˈɜːd tə ɹˈɪsk hɪz fjˈuːtʃɚ ɹˌɛpjuːtˈeɪʃən ænd lˈɪbɚɾi tə ðə pɹˈɛzənt dɪskˈʌmfɚt ʌv lˈɪvɪŋ əpˌɑːn nˈæɹoʊ mˈiːnz .|0
+LJSpeech-1.1/wavs/LJ015-0138.wav|hɪz fˈɔlt wʌz dʒˌɛnɚɹˈɔsɪɾi ,|0
+LJSpeech-1.1/wavs/LJ037-0204.wav|wʌz ʃˈɪpt ˌɔn mˈɑːɹtʃ twˈɛnti , nˈaɪntiːn sˈɪksti θɹˈiː , tʊ ˈeɪ . dʒˈeɪ . hˈaɪdəl , pˈoʊst ˈɑːfɪs bˈɑːks tˈuː nˈaɪn wˈʌn fˈaɪv , dˈæləs , tˈɛksəs .|0
+LJSpeech-1.1/wavs/LJ044-0093.wav|ænd wʌz ɛkstɹˈiːmli bᵻlˈiːvəbəl bᵻfˌoːɹ ðˈɪs . wiː θˈɔːt ðə fˈɛloʊ kʊd pɹˈɑːbəbli ɡɛt kwˈaɪt ɐ fjˈuː mˈɛmbɚz ɪf hiː wʌz ɹˈiəli ˌɪndˈiːd sˈɪɹiəs ɐbˌaʊt ɡˌɛɾɪŋ mˈɛmbɚz .|0
+LJSpeech-1.1/wavs/LJ002-0257.wav|ænd ɐ mˈæstɚɹ ʌvðɪ ˈeɪl ɹˈuːm , hˌuː kˈɛpt ðɪs ðə sˈiːn ʌv ðɛɹ ɹˈɛvəlz klˈiːn , ænd sˈɔː ðæt bˈɔɪlɪŋ wˈɔːɾɚ wʌz pɹəvˈaɪdᵻd fɔːɹ ɡɹˈɑːɡ .|0
+LJSpeech-1.1/wavs/LJ046-0221.wav|wˌɛɹ ɪt wɪl biː mˌeɪd ɐvˈeɪləbəl tə sˈiːkɹᵻt sˈɜːvɪs hɛdkwˈɔːɹɾɚz ɪn wˈɑːʃɪŋtən .|0
+LJSpeech-1.1/wavs/LJ045-0069.wav|kˈæθɹɪn fˈoːɹd , wɪð hˈuːm mɚɹˈiːnə ˈɑːswəld stˈeɪd dˈʊɹɹɪŋ hɜː sˌɛpɚɹˈeɪʃən fɹʌm hɜː hˈʌsbənd ɪn noʊvˈɛmbɚɹ ʌv nˈaɪntiːn sˈɪksti tˈuː ,|0
+LJSpeech-1.1/wavs/LJ003-0070.wav|wʌz fɹˈiːkwəntli ɐdʒˈʌdʒd fɔːɹ sˌoʊ kˈɔːld lˈaɪbəlz , ɔːɹ tˈuː ˈaʊt spˈoʊkəŋ kˈɑːmɛnts ɪn pɹˈɪnt .|0
+LJSpeech-1.1/wavs/LJ045-0074.wav|ɪnðə lˈɛɾɚ mɚɹˈiːnə ˈɑːswəld stˈeɪɾᵻd ðæt hɜː hˈʌsbənd hæd tʃˈeɪndʒd ɐ ɡɹˈeɪt dˈiːl ænd ðæt ʃiː wʌz vˈɛɹi lˈoʊnli ɪnðə juːnˈaɪɾᵻd stˈeɪts .|0
+LJSpeech-1.1/wavs/LJ045-0149.wav|ʃiː sˈɛd , kwˈoʊt ,|0
+LJSpeech-1.1/wavs/LJ012-0009.wav|ɪt tˈɜːnd ˈaʊt ðæt hiː wʌz ɹˈiəli mˈæɹid tə mˈɪsɪz . kˈænɪŋ ,|0
+LJSpeech-1.1/wavs/LJ001-0024.wav|bˌʌt ðə fˈɜːst bˈaɪbəl ˈæktʃuːəli dˈeɪɾᵻd wˌɪtʃ ˈɔːlsoʊ wʌz pɹˈɪntᵻd æt mˈeɪnts baɪ pˈiːɾɚ skˈoʊfɚɹ ɪnðə jˈɪɹ fˈoːɹtiːn sˈɪksti tˈuː|0
+LJSpeech-1.1/wavs/LJ008-0068.wav|bˌʌt ðə fˈɔːl ɐpˈɑːɹt ænd ˈɪnwɚdz ʌv tˈuː lˈiːvz ɪz kənsˈɪdɚd suːpˈiəɹɪɚ .|0
+LJSpeech-1.1/wavs/LJ002-0143.wav|ðə kəmˈɪʃənɚz hˌuː pɹɪsˈaɪdᵻd wɜː , kwˈoʊt , lˈɪɾəl ˈʌðɚwˌaɪz ðɐn sˈɛlf ᵻlˈɛktᵻd|0
+LJSpeech-1.1/wavs/LJ028-0489.wav|hæd ðɪ ˈɛnəmi ʌv bˈæbɪlən səksˈiːdᵻd ɪn bɹˈeɪkɪŋ θɹuː ðɪ ˈaʊɾɚ ænd ˈɪnɚ dᵻfˈɛnsᵻz ʌvðə sˈɪɾi ðə ɹˈɔɪəl pˈælɪs wʊdhɐv stˈɪl bˌɪn fˈɑːɹ fɹʌm hɪz ɹˈiːtʃ .|0
+LJSpeech-1.1/wavs/LJ018-0102.wav|bᵻsˌaɪdz hɪz ɛmplˈɔɪɚz , ɐ dʒˈuːəlɚ nˈeɪmd hˈʌmfɹiz wʌz ɪnðə dˈɑːlɚ swˈɪm , dˈɑːlɚɹ æt hˌuːz ʃˈɑːp ɪn ɹˈɛd lˈaɪən skwˈɛɹ wʌz dɪskˈʌvɚd ɐ kwˈɔntɪɾi ʌv bˈeɪs ɡˈoʊld|0
+LJSpeech-1.1/wavs/LJ018-0038.wav|ænd mˈuːlɚɹ æt ðə tˈaɪm ʌv hɪz kˈæptʃɚ wʌz ˈæktʃuːəli wˈɛɹɪŋ mˈɪstɚ . bɹˈɪɡz hˈæt , kˈʌt dˌaʊn ænd sˈʌmwʌt ˈɔltɚd .|0
+LJSpeech-1.1/wavs/LJ002-0064.wav|dᵻɹˈɛktli ˌʌndɚ ðə tʃˈæpəl , ɪnwˌɪtʃ ðɛɹwˌɜː θɹˈiː sˈɛlz , jˈuːzd ˈiːðɚ fɚðə kənfˈaɪnmənt ʌv dɪsˈoːɹdɚli ænd ɹᵻfɹˈæktɚɹi pɹˈɪzənɚz ,|0
+LJSpeech-1.1/wavs/LJ040-0037.wav|hɪz wˈaɪf tˈɛstᵻfˌaɪd ðæt hiː kəmpˈɛɹd hɪmsˈɛlf wɪð ɡɹˈeɪt ɹˈiːdɚz ʌv hˈɪstɚɹi .|0
+LJSpeech-1.1/wavs/LJ032-0139.wav|dˈeɪ , ɔnðɪ ˈʌðɚ hˈænd , bᵻlˈiːvd ðæt səfˈɪʃənt tɹˈeɪsᵻz ʌvðə pɹˈɪnt hɐdbɪn lˈɛft ɔnðə ɹˈaɪfəl bˈæɹəl ,|0
+LJSpeech-1.1/wavs/LJ012-0176.wav|tʊ əbtˈeɪn pəzˈɛʃən ʌv ðˈɪs , θˈɜːɾɛl wɪð hɪz tˈuː ɐsˈoʊsɪˌeɪts ɹᵻzˈɑːlvd tə kˈɪl hˌɪm .|0

@@ -11,6 +11,90 @@ Execute: pip install -r requirements.txt
 
 estou a versao do Python 3.13.9 
 
+### Teste com amostra menor dos dados
+
+Para validar o pipeline antes do treino completo, criei listas reduzidas:
+
+```powershell
+Get-Content Data\train_list.txt | Select-Object -First 1000 | Set-Content Data\train_list_mini.txt
+Get-Content Data\val_list.txt   | Select-Object -First 200  | Set-Content Data\val_list_mini.txt
+```
+
+Em seguida, no `Configs/config.yml`, alterei temporariamente:
+
+```yaml
+train_data: "Data/train_list_mini.txt"
+val_data:   "Data/val_list_mini.txt"
+epochs_1st: 5
+epochs_2nd: 3
+save_freq:  1
+```
+
+E executei normalmente (aqui agora vc pode passar via parametro):
+
+
+## Training
+First stage training:
+```bash
+# GPU (recommended)
+python train_first.py --config_path ./Configs/config.yml --device cuda
+
+# CPU
+python train_first.py --config_path ./Configs/config.yml --device cpu
+```
+Second stage training:
+```bash
+# GPU (recommended)
+python train_second.py --config_path ./Configs/config.yml --device cuda
+
+# CPU
+python train_second.py --config_path ./Configs/config.yml --device cpu
+```
+
+Com 1000 amostras e `batch_size: 16` → ~63 steps por época. As 5 épocas rodam em poucos minutos e permitem verificar se não há `CUDA out of memory`, se as perdas aparecem corretamente no log e se os checkpoints são salvos em `Models/LJSpeech/`. Após confirmar, basta restaurar os valores originais no `config.yml` para o treino completo.
+
+### Monitorar o treino com TensorBoard
+
+Enquanto o treino roda (ou após), abra o TensorBoard. Se `tensorboard` não for reconhecido no terminal, instale primeiro:
+
+```powershell
+pip install tensorboard
+```
+
+Depois inicie:
+```powershell
+# Opção 1 — direto (se PATH atualizado)
+tensorboard --logdir Models/LJSpeech/tensorboard
+
+# Opção 2 — via Python (sempre funciona)
+python -m tensorboard.main --logdir Models/LJSpeech/tensorboard
+```
+
+Acesse **http://localhost:6006** no navegador.
+
+**O que observar nas métricas:**
+
+| Métrica | Comportamento saudável | O que significa |
+|---|---|---|
+| `mel_loss` | Caindo progressivamente (~0.7 → 0.2–0.3 ao final) | Principal indicador — modelo aprendendo a reconstruir o áudio |
+| `adv_loss` | Estável ~0.69 | GAN equilibrado — gerador e discriminador empatados |
+| `d_loss` | Estável ~1.38 | Discriminador saudável (≈ 2 × log(2)) |
+| `mono_loss` | Zero até época 20, depois cai | Normal — TMA só ativa em `TMA_epoch: 20` |
+| `s2s_loss` | Idem ao `mono_loss` | Alinhamento S2S, ativa junto com o TMA |
+
+> **Alerta:** se qualquer perda virar `NaN` ou subir indefinidamente acima de 100, o treino está instável. Reduza o `batch_size` ou o `lr` no `config.yml`.
+
+### Após o Estágio 2 terminar
+
+Os checkpoints ficam em `Models/LJSpeech/epoch_2nd_XXXXX.pth`. Abra o TensorBoard e identifique o checkpoint com o menor `mel_loss` de validação — **não necessariamente o último** é o melhor.
+
+Baixe o vocoder HiFi-GAN pré-treinado (sem ele não há geração de áudio, pois os checkpoints do StyleTTS produzem apenas mel-espectrogramas):
+- [HiFi-GAN LJSpeech](https://huggingface.co/yl4579/StyleTTS/blob/main/LJSpeech/Vocoder.zip) → descompactar em `Vocoder/`
+
+Depois abra `Demo/Inference_LJSpeech.ipynb`, aponte para o seu `epoch_2nd_XXXXX.pth` com o menor `mel_loss` e execute. É aí que você ouvirá pela primeira vez se o modelo aprendeu algo.
+
+---
+
 ## O que é o StyleTTS?
 
 O **StyleTTS** é um modelo generativo de síntese de voz (Text-to-Speech — TTS) baseado em **estilo**. Ele é capaz de sintetizar fala com prosódianatural e diversificada a partir de um áudio de referência, imitando o estilo de fala, o tom emocional e as variações prosódicas sem precisar de rótulos explícitos para essas categorias.
@@ -93,8 +177,14 @@ StyleTTS/
 
 **Como executar:**
 ```bash
-python train_first.py --config_path ./Configs/config.yml
+# GPU (recomendado — RTX 4050 ou superior)
+python train_first.py --config_path ./Configs/config.yml --device cuda
+
+# CPU (lento, apenas para testes)
+python train_first.py --config_path ./Configs/config.yml --device cpu
 ```
+
+O parâmetro `--device` sobrescreve o campo `device` do `config.yml`. Valores aceitos: `cuda`, `cuda:0`, `cuda:1`, `cpu`. Se omitido, usa o valor do `config.yml` (padrão: `cuda`).
 
 **Onde os resultados vão:** pasta definida em `log_dir` no `config.yml` (padrão: `Models/LJSpeech/`).
 
@@ -116,7 +206,11 @@ python train_first.py --config_path ./Configs/config.yml
 
 **Como executar:**
 ```bash
-python train_second.py --config_path ./Configs/config.yml
+# GPU (recomendado)
+python train_second.py --config_path ./Configs/config.yml --device cuda
+
+# CPU
+python train_second.py --config_path ./Configs/config.yml --device cpu
 ```
 
 **Onde os resultados vão:** mesmo `log_dir` do estágio 1.
@@ -347,7 +441,7 @@ first_stage_path: "first_stage.pth" # Nome do checkpoint do estágio 1
 # Frequência e controle
 save_freq: 2        # Salvar checkpoint a cada N épocas
 log_interval: 10    # Logar métricas a cada N iterações
-device: "cuda"      # Dispositivo de treinamento (cuda ou cpu)
+device: "cuda"      # Dispositivo padrão (cuda ou cpu) — sobrescrito por --device na linha de comando
 multigpu: false     # Suporte a múltiplas GPUs (DataParallel)
 
 # Épocas
@@ -505,7 +599,11 @@ Para **LibriTTS**:
 ### 2. Estágio 1
 
 ```bash
-python train_first.py --config_path ./Configs/config.yml
+# GPU (recomendado)
+python train_first.py --config_path ./Configs/config.yml --device cuda
+
+# CPU (somente para testes, muito lento)
+python train_first.py --config_path ./Configs/config.yml --device cpu
 ```
 
 - Treina por `epochs_1st` (padrão: 200) épocas.
@@ -515,7 +613,11 @@ python train_first.py --config_path ./Configs/config.yml
 ### 3. Estágio 2
 
 ```bash
-python train_second.py --config_path ./Configs/config.yml
+# GPU (recomendado)
+python train_second.py --config_path ./Configs/config.yml --device cuda
+
+# CPU
+python train_second.py --config_path ./Configs/config.yml --device cpu
 ```
 
 - Carrega automaticamente o `first_stage.pth` da pasta `log_dir`.
@@ -524,9 +626,15 @@ python train_second.py --config_path ./Configs/config.yml
 
 ### 4. Monitorar com TensorBoard
 
-```bash
+```powershell
+# Opção 1
 tensorboard --logdir Models/LJSpeech/tensorboard
+
+# Opção 2 (se tensorboard não for reconhecido no PATH)
+python -m tensorboard.main --logdir Models/LJSpeech/tensorboard
 ```
+
+Acesse **http://localhost:6006**. Métricas a acompanhar: `mel_loss` caindo, `adv_loss` e `d_loss` estáveis em ~0.69 e ~1.38 respectivamente. `mono_loss` e `s2s_loss` ficam em zero até a época 20 (`TMA_epoch: 20`) — isso é normal.
 
 ---
 
@@ -534,9 +642,13 @@ tensorboard --logdir Models/LJSpeech/tensorboard
 
 1. Baixar os modelos pré-treinados (links acima).
 2. Descompactar em `Models/` e `Vocoder/`.
-3. Instalar o `phonemizer`.
-4. Abrir e executar o notebook:
-   - `Demo/Inference_LJSpeech.ipynb` para locutor único.
+3. Instalar o `phonemizer`:
+   ```bash
+   pip install phonemizer
+   ```
+4. No TensorBoard, identificar o checkpoint `epoch_2nd_XXXXX.pth` com o menor `mel_loss` de validação — não necessariamente o último é o melhor.
+5. Abrir `Demo/Inference_LJSpeech.ipynb`, apontar para esse checkpoint e executar célula a célula. É aí que você ouvirá pela primeira vez se o modelo aprendeu algo.
+   - `Demo/Inference_LJSpeech.ipynb` para locutor único (LJSpeech).
    - `Demo/Inference_LibriTTS.ipynb` para zero-shot multi-locutor.
 
 ---

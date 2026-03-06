@@ -25,15 +25,46 @@ For LibriTTS, you will need to combine train-clean-360 with train-clean-100 and 
 ## Training
 First stage training:
 ```bash
-python train_first.py --config_path ./Configs/config.yml
+# GPU (recommended)
+python train_first.py --config_path ./Configs/config.yml --device cuda
+
+# CPU
+python train_first.py --config_path ./Configs/config.yml --device cpu
 ```
 Second stage training:
 ```bash
-python train_second.py --config_path ./Configs/config.yml
+# GPU (recommended)
+python train_second.py --config_path ./Configs/config.yml --device cuda
+
+# CPU
+python train_second.py --config_path ./Configs/config.yml --device cpu
 ```
+The `--device` flag overrides the `device` field in `config.yml`. Use `cuda` for NVIDIA GPU, `cuda:0`, `cuda:1` etc. for a specific GPU, or `cpu` for CPU-only training. If omitted, the value in `config.yml` is used (defaults to `cuda`).
+
 You can run both consecutively and it will train both the first and second stage. The model will be saved in the format "epoch_1st_%05d.pth" and "epoch_2nd_%05d.pth". Checkpoints and Tensorboard logs will be saved at `log_dir`. 
 
 The data list format needs to be `filename.wav|transcription`, see [val_list_libritts.txt](https://github.com/yl4579/StyleTTS/blob/main/Data/val_list_libritts.txt) as an example. 
+
+## Monitoring Training
+
+Launch TensorBoard while training (or after):
+```bash
+# If tensorboard is on PATH
+tensorboard --logdir Models/LJSpeech/tensorboard
+
+# Or via Python directly
+python -m tensorboard.main --logdir Models/LJSpeech/tensorboard
+```
+Open **http://localhost:6006** in your browser.
+
+| Metric | Healthy behaviour |
+|---|---|
+| `mel_loss` | Decreasing steadily (~0.7 → 0.2–0.3 by the end) |
+| `adv_loss` | Stable ~0.69 (GAN equilibrium) |
+| `d_loss` | Stable ~1.38 (≈ 2 × log(2)) |
+| `mono_loss` / `s2s_loss` | Zero until epoch 20, then decreasing — this is expected (`TMA_epoch: 20`) |
+
+> **Warning:** if any loss becomes `NaN` or rises indefinitely above 100, training is unstable. Reduce `batch_size` or `lr` in `config.yml`.
 
 ## Inference
 

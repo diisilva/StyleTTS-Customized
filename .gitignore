@@ -73,6 +73,10 @@ Data/clips/
 Data/LibriTTS/
 Data/LJSpeech*/
 
+# LJSpeech dataset extracted at project root
+LJSpeech-1.1/
+LJSpeech-1.1.tar.bz2
+
 # =============================================================================
 # Jupyter
 # =============================================================================
