@@ -66,6 +66,18 @@ Open **http://localhost:6006** in your browser.
 
 > **Warning:** if any loss becomes `NaN` or rises indefinitely above 100, training is unstable. Reduce `batch_size` or `lr` in `config.yml`.
 
+## Windows Performance Notes
+
+Three fixes are applied in this fork that are critical for training at normal speed on Windows:
+
+| File | Issue | Fix |
+|---|---|---|
+| `utils.py` | `get_image()` created matplotlib figures without `plt.close(fig)` → RAM leak every epoch | Added `plt.close(fig)` before `return` |
+| `meldataset.py` | `DataLoader` without `persistent_workers=True` → workers destroyed and respawned every epoch (Windows uses `spawn`, not `fork`) | Added `persistent_workers=(num_workers > 0)` |
+| `train_first.py` / `train_second.py` | `num_workers=8` — spawn overhead outweighs the benefit on Windows | Reduced to `num_workers=4` |
+
+> Without these fixes, per-epoch overhead on Windows compounds to hours for a mini dataset. `persistent_workers` is the most impactful change.
+
 ## Inference
 
 Please refer to [inference.ipynb](https://github.com/yl4579/StyleTTS/blob/main/Demo/Inference_LJSpeech.ipynb) for details. 

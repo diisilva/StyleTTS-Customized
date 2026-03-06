@@ -1,0 +1,64 @@
+INFO:2026-03-05 23:25:42,758: Epoch [1/5], Step [10/62], Mel Loss: 0.74882, Adv Loss: 0.64536, Disc Loss: 1.39088, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-05 23:27:22,564: Epoch [1/5], Step [20/62], Mel Loss: 0.60536, Adv Loss: 0.70796, Disc Loss: 1.38625, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-05 23:28:57,115: Epoch [1/5], Step [30/62], Mel Loss: 0.55928, Adv Loss: 0.68651, Disc Loss: 1.38681, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-05 23:30:32,967: Epoch [1/5], Step [40/62], Mel Loss: 0.53517, Adv Loss: 0.69647, Disc Loss: 1.38595, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-05 23:32:20,103: Epoch [1/5], Step [50/62], Mel Loss: 0.51678, Adv Loss: 0.69176, Disc Loss: 1.38616, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-05 23:33:41,048: Epoch [1/5], Step [60/62], Mel Loss: 0.50278, Adv Loss: 0.69351, Disc Loss: 1.38552, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-05 23:34:26,174: Validation mel loss: 0.482
+INFO:2026-03-05 23:36:23,650: Epoch [2/5], Step [10/62], Mel Loss: 0.48737, Adv Loss: 0.69226, Disc Loss: 1.38617, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-05 23:38:16,125: Epoch [2/5], Step [20/62], Mel Loss: 0.47636, Adv Loss: 0.69138, Disc Loss: 1.38500, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-05 23:39:33,820: Epoch [2/5], Step [30/62], Mel Loss: 0.49003, Adv Loss: 0.69677, Disc Loss: 1.37836, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-05 23:41:21,358: Epoch [2/5], Step [40/62], Mel Loss: 0.47712, Adv Loss: 0.54436, Disc Loss: 1.38050, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-05 23:43:03,098: Epoch [2/5], Step [50/62], Mel Loss: 0.48311, Adv Loss: 0.69839, Disc Loss: 1.37334, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-05 23:44:56,250: Epoch [2/5], Step [60/62], Mel Loss: 0.46841, Adv Loss: 0.65647, Disc Loss: 1.38759, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-05 23:45:35,192: Validation mel loss: 0.480
+INFO:2026-03-05 23:47:35,236: Epoch [3/5], Step [10/62], Mel Loss: 0.48773, Adv Loss: 0.65565, Disc Loss: 1.40497, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-05 23:49:06,454: Epoch [3/5], Step [20/62], Mel Loss: 0.47991, Adv Loss: 0.75719, Disc Loss: 1.34644, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-05 23:51:01,739: Epoch [3/5], Step [30/62], Mel Loss: 0.46572, Adv Loss: 0.79928, Disc Loss: 1.37370, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-05 23:52:41,392: Epoch [3/5], Step [40/62], Mel Loss: 0.47202, Adv Loss: 0.69802, Disc Loss: 1.38654, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-05 23:54:22,091: Epoch [3/5], Step [50/62], Mel Loss: 0.46656, Adv Loss: 0.71169, Disc Loss: 1.35430, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-05 23:56:12,794: Epoch [3/5], Step [60/62], Mel Loss: 0.46475, Adv Loss: 0.77918, Disc Loss: 1.39071, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-05 23:56:48,943: Validation mel loss: 0.458
+INFO:2026-03-05 23:59:17,411: Epoch [4/5], Step [10/62], Mel Loss: 0.46042, Adv Loss: 0.59487, Disc Loss: 1.39942, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 00:09:44,017: Epoch [4/5], Step [20/62], Mel Loss: 0.46861, Adv Loss: 0.70668, Disc Loss: 1.36754, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 00:11:23,128: Epoch [4/5], Step [30/62], Mel Loss: 0.46354, Adv Loss: 0.69937, Disc Loss: 1.39021, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 00:13:03,736: Epoch [4/5], Step [40/62], Mel Loss: 0.46810, Adv Loss: 0.65364, Disc Loss: 1.39607, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 00:14:47,226: Epoch [4/5], Step [50/62], Mel Loss: 0.45768, Adv Loss: 0.65441, Disc Loss: 1.37599, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 00:16:54,196: Epoch [4/5], Step [60/62], Mel Loss: 0.44139, Adv Loss: 0.68017, Disc Loss: 1.37385, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 00:17:34,680: Validation mel loss: 0.436
+INFO:2026-03-06 00:19:29,630: Epoch [5/5], Step [10/62], Mel Loss: 0.45268, Adv Loss: 0.71514, Disc Loss: 1.34315, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 00:21:07,571: Epoch [5/5], Step [20/62], Mel Loss: 0.44547, Adv Loss: 0.69184, Disc Loss: 1.38452, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 00:22:54,059: Epoch [5/5], Step [30/62], Mel Loss: 0.43248, Adv Loss: 0.63976, Disc Loss: 1.37303, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 00:57:15,892: Epoch [1/5], Step [10/62], Mel Loss: 0.74042, Adv Loss: 0.65006, Disc Loss: 1.38975, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 00:58:26,410: Epoch [1/5], Step [20/62], Mel Loss: 0.59549, Adv Loss: 0.70503, Disc Loss: 1.38635, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 00:59:40,081: Epoch [1/5], Step [30/62], Mel Loss: 0.56672, Adv Loss: 0.68785, Disc Loss: 1.38596, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 01:01:09,545: Epoch [1/5], Step [40/62], Mel Loss: 0.53997, Adv Loss: 0.69511, Disc Loss: 1.38571, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 01:02:49,428: Epoch [1/5], Step [50/62], Mel Loss: 0.52633, Adv Loss: 0.69170, Disc Loss: 1.38533, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 01:04:26,924: Epoch [1/5], Step [60/62], Mel Loss: 0.50905, Adv Loss: 0.69207, Disc Loss: 1.38598, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 01:04:50,809: Validation mel loss: 0.488
+INFO:2026-03-06 01:06:40,169: Epoch [2/5], Step [10/62], Mel Loss: 0.49061, Adv Loss: 0.69409, Disc Loss: 1.37966, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 09:31:34,483: Epoch [2/5], Step [20/62], Mel Loss: 0.48919, Adv Loss: 0.58236, Disc Loss: 1.37757, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 09:33:10,636: Epoch [2/5], Step [30/62], Mel Loss: 0.49254, Adv Loss: 0.72571, Disc Loss: 1.33240, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 09:34:51,023: Epoch [2/5], Step [40/62], Mel Loss: 0.49629, Adv Loss: 0.70485, Disc Loss: 1.36450, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 09:36:18,857: Epoch [2/5], Step [50/62], Mel Loss: 0.49697, Adv Loss: 0.74080, Disc Loss: 1.38344, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 09:38:04,629: Epoch [2/5], Step [60/62], Mel Loss: 0.49482, Adv Loss: 0.74882, Disc Loss: 1.35227, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 09:38:41,335: Validation mel loss: 0.494
+INFO:2026-03-06 09:40:50,795: Epoch [3/5], Step [10/62], Mel Loss: 0.48901, Adv Loss: 0.61896, Disc Loss: 1.41618, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 09:42:19,972: Epoch [3/5], Step [20/62], Mel Loss: 0.48318, Adv Loss: 0.62592, Disc Loss: 1.39803, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 11:45:13,591: Epoch [3/5], Step [30/62], Mel Loss: 0.47634, Adv Loss: 0.74140, Disc Loss: 1.38354, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 11:46:45,094: Epoch [3/5], Step [40/62], Mel Loss: 0.48679, Adv Loss: 0.68508, Disc Loss: 1.38323, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 11:47:59,189: Epoch [3/5], Step [50/62], Mel Loss: 0.48620, Adv Loss: 0.72268, Disc Loss: 1.35783, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 11:49:30,137: Epoch [3/5], Step [60/62], Mel Loss: 0.47034, Adv Loss: 0.74501, Disc Loss: 1.39070, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 11:49:59,467: Validation mel loss: 0.471
+INFO:2026-03-06 11:52:00,335: Epoch [4/5], Step [10/62], Mel Loss: 0.47225, Adv Loss: 0.69972, Disc Loss: 1.37692, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 11:53:38,765: Epoch [4/5], Step [20/62], Mel Loss: 0.46756, Adv Loss: 0.72825, Disc Loss: 1.38010, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 12:06:53,470: Epoch [1/5], Step [10/62], Mel Loss: 0.73885, Adv Loss: 0.66589, Disc Loss: 1.38858, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 12:08:30,528: Epoch [1/5], Step [20/62], Mel Loss: 0.59483, Adv Loss: 0.69251, Disc Loss: 1.38606, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 12:10:04,536: Epoch [1/5], Step [30/62], Mel Loss: 0.55700, Adv Loss: 0.69454, Disc Loss: 1.38637, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 12:11:30,845: Epoch [1/5], Step [40/62], Mel Loss: 0.53881, Adv Loss: 0.69063, Disc Loss: 1.38609, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 12:13:23,604: Epoch [1/5], Step [50/62], Mel Loss: 0.51940, Adv Loss: 0.69457, Disc Loss: 1.38546, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 12:15:29,546: Epoch [1/5], Step [60/62], Mel Loss: 0.49214, Adv Loss: 0.69402, Disc Loss: 1.38609, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 12:16:13,095: Validation mel loss: 0.478
+INFO:2026-03-06 12:18:00,142: Epoch [2/5], Step [10/62], Mel Loss: 0.48663, Adv Loss: 0.69312, Disc Loss: 1.38308, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 12:19:55,541: Epoch [2/5], Step [20/62], Mel Loss: 0.48247, Adv Loss: 0.68836, Disc Loss: 1.37614, Mono Loss: 0.00000, S2S Loss: 0.00000
+INFO:2026-03-06 12:22:17,055: Epoch [2/5], Step [30/62], Mel Loss: 0.48156, Adv Loss: 0.74523, Disc Loss: 1.36711, Mono Loss: 0.00000, S2S Loss: 0.00000

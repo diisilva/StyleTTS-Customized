@@ -78,7 +78,7 @@ def main(config_path, device):
 
     train_dataloader = build_dataloader(train_list,
                                         batch_size=batch_size,
-                                        num_workers=8,
+                                        num_workers=4,  # 4 is optimal on Windows (spawn overhead vs throughput)
                                         dataset_config={},
                                         device=device)
 

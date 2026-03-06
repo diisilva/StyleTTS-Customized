@@ -79,5 +79,5 @@ def get_image(arrs):
     fig = plt.figure()
     ax = plt.gca()
     ax.imshow(arrs)
-
+    plt.close(fig)  # prevent matplotlib memory leak on Windows
     return fig

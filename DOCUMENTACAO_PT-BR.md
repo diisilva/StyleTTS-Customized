@@ -84,6 +84,40 @@ Acesse **http://localhost:6006** no navegador.
 
 > **Alerta:** se qualquer perda virar `NaN` ou subir indefinidamente acima de 100, o treino está instável. Reduza o `batch_size` ou o `lr` no `config.yml`.
 
+### Otimizações de Performance no Windows
+
+Três correções críticas aplicadas a este repositório. Sem elas, cada época pode levar horas em vez de minutos no Windows:
+
+| Arquivo | Problema | Correção |
+|---|---|---|
+| `utils.py` | `get_image()` criava figuras matplotlib sem `plt.close(fig)` → vazamento de RAM a cada época | Adicionado `plt.close(fig)` antes do `return` |
+| `meldataset.py` | `DataLoader` sem `persistent_workers=True` → 4 workers destruídos e recriados do zero a cada época (Windows usa `spawn`, não `fork`) | Adicionado `persistent_workers=(num_workers > 0)` |
+| `train_first.py` / `train_second.py` | `num_workers=8` excessivo no Windows — overhead de spawn supera o ganho | Reduzido para `num_workers=4` |
+
+> **Por que isso importa no Windows:** diferente do Linux (que usa `fork` para clonar processos instantaneamente), o Windows precisa inicializar cada worker do zero com `spawn`. Com 8 workers e sem `persistent_workers`, o overhead de reinicialização por época chegava a dezenas de minutos — mais tempo do que o próprio treinamento.
+
+### Desativar o sleep do Windows durante o treino
+
+O treino completo leva horas. Se o Windows suspender o PC no meio (modo sleep/hibernação), o processo Python é interrompido e o progresso da época atual é perdido. Isso ocorreu em testes reais: o step 10 da época 2 ficou parado das 01:06 até as 09:31 — um gap de 8h24min — porque o PC dormiu.
+
+Antes de iniciar o treino, execute no PowerShell **como Administrador**:
+
+```powershell
+# Desativa o sleep quando conectado à tomada (0 = nunca dormir)
+powercfg /change standby-timeout-ac 0
+```
+
+Após o treino terminar, restaure o valor padrão:
+
+```powershell
+# Restaura sleep para 30 minutos (padrão Windows)
+powercfg /change standby-timeout-ac 30
+```
+
+> **Por que só `ac`?** O parâmetro `-ac` (alternating current) afeta o comportamento conectado à tomada. Se quiser desativar também na bateria, use `-dc` com o mesmo valor — mas não é recomendado em notebooks, pois pode descarregar a bateria se o treino rodar sem supervisão.
+
+---
+
 ### Após o Estágio 2 terminar
 
 Os checkpoints ficam em `Models/LJSpeech/epoch_2nd_XXXXX.pth`. Abra o TensorBoard e identifique o checkpoint com o menor `mel_loss` de validação — **não necessariamente o último** é o melhor.
@@ -249,7 +283,7 @@ python train_second.py --config_path ./Configs/config.yml --device cpu
 - `TextCleaner`: converte texto/fonemas em sequências de índices inteiros.
 - `preprocess()`: converte waveform em mel-espectrograma normalizado (log-mel, normalizado com média -4 e desvio padrão 4).
 - `FilePathDataset`: implementa o `Dataset` do PyTorch. Lê arquivos `.wav` com `soundfile`, reamostre se necessário, extrai mel-espectrograma, e retorna `(texto, comprimento_texto, mel, comprimento_mel)`.
-- `build_dataloader()`: cria `DataLoader` do PyTorch para uso no treinamento.
+- `build_dataloader()`: cria `DataLoader` do PyTorch com `persistent_workers=True` (mantém os workers vivos entre épocas — essencial no Windows) e `pin_memory=True` para GPU.
 
 **Parâmetros de mel-espectrograma:**
 - Sample rate: 24.000 Hz
@@ -283,7 +317,7 @@ LJSpeech-1.1/wavs/LJ050-0234.wav|ɪt hɐz jˈuːzd ˈʌðɚ tɹˈɛʒɚɹi...|0
 | `adv_loss(logits, target)` | Calcula a perda adversarial (binary cross-entropy com logits, com clamp para evitar NaN). |
 | `r1_reg(d_out, x_in)` | Regularização R1 (penalidade de gradiente zero-centrada) para o discriminador. |
 | `log_norm(x)` | Calcula a norma logarítmica do mel-espectrograma para a perda de norma do estágio 2. |
-| `get_image(arrs)` | Gera figura matplotlib de uma matriz 2D (usada para visualização no TensorBoard). |
+| `get_image(arrs)` | Gera figura matplotlib de uma matriz 2D (usada para visualização no TensorBoard). Chama `plt.close(fig)` após uso para evitar vazamento de memória. |
 
 ---
 
@@ -444,19 +478,15 @@ log_interval: 10    # Logar métricas a cada N iterações
 device: "cuda"      # Dispositivo padrão (cuda ou cpu) — sobrescrito por --device na linha de comando
 multigpu: false     # Suporte a múltiplas GPUs (DataParallel)
 
-# Épocas
+# Épocas (treino completo)
 epochs_1st: 200     # Épocas do estágio 1
 epochs_2nd: 100     # Épocas do estágio 2
-batch_size: 32      # Tamanho do batch
+batch_size: 16      # Tamanho do batch
 
-# Checkpoint pré-treinado
-pretrained_model: ""              # Caminho para modelo pré-treinado (opcional)
-second_stage_load_pretrained: false
-load_only_params: false
-
-# Dados
+# Dados (treino completo)
 train_data: "Data/train_list.txt"
 val_data: "Data/val_list.txt"
+# Para mini-teste, descomente os blocos comentados no config.yml
 
 # Modelos auxiliares
 F0_path: "Utils/JDC/bst.t7"
